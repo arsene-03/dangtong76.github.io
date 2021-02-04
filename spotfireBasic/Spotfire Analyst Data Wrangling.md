@@ -97,7 +97,7 @@ Spotfire 하단의 [ + ] 버튼을 클릭해서 새로운 페이지를 만들어
 
 dataSet 폴더에서 **OfficeSupplies.txt** 파일을 로딩 합니다.
 
-<kbd><a href="https://www.dropbox.com/s/q58r01vmcnaigvk/OfficeSupplies.txt?dl=1">데이터셋 다운로드 링크 클릭</a></kbd>
+<kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/OfficeSupplies.txt" download>데이터셋 다운로드 링크 클릭</a></kbd>
 
 #### 1.4.2 OVER 함수를 이용한 컬럼 추가
 
@@ -242,7 +242,7 @@ Sum([Sales]) THEN Avg([Value]) OVER (LastPeriods(3,[Axis.X])) THEN If(Count() OV
 
 DataSet 폴더에서 **OderDetails.xls** 파일을 로딩 합니다.
 
-<kbd> <a href="https://www.dropbox.com/s/q3ao4rfqscylw76/OrderDetails.xls?dl=1">데이터셋 다운로드 클릭</a></kbd>
+<kbd> <a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/OrderDetails.xls" download>데이터셋 다운로드 클릭</a></kbd>
 
 #### 2.2.2 컬럼 교체(replace)
 
@@ -266,7 +266,7 @@ DataSet 폴더에서 **OderDetails.xls** 파일을 로딩 합니다.
 
 DataSet 폴더에서 **Quarterly Sales Forecast.xlsx** 를 로딩 합니다.
 
-<kbd><a href="https://www.dropbox.com/s/bqt8nwr51gv2krc/Quarterly%20Sales%20Forecast%20-%20Sheet1-pivotted.csv?dl=1"> 데이터셋 다운로드 클릭</a></kbd>
+<kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/Quarterly_Sales_Forecast.xlsx" download> 데이터셋 다운로드 클릭</a></kbd>
 
 #### 2.3.2 unpivot 수행 하기
 
@@ -293,6 +293,8 @@ DataSet 폴더에서 **Quarterly Sales Forecast.xlsx** 를 로딩 합니다.
 #### 2.3.1 데이터 로딩
 
 DataSet 폴더에서 **EPL_footBall_dataSet.csv** 파일을 로딩 합니다. EPL 선수들의 골, 패스,반칙,포지션 등의 선수 정보가 기록된 파일 입니다.
+
+<kbd> <a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/EPL_footBall_dataSet.csv" download>데이터셋 다운로드 클릭</a></kbd>
 
 #### 2.3.1 Pivot 변환 수행
 
@@ -324,6 +326,8 @@ DataSet 폴더에서 **EPL_footBall_dataSet.csv** 파일을 로딩 합니다. EP
 #### 연습 문제 1
 
 DataSet 폴더에서 "Pivot DataTable.txt " 를 로딩 하세요
+
+<kbd> <a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/Pivot_Data_Table.txt" download>데이터셋 다운로드 클릭</a></kbd>
 
 #### 연습 문제2
 
@@ -359,7 +363,7 @@ DataSet 폴더에서 "Pivot DataTable.txt " 를 로딩 하세요
 
 dataSet 폴더에서 **Race Car - Historical Race Data (static)_mod.csv** 파일을 로딩 합니다.
 
-<kbd><a href="https://www.dropbox.com/s/paqdis8c4qud3be/Race%20Car%20-%20Historical%20Race%20Data%20%28static%29_mod.xls?dl=1">데이터 다운로드 링크 클릭</a></kbd>
+<kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/Race_Car.xls" download>데이터 다운로드 링크 클릭</a></kbd>
 
 #### 3.2.2 히트맵 불러오기
 
@@ -603,6 +607,8 @@ Spotfire 하단의 페이지 목록에서 **신규 페이지**를 추가해 주�
 
 타이타닉 데이터셋 결측 시각화 하되, 수치형 과 범주형 모두 대상에 포함 하세요
 
+<kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/titanic.csv" download>데이터 다운로드 링크 클릭</a></kbd>
+
 > Properties 창을 활용 하세요
 
 ##### 연습문제 2
@@ -637,9 +643,9 @@ DataSet 폴더에서 **TimeGender.csv**, **TimeAge.csv**, **TimeProvince.csv** �
 
 | 데이터           | 다운로드 링크                                                |
 | ---------------- | ------------------------------------------------------------ |
-| TimeGender.csv   | <kbd><a href="https://www.dropbox.com/s/xn2d1hlvhn6i2x6/TimeGender.csv?dl=1"> 데이터셋 다운로드</a></kbd> |
-| TimeAge.csv      | <kbd><a href="https://www.dropbox.com/s/tp0x3fbkf4yw2j5/TimeAge.csv?dl=1"> 데이터셋 다운로드</a></kbd> |
-| TimeProvince.csv | <kbd><a href="https://www.dropbox.com/s/i6rj36o5my1xpak/TimeProvince.csv?dl=1"> 데이터셋 다운로드</a></kbd> |
+| TimeGender.csv   | <kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/TimeGender.csv" download> 데이터셋 다운로드</a></kbd> |
+| TimeAge.csv      | <kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/TimeAge.csv" download> 데이터셋 다운로드</a></kbd> |
+| TimeProvince.csv | <kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/TimeProvince.csv" download> 데이터셋 다운로드</a></kbd> |
 
 #### 4.1.2 테이블 차트 만들기
 
@@ -734,7 +740,11 @@ Spotfire 메뉴에서 <kbd> Data </kbd>→<kbd>Data Table Properties</kbd> 를 �
 
 #### 연습문제 1 
 
-DataSet 폴더에서 영업점테이블.xlsx 와 전체거래테이블.xlsx 를 로딩해서 데이터의 관계를 정의 하고 시각화 해봅니다.
+DataSet 폴더에서 영업점 테이블(relation_region_sales.xlsx) 와 전체거래 테이블(relation_whole_sales.xlsx) 를 로딩해서 데이터의 관계를 정의 하고 시각화 해봅니다.
+
+<kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/relation_region_sales.xlsx" download>데이터 다운로드 링크1 클릭</a></kbd>
+
+<kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/relation_whole_sales.xlsx" download>데이터 다운로드 링크2 클릭</a></kbd>
 
 #### 연습문제 2
 
