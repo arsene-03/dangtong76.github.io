@@ -17,7 +17,7 @@
 
 dataSet 폴더에서 **OfficeSupplies.txt** 파일을 로딩 합니다.
 
-<kbd><a href="https://www.dropbox.com/s/q58r01vmcnaigvk/OfficeSupplies.txt?dl=1">데이터셋 다운로드 링크 클릭</a></kbd>
+<kbd><a href="https://dangtong76.github.io/spotfireBasic/dataSet/dataWrangling_data/OfficeSupplies.txt" download>데이터셋 다운로드 링크 클릭</a></kbd>
 
 #### 1.2.2 계산된 컬럼
 
