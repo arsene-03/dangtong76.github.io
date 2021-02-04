@@ -294,8 +294,6 @@ DataSet 폴더에서 **Quarterly Sales Forecast.xlsx** 를 로딩 합니다.
 
 DataSet 폴더에서 **EPL_footBall_dataSet.csv** 파일을 로딩 합니다. EPL 선수들의 골, 패스,반칙,포지션 등의 선수 정보가 기록된 파일 입니다.
 
-
-
 #### 2.3.1 Pivot 변환 수행
 
 **Data Canvas** 로딩데이터와 최종 데이터 사이의  [ + ] 를 클릭 한뒤 **Add Transformation** 을 클릭 합니다. 
@@ -313,13 +311,13 @@ DataSet 폴더에서 **EPL_footBall_dataSet.csv** 파일을 로딩 합니다. EP
 | Values and aggregation methods | Avg(Age)    |
 | Column naming pattern          | %C 평균나이 |
 
-![image-20210203100725490](img/image-20210203100725490.png)
+![image-20210205070402778](img/image-20210205070402778.png)
 
 데이터의 모양은 데이터 Canvas 에서 바로 확인 가능 합니다. 
 
-![image-20210203100840041](img/image-20210203100840041.png)
+![image-20210205070529244](img/image-20210205070529244.png)
 
-데이터가 원래의 모양데로 돌아 왔습니다.
+이처럼 Pivot 을 수행 하게 되면 원하는 관점으로 데이터를 집계 할 수 있습니다.
 
 ### 2.4 연습문제
 
@@ -741,6 +739,4 @@ DataSet 폴더에서 영업점테이블.xlsx 와 전체거래테이블.xlsx 를 
 #### 연습문제 2
 
 데이터를 병합 하는 것과 관계를 정의하는 것 중에 장/단점에 대해 고민해 봅시다.
-
-
 
