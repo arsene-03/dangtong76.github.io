@@ -1,0 +1,2766 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=no"
+    />
+    <meta
+      name="description"
+      content="Spotfire Analyst 데이터 시각화 첫걸음 본 고재는 Spotfire 10.10.2 기준으로 2020년 12월 에 작성 되었습니다. 작성자 : 변현창 bhyuncha@tibco.com [toc] 1.시작하기 1.1 Spotfire 접속하기 1.2 화면 둘..."
+    />
+    <meta name="revised" content="ff840bb3691476618fd914e6d360a95225fca8fe" />
+    <meta name="author" content="dangtong76" />
+    <meta name="generator" content="jekyll-rtd-theme v2.0.10" />
+    <meta name="theme-color" content="#2980b9" />
+    <title>Spotfire Analyst 데이터 시각화 첫걸음 · 당통의 블로그</title>
+    <meta
+      name="twitter:title"
+      content="Spotfire Analyst 데이터 시각화 첫걸음 · 당통의 블로그"
+    />
+    <meta
+      name="twitter:description"
+      content="Spotfire Analyst 데이터 시각화 첫걸음 본 고재는 Spotfire 10.10.2 기준으로 2020년 12월 에 작성 되었습니다. 작성자 : 변현창 bhyuncha@tibco.com [toc] 1.시작하기 1.1 Spotfire 접속하기 1.2 화면 둘..."
+    />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@dangtong76" />
+    <meta
+      name="twitter:url"
+      content="http://localhost:4000/spotfireBasic/Spotfire%20Analyst%20User%20Guide.html"
+    />
+    <meta name="twitter:creator" content="@jekyll-rtd-theme v2.0.10" />
+    <meta
+      property="og:title"
+      content="Spotfire Analyst 데이터 시각화 첫걸음 · 당통의 블로그"
+    />
+    <meta
+      property="og:description"
+      content="Spotfire Analyst 데이터 시각화 첫걸음 본 고재는 Spotfire 10.10.2 기준으로 2020년 12월 에 작성 되었습니다. 작성자 : 변현창 bhyuncha@tibco.com [toc] 1.시작하기 1.1 Spotfire 접속하기 1.2 화면 둘..."
+    />
+    <meta property="og:locale" content="en" />
+    <meta
+      property="og:url"
+      content="http://localhost:4000/spotfireBasic/Spotfire%20Analyst%20User%20Guide.html"
+    />
+    <meta property="og:type" content="article" />
+    <meta property="article:author" content="dangtong76" />
+    <meta
+      property="article:published_time"
+      content="2021-01-07T17:30:40+09:00"
+    />
+    <meta
+      property="article:modified_time"
+      content="2021-01-08T00:15:42+09:00"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "http://localhost:4000/spotfireBasic/Spotfire%20Analyst%20User%20Guide.html"
+        },
+        "headline": "Spotfire Analyst 데이터 시각화 첫걸음 · 당통의 블로그",
+        "image": [],
+        "author": { "@type": "Person", "name": "dangtong76" },
+        "datePublished": "2021-01-07T17:30:40+09:00",
+        "dateModified": "2021-01-08T00:15:42+09:00",
+        "publisher": {
+          "@type": "User",
+          "name": "dangtong76",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avatars0.githubusercontent.com/u/24955731?v=4"
+          }
+        },
+        "description": "Spotfire Analyst 데이터 시각화 첫걸음 본 고재는 Spotfire 10.10.2 기준으로 2020년 12월 에 작성 되었습니다. 작성자 : 변현창 bhyuncha@tibco.com [toc] 1.시작하기 1.1 Spotfire 접속하기 1.2 화면 둘..."
+      }
+    </script>
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
+    <link
+      rel="canonical"
+      href="http://localhost:4000/spotfireBasic/Spotfire%20Analyst%20User%20Guide.html"
+    />
+    <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/images/favicon-16x16.png"
+      sizes="16x16"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/images/favicon-32x32.png"
+      sizes="32x32"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/images/favicon-96x96.png"
+      sizes="96x96"
+    />
+    <link rel="mask-icon" href="/assets/images/favicon.svg" color="#2980b9" />
+    <link
+      rel="apple-touch-icon"
+      href="/assets/images/apple-touch-icon-300x300.jpg"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/rundocs/jekyll-rtd-theme@2.0.10/assets/css/theme.min.css"
+    />
+    <script>
+      window.ui = {
+        title: "당통의 블로그",
+        baseurl: "",
+        i18n: {
+          search_results: "Search Results",
+          search_results_found:
+            "Search finished, found # page(s) matching the search query.",
+          search_results_not_found:
+            "Your search did not match any documents, please make sure that all characters are spelled correctly!",
+        },
+      };
+    </script>
+  </head>
+  <body class="container">
+    <div class="sidebar-wrap overflow-hidden">
+      <div class="sidebar height-full overflow-y-scroll overflow-x-hidden">
+        <div class="header d-flex flex-column p-3 text-center">
+          <div class="title pb-1">
+            <a
+              class="h4 no-underline py-1 px-2 rounded-1"
+              href="/"
+              title="다양한 기술관련 정리 모음"
+            >
+              <i class="fa fa-home"></i> 당통의 블로그
+            </a>
+          </div>
+          <span class="version"></span>
+          <form
+            class="search pt-2"
+            action="/search.html"
+            method="get"
+            autocomplete="off"
+          >
+            <input
+              class="form-control input-block input-sm"
+              type="text"
+              name="q"
+              placeholder="Search docs..."
+            />
+          </form>
+        </div>
+        <div
+          class="toctree py-2"
+          data-spy="affix"
+          role="navigation"
+          aria-label="main navigation"
+        >
+          <ul></ul>
+          <a
+            class="caption d-block text-uppercase no-wrap px-2 py-0"
+            href="/kubernetes/"
+          >
+            쿠버네티스 교재
+          </a>
+          <ul>
+            <li class="toc level-1" data-sort="" data-level="1">
+              <a
+                class="d-flex flex-items-baseline"
+                href="/kubernetes/Learning-kubernetes.html"
+                >Learning Kubernetes</a
+              >
+            </li>
+          </ul>
+          <a
+            class="caption d-block text-uppercase no-wrap px-2 py-0"
+            href="/spotfireBasic/"
+          >
+            Spotfire 교재
+          </a>
+          <ul>
+            <li class="toc level-1 current" data-sort="" data-level="1">
+              <a
+                class="d-flex flex-items-baseline current"
+                href="/spotfireBasic/Spotfire%20Analyst%20User%20Guide.html"
+                >Spotfire Analyst 데이터 시각화 첫걸음</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="content-wrap">
+      <div
+        class="header d-flex flex-justify-between p-2 hide-lg hide-xl"
+        aria-label="top navigation"
+      >
+        <button
+          id="toggle"
+          aria-label="Toggle menu"
+          class="btn-octicon p-2 m-0 text-white"
+          type="button"
+        >
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="title flex-1 d-flex flex-justify-center">
+          <a class="h4 no-underline py-1 px-2 rounded-1" href="/"
+            >당통의 블로그</a
+          >
+        </div>
+      </div>
+      <div class="content p-3 p-sm-5">
+        <div class="navigation-top d-flex flex-justify-between">
+          <ul
+            class="breadcrumb"
+            role="navigation"
+            aria-label="breadcrumbs navigation"
+          >
+            <li class="breadcrumb-item">
+              <a class="no-underline" href="/" title="/">
+                <i class="fa fa-home"></i>
+              </a>
+            </li>
+            <li class="breadcrumb-item">
+              <a href="/spotfireBasic/">spotfireBasic</a>
+            </li>
+            <li class="breadcrumb-item" aria-current="page">
+              Spotfire Analyst User Guide.md
+            </li>
+          </ul>
+          <a
+            class="edit"
+            href="https://github.com/dangtong76/dangtong76.github.io/edit/gh-pages/spotfireBasic/Spotfire%20Analyst%20User%20Guide.md"
+            title="Edit on GitHub"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <i class="fa fa-edit"></i>
+          </a>
+        </div>
+        <hr />
+        <div
+          role="main"
+          itemscope="itemscope"
+          itemtype="https://schema.org/Article"
+        >
+          <div class="markdown-body" itemprop="articleBody">
+            <h1 id="spotfire-analyst-데이터-시각화-첫걸음">
+              Spotfire Analyst 데이터 시각화 첫걸음
+            </h1>
+            <p>
+              본 고재는 Spotfire 10.10.2 기준으로 2020년 12월 에 작성
+              되었습니다.
+            </p>
+            <p>작성자 : 변현창 bhyuncha@tibco.com</p>
+            <p>[toc]</p>
+            <h2 id="1시작하기">1.시작하기</h2>
+            <h3 id="11-spotfire-접속하기">1.1 Spotfire 접속하기</h3>
+            <h3 id="12-화면-둘러보기">1.2 화면 둘러보기</h3>
+            <h4 id="시작-화면">시작 화면</h4>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/start-1.png"
+                alt="Image of Yaktocat"
+              />
+            </p>
+            <h2 id="2-데이터-로딩">2. 데이터 로딩</h2>
+            <h3 id="데이터를-로딩하는-3가지-방법">
+              데이터를 로딩하는 3가지 방법
+            </h3>
+            <ul>
+              <li>
+                Drag &amp; Drop : 내 컴퓨터에 있는 파일을 Spotfire 영역 내로
+                끌어당겨 데이터를 로드 합니다.
+              </li>
+              <li>
+                <kbd>File</kbd>  → <kbd>Open</kbd> : 메뉴 바를 통해 데이터를
+                로드 합니다.
+              </li>
+              <li>
+                Clipborad : 엑셀 이나 메모장의 데이터를 클립보드에 복사 (
+                <kbd>Ctrl + C</kbd> ) 하여 데이터를 로드하는 방법
+              </li>
+            </ul>
+            <h2 id="3-시각화-기본">3. 시각화 기본</h2>
+            <h3 id="31-table-chart">3.1 Table Chart</h3>
+            <h4 id="311-데이터-로딩">3.1.1 데이터 로딩</h4>
+            <p>dataSet 폴더에서 OrderDetails.xls 파일을 로딩 합니다.</p>
+            <h4 id="312-차트생성">3.1.2 차트생성</h4>
+            <p>시각화에서 테이블 아이콘을 드래그 해서 옮겨 놓습니다.</p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-1.png"
+                alt=""
+              />
+            </p>
+            <h4 id="313-컬럼순서-변경-및-소팅">3.1.3 컬럼순서 변경 및 소팅</h4>
+            <p>
+              <strong>CUSTOMERID</strong> (컬럼명) 을 클릭 하면 팝업 창이 뜨고
+              <kbd>Move First</kbd> 를 클릭해서 컬럼을 가장 앞쪽으로 이동
+              시킵니다.
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-2.png"
+                alt=""
+              />
+            </p>
+            <h4 id="314-정렬하기">3.1.4 정렬하기</h4>
+            <p>
+              <strong>CUSTOMERID</strong> 를 누르면 팝업 창이 뜨게되고 오름차순
+              정렬 아이콘을 클릭 합니다. 컬럼이름 옆에 세모아이콘으로 오름차순
+              혹은 내림차순 정렬인지 확인 할 수 있습니다.
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-3.png"
+                alt=""
+              />
+            </p>
+            <h4 id="315-컬럼-헤더-크기-조정">3.1.5 컬럼 헤더 크기 조정</h4>
+            <p>
+              <strong>Properties(속성)</strong> 에서
+              <kbd>Appearance</kbd> 항목에서
+              <strong>Header row height</strong> 항목에 <strong>3</strong>을
+              입력 합니다
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-4.png"
+                alt=""
+              />
+            </p>
+            <p>
+              컬럼 헤더의 높이를 조정 하면 컬럼의 수가 많을 때 한화면에 많은
+              컬럼을 볼수 있도록 해주는 효과가 있습니다. 아래 그림과 같이 컬럼
+              이름이 2~3개 행으로 나뉘어 컬럼이 좁아지게 됩니다.
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-5.png"
+                alt=""
+              />
+            </p>
+            <h4 id="316-열고정">3.1.6 열고정</h4>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-6.png"
+                alt=""
+              />
+            </p>
+            <h4 id="317-테이블에-이미지-사용하기">
+              3.1.7 테이블에 이미지 사용하기
+            </h4>
+            <p>
+              <strong>Properties(속성창)</strong> 에서 <kbd>Columns</kbd> →
+              <kbd>Selected columns</kbd> 에서
+              <strong>CUSTOMER GENDER</strong> 를 선택 합니다.
+              <strong>Renderer</strong> 에서 <kbd>image from URL</kbd> 을 선택
+              하면 팝업 창이 뜨게 됩니다.
+            </p>
+            <p>
+              이미지 파일이 존재하는 폴더를 경로에 입력합니다. 중요한것은 파일의
+              이름이 <strong>CUSTOMER GENDER</strong> 의 값 과 이름이 동일해야
+              합니다. 따라서 파일명은 <strong>{$}</strong> 로 변수 처리 합니다.
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-7.png"
+                alt=""
+              />
+            </p>
+            <p>
+              Allowed URIs 에 허용된 URI 가 없는 것을 확인 할 수 있습니다.
+              보안상의 이유로 허용된 URI 를 등록(whitelist) 해야 이미지 ACCESS
+              가 가능합니다. 아래는 Administrator 가 접근 가능한 URI
+              리스트(whitelist) 를 설정 하는 방법 입니다. 일반 적으로 기업내에
+              HTTP 로 접근 가능한 디렉토리를 서비스하고 해당 장소에 모든
+              이미지를 올려 두면 좋습니다.
+            </p>
+            <ul>
+              <li>
+                Administrator의 Whitelist 설정 방법 : <kbd>Tools</kbd>→<kbd
+                  >Administration manager</kbd
+                >
+                를 클릭해서 관리자 화면으로 들어갑니다.
+              </li>
+              <li>
+                <kbd>Perference</kbd> 탭에서 URI 를 허용할 그룹을 선택 합니다.
+                (화면에서는 Everyone 그룹)
+              </li>
+              <li>
+                <kbd>Applications</kbd>→<kbd>Application Preference</kbd>→<kbd
+                  >Whitelist Allowed URIs</kbd
+                >
+                에 허용하는 URI 를 "," 를 구분자로 하여 여러개를 입력 할수
+                있습니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-8.png"
+                alt=""
+              />
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-9.png"
+                alt=""
+              />
+            </p>
+            <blockquote>
+              <p>
+                기본적으로 Spotfire Desktop 은 서버 로그인이 필요 없기 때문에
+                <Spotfire 설치="" 폴더=""
+                  >/modules/Spotfire DXP Forms\_\* 디렉토리 밑의
+                  Desktop_Preference_WhitelistForSecuritySensitiveUris 셋팅에
+                  Value 에 허용할 URI 리스트를 입력하면 됩니다. (재 시작
+                  필요)</Spotfire
+                >
+              </p>
+            </blockquote>
+            <pre><code class="language-{xml}">[....]
+      &lt;setting name="Desktop_Preference_WhitelistForSecuritySensitiveUris" serializeAs="String"&gt;
+아래 Value 항목에 ',' 을 기준으로 여러 개를 입력하면 됩니다.        &lt;value&gt;http://example.com/some/very/special/deep/path/,http://*.example2.com/,http://*.example3.com/some/
+path/&lt;/value&gt;
+      &lt;/setting&gt;
+    &lt;/Spotfire.Dxp.Application.Properties.Settings&gt;
+  &lt;/applicationSettings&gt;
+  &lt;startup&gt;&lt;supportedRuntime version="v4.0"
+sku=".NETFramework,Version=v4.5"/&gt;&lt;/startup&gt;
+&lt;/configuration&gt;
+</code></pre>
+            <h4 id="318-결과-화면">3.1.8 결과 화면</h4>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-table-10.png"
+                alt=""
+              />
+            </p>
+            <h3 id="32-bar-chart-막대-그래프">3.2 Bar Chart (막대 그래프)</h3>
+            <h4 id="321-데이터-로딩">3.2.1 데이터 로딩</h4>
+            <p>dataSet 폴더에서 OrderDetails.xls 파일을 로딩 합니다.</p>
+            <h4 id="321-검색으로-부터-그래프-그리기">
+              3.2.1 검색으로 부터 그래프 그리기
+            </h4>
+            <p>
+              화면 우측 상단의 검색 아이콘을 클릭 하거나 <kbd>Ctrl </kbd>+<kbd
+                >F</kbd
+              >
+              를 누르게 되면 아래와 같이 검색 화면이 보이게 됩니다. Spotfire
+              에서는 변수, 그래프, 페이지, 테이블 등 다양한 영역에 대해 검색을
+              동시에 진행하고 결과를 바로 보엽 줍니다.
+            </p>
+            <ul>
+              <li>
+                변수명인 <strong>Product Category 2</strong> 를 입력합니다.
+              </li>
+              <li>
+                검색 결과로 나온 (View Row Count per RRODUCT CATEGORY 2)
+                그래프를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-1.png" alt="" />
+            </p>
+            <h4 id="322-stacked-bar-chart-누적-막대그래프-만들기">
+              3.2.2 Stacked Bar Chart (누적 막대그래프) 만들기
+            </h4>
+            <ul>
+              <li>
+                <strong>Data in Analysis</strong> 에서
+                <strong>ORDER STATUS</strong> 를 오른쪽 시각화 영역으로 아래
+                그림과 같이 Drag and Drop 을 수행 합니다.
+              </li>
+              <li><strong>Colored by ORDER STATUS</strong>를 선택 합니다.</li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-2.gif" alt="" />
+            </p>
+            <h4 id="323-horizontal-bar-chart-수평막대차트-만들기">
+              3.2.3 Horizontal Bar Chart (수평막대차트) 만들기
+            </h4>
+            <p>
+              시각화 영역에서 오른쪽 마우스 버튼을 클릭 한뒤
+              <kbd>**Horizontal Bars**</kbd> 및
+              <kbd>**Side-by-Side Bars**</kbd>를 클릭 합니다.
+            </p>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-3.png" alt="" />
+            </p>
+            <h4 id="324-100-stacked-bar-chart-만들기">
+              3.2.4 100% Stacked Bar Chart 만들기
+            </h4>
+            <ul>
+              <li>신규 페이지를 추가로 생성 합니다.</li>
+              <li>
+                <strong>Data in Analysis</strong> 에서
+                <strong>ORDER AMOUNT</strong> 와
+                <strong>PRODUCT CATEGORY 2</strong> 를 선택 하면 그래프 추천
+                항목에서
+                <strong>View ORDER AMOUNT per PRODUCT CATEGORY 2</strong>
+                시각화를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-4.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                오늘쪽 상단의 범래(Legend) 에서 <strong>Color by</strong> 의
+                <strong>None</strong> 을 클릭하게 한뒤
+                <strong>ORDER STATUS</strong> 를 클릭 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-6.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                마우스 오른쪽 버튼을 클릭해서
+                <strong>100% Stacked Bars</strong> 를 클릭 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-7.png" alt="" />
+            </p>
+            <p>-</p>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-8.png" alt="" />
+            </p>
+            <h4 id="325-histogram-차트">3.2.5 Histogram 차트</h4>
+            <ul>
+              <li>신규 페이지를 하나 더 생성 합니다.</li>
+              <li>
+                <strong>시각화 메뉴</strong>에서 **Bar Chart ** 를 드래그 해서
+                현재 페이지에 Drop 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-9.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                X축 인자에 <strong>QUANTITY</strong> 를 선택 하게 되면, 막대
+                그래프가 얇게 변하게 됩니다.
+              </li>
+              <li>Y축 인자로 <strong>ORDER AMOUNT</strong> 를 선택 합니다.</li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-10.png" alt="" />
+            </p>
+            <p>-</p>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-bar-11.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                X축의 <strong>QUANTITY</strong> 에 있는 슬라이드 막대를 클릭
+                하면 BINNING 개수를 조정 할수 있습니다.
+              </li>
+              <li>
+                X축의 <strong>QUANTITY</strong> 를 오른쪽 마우스 클릭해서
+                <strong>Number of Bins</strong> 를 클릭해서 직접 개수를 입력 할
+                수도 있습니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-bar-112.png"
+                alt=""
+              />
+            </p>
+            <h3 id="33-line-chart-선-그래프">3.3 Line Chart (선 그래프)</h3>
+            <h4 id="331-데이터-로딩">3.3.1 데이터 로딩</h4>
+            <p>
+              dataSet 폴더에서 <strong>Seoul-Air.csv</strong> 파일을 로딩
+              합니다. <br />아래 표는 데이터셋에 포함된 변수에 대한 설명 입니다.
+            </p>
+            <table>
+              <thead>
+                <tr>
+                  <th>변수명</th>
+                  <th>설명</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>CO</td>
+                  <td>일산화탄소</td>
+                </tr>
+                <tr>
+                  <td>NO2</td>
+                  <td>이산화 질소</td>
+                </tr>
+                <tr>
+                  <td>O3</td>
+                  <td>오존</td>
+                </tr>
+                <tr>
+                  <td>SO2</td>
+                  <td>아황산가스</td>
+                </tr>
+                <tr>
+                  <td>PM10</td>
+                  <td>미세먼저</td>
+                </tr>
+                <tr>
+                  <td>PM2.5</td>
+                  <td>초미세먼지</td>
+                </tr>
+              </tbody>
+            </table>
+            <h4 id="332-그래프-생성">3.3.2 그래프 생성</h4>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-line-1.png" alt="" />
+            </p>
+            <h4 id="333-다변량-선-그래프">3.3.3 다변량 선 그래프</h4>
+            <ul>
+              <li>
+                하나의 차트에 여러가지 선을 그리기 위해 <strong>CO</strong>,
+                <strong>PM2.5</strong>, <strong>PM10</strong> 세 변수를 선택
+                하여 드래그 한다음 아래 화면과 같이 <strong>Y축</strong> 인자로
+                DROP 합니다.
+              </li>
+              <li>
+                집계가 기본이 SUM 이기 때문에 <strong>AVG</strong> 로 모두 바꿔
+                줍니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-line-2.png" alt="" />
+            </p>
+            <h4 id="334-멀티축-설정">3.3.4 멀티축 설정</h4>
+            <ul>
+              <li>
+                일산화탄소인 <strong>CO</strong> 의 변화량을 확인하기 힘들다는
+                것을 알수 있습니다.
+              </li>
+              <li>
+                <strong>Y</strong> 측에 대고 오른쪽 마우스를 클릭하면 Scale
+                3가지 옵션중 <strong>Dual Scale</strong> 을 선택 합니다.
+              </li>
+              <li>
+                <strong>Y</strong> 축에 있는 <strong>CO2</strong> 를 드래그 해서
+                우측에 새로생긴 <strong>Y축</strong> 으로 옮겨서 Drop 합니다.
+              </li>
+            </ul>
+            <blockquote>
+              <p>
+                멀티축을 사용하는 것은 값의 범위(Range) 가 서로 다른 변수들의
+                트랜드를 보기 위해 사용 합니다. 멀티 축을 사용하면 같은 축으로
+                그렸을때 보이지 않던 트랜드가 확실 뚜렷하게 보입니다.
+              </p>
+            </blockquote>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-line-3.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                <strong>Properties</strong>(속성) 의
+                <strong>Y-axis</strong> 항목에서도 멀티축에 대한 정보를 수정및
+                조회 할 수 있습니다.
+              </li>
+            </ul>
+            <h4 id="335-패널-별-선그래프">3.3.5 패널 별 선그래프</h4>
+            <ul>
+              <li>
+                미세먼지를 측정 한 장소별로 보기 위해
+                <strong>Properties(속성)</strong> 창을 엽니다.
+              </li>
+              <li>
+                <kbd>Trellis</kbd> → <kbd>Panels</kbd> 항목에서
+                <strong>Split by</strong> 항목에 <strong>Address</strong> 를
+                선택합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-line-4.png" alt="" />
+            </p>
+            <p>FiscalYearOffSet 추가</p>
+            <h3 id="34-scatter-plot-산점도">3.4 Scatter Plot (산점도)</h3>
+            <h4 id="341-데이터-로딩">3.4.1 데이터 로딩</h4>
+            <p>
+              dataSet 폴더에서 <strong>Apt-price-2019-songpa.csv</strong> 파일을
+              로딩 합니다.
+            </p>
+            <h4 id="342-그래프-생성">3.4.2 그래프 생성</h4>
+            <ul>
+              <li>
+                <strong>시각화 메뉴</strong> 에서
+                <strong>Scatter Plot</strong> 을 드래그 해서 시각화 화면에 DROP
+                합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-scatter-1.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                X축을 <strong>deal_ymd</strong> (Year » Quater » Month » Day of
+                Month) 로 설정 하세요
+              </li>
+              <li>Y축을 <strong>price_by_area</strong> 로 설정하세요</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-scatter-2.png"
+                alt=""
+              />
+            </p>
+            <h4 id="343-점의-크기-조정-및-jittering">
+              3.4.3 점의 크기 조정 및 Jittering
+            </h4>
+            <ul>
+              <li>
+                X축에 마우스 왼쪽을 클릭하여 점의 크기와 Jittering 을 수행
+                합니다.
+              </li>
+              <li>Y축에 마우스 왼쪽을 클릭하여 Jittering 을 수행 합니다.</li>
+              <li>
+                Jittering 은 겹쳐진 점이 보이게 하기 위해 Random 값으로 일정하게
+                분산 시키는 효과를 가집니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-scatter-3.png"
+                alt=""
+              />
+            </p>
+            <blockquote>
+              <p>
+                산점도에서 겹쳐진 점을 보이게 하는 방법은 크게 Jittering 과
+                투명도를 높이는 두가지 방법이 있습니다. 투명도의 경우에는 완전히
+                겹쳐진 점에 대해서는 좀더 색깔이 진해 지는 형태로 데이터가 많이
+                몰려 있는걸을 확인 할 수 있습니다.
+              </p>
+            </blockquote>
+            <h4 id="344-점의-모양--크기--투명도-변경">
+              3.4.4 점의 모양 / 크기 / 투명도 변경
+            </h4>
+            <ul>
+              <li>
+                <strong>Properties(속성)</strong> 창에서 <kbd>Appearance</kbd> →
+                <kbd>Transparency</kbd> 에서 적당한 투명도로 조정 합니다.
+              </li>
+              <li>
+                <strong>Properties(속성)</strong> 창에서 <kbd>Size</kbd> →
+                <kbd>Sized by</kbd> 에 <strong>size</strong> 를 선택 합니다.
+              </li>
+              <li>
+                <strong>Properties(속성)</strong> 창에서 <kbd>Shape</kbd> →
+                <kbd>Shape definition</kbd> 에서 정사각형으로 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-scatter-4.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                결과 화면 : 이전보다 훨씬 명확하게 트랜드를 구분 할수 있습니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-scatter-5.png"
+                alt=""
+              />
+            </p>
+            <h4 id="345-패널-추가-및-회귀선">3.4.5 패널 추가 및 회귀선</h4>
+            <ul>
+              <li>
+                <strong>Properties(속성)</strong> 에서 <kbd>Trellis</kbd> →
+                <kbd>Panels</kbd> 에서 <strong>apt_name</strong> 을 선택 합니다.
+              </li>
+              <li>
+                <kbd>Lines &amp; Curves</kbd> → <kbd>Add</kbd> →
+                <kbd>Straight Line Fit...</kbd> 을 클릭해서 팝업창이 뜨면
+                <kbd>OK</kbd> 클릭
+              </li>
+              <li>
+                <kbd>Lines &amp; Curves</kbd> →
+                <kbd>Label and Tooltip </kbd> 클릭후 팝업창이 뜨면
+                <strong>R^2 of the regression(r2)</strong> 를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-scatter-6.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                결과 화면 : R^2 값은 모델의 설명력을 표현합니다. 회귀선을
+                그렸을때 회귀선이 얼마나 주어진 데이터를 잘 설명하는지에 대한
+                척도 입니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/vis-scatter-7.png"
+                alt=""
+              />
+            </p>
+            <h2 id="4-marking--filtering">4. Marking &amp; Filtering</h2>
+            <h4 id="41-marking마킹">4.1 Marking(마킹)</h4>
+            <h4 id="411-데이터-로딩">4.1.1 데이터 로딩</h4>
+            <p>
+              dataSet 폴더에서 <strong>Mark-Filter-Export.dxp</strong> 파일을
+              로딩 합니다. 로딩 하게 되면 아래와 같은 화면이 보입니다.
+            </p>
+            <ul>
+              <li>
+                막대 차트의 일부를 선택 하게 되면 오른쪽
+                <strong>Table 차트</strong> 에 마킹된 값만 하이라이트 됩니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-1.png"
+                alt=""
+              />
+            </p>
+            <h4 id="413-새로운-marking-만들기">4.1.3 새로운 Marking 만들기</h4>
+            <ul>
+              <li>
+                <kbd>File</kbd>→<kbd>Document properties</kbd> 를 클릭 합니다.
+              </li>
+              <li>
+                <strong>Document Properties</strong> 에서 <kbd>Marking</kbd> →
+                <kbd>New</kbd> 를 클릭 합니다.
+              </li>
+              <li>
+                아래와 같이 색상을 선택한 다음 <strong>myMarking</strong> 을
+                입력하고 <kbd>OK</kbd>
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-2.png"
+                alt=""
+              />
+            </p>
+            <h4 id="414-새로운-marking-적용하기">
+              4.1.4 새로운 Marking 적용하기
+            </h4>
+            <ul>
+              <li>
+                <strong>Bar Chart</strong> 의
+                <strong>Properties(속성)</strong> 창을 엽니다
+              </li>
+              <li>
+                <kbd>Data</kbd> → <kbd>Marking</kbd> 에서
+                <strong>myMarking</strong> 을 선택 합니다.
+              </li>
+              <li>
+                <kbd>Legend</kbd> 의
+                <strong>Display the following legend items</strong> 에서
+                <strong>Marking</strong> 을 선택 합니다.
+              </li>
+              <li>
+                <kbd>Appearance</kbd> 에서
+                <strong>Use separate color for marked items</strong> 를 체크
+                합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-3.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                이제 막대 그래프의 영역을 선택 하면 초록색으로 바뀌지만 , 테이블
+                차트의 데이터가 Highlight 되지 않습니다.
+              </li>
+              <li>막대그래프의 빈공간을 클릭 하면 마킹이 해지 됩니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-4.png"
+                alt=""
+              />
+            </p>
+            <h4 id="415-table-차트에-신규-마킹을-이용해-데이터-제한하기">
+              4.1.5 Table 차트에 신규 마킹을 이용해 데이터 제한하기
+            </h4>
+            <ul>
+              <li>
+                테이블 차트의 <strong>Properties(속성)</strong> 화면으로 이동
+                합니다.
+              </li>
+              <li>
+                <kbd>Data</kbd> 항목에서 <strong>Marking</strong> 을 Bar Chart
+                에서 설정한 <strong>myMarking</strong> 으로 변경 합니다.
+              </li>
+              <li>
+                <kbd>Data</kbd> 항목에서 <strong>Data limiting</strong> 에서
+                myMarking 을 체크 합니다.
+              </li>
+              <li>
+                <kbd>Data</kbd> 항목에서
+                <strong
+                  >If no item are marked in the master visulaization,
+                  show:</strong
+                >
+                항목에서 <strong>All data</strong> 를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-5.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                이제 Bar Chart 에서 선택한 데이터가 없으면, 모든 데이터를
+                보여주고, 데이터를 Marking 하면 Marking 한 데이터에 대해서만
+                필터하여 데이터를 보여 줍니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-6.png"
+                alt=""
+              />
+            </p>
+            <h4 id="416-데이터에-필터-적용하기">
+              4.1.6 데이터에 필터 적용하기
+            </h4>
+            <ul>
+              <li>
+                <strong>데이터 메뉴</strong> 에서
+                <strong>Total Amount of Purchases</strong> 를 클릭 하면 오른쪽에
+                <strong>깔때기</strong> 아이콘을 클릭 해서 슬라이드 바를 조정
+                해서 필터링을 적용 할수 있습니다.
+              </li>
+              <li>
+                변수에 적용된 필터는 <strong>데이터 메뉴</strong> 하단에
+                <strong>Clear selections</strong> 항목에 표시 되어 현재 데이터
+                레벨에서 적용된 필터를 한눈에 확인 할수 있고, 삭제도 할 수
+                있습니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-7.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li><strong>X</strong> 버튼을 눌러서 필터를 해지 합니다.</li>
+            </ul>
+            <h4 id="417-필터-패널-사용하기">4.1.7 필터 패널 사용하기</h4>
+            <ul>
+              <li>
+                필터 패널을 사용하기 위해서는 오른쪽 상단의 필터 바로가기 버튼을
+                클릭 합니다.
+              </li>
+              <li>
+                필터 패널에서 <strong>Store Location</strong> 을 찾아 오른쪽
+                마우스 버튼을 클릭 합니다.
+              </li>
+              <li>
+                <strong>Filter Type</strong> 을
+                <strong>Radio Button Filter</strong> 로 변경 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-8.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                패널 필터를 조정 하면서 두번째 페이지의 데이터가 어덯게 필터링
+                되는지 확인 해봅니다.
+              </li>
+            </ul>
+            <h4 id="418-신규-패널-만들기">4.1.8 신규 패널 만들기</h4>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-9.png"
+                alt=""
+              />
+            </p>
+            <h2 id="5-파일-저장-하기">5. 파일 저장 하기</h2>
+            <h3 id="51-dxp-파일-저장-하기">5.1 DXP 파일 저장 하기</h3>
+            <ul>
+              <li>
+                현재 열고 있는 Mark-Filter-Export.dxp 파일을 저장 해보겠습니다.
+              </li>
+              <li><kbd>File</kbd>→<kbd>Save as</kbd> 를 클릭 합니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-9.png"
+                alt=""
+              />
+            </p>
+            <h3 id="52-spotfire-의-문서-구조-이해">
+              5.2 Spotfire 의 문서 구조 이해
+            </h3>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/Mark-Filter-10.png"
+                alt=""
+              />
+            </p>
+            <h2 id="6-시각화-2편">6. 시각화 2편</h2>
+            <h3 id="61-parallel-coordinate-plot-평행-좌표">
+              6.1 Parallel Coordinate Plot (평행 좌표)
+            </h3>
+            <blockquote>
+              <p>tutorialFiles/iris.csv 파일을 엽니다.</p>
+              <p>iris 데이터셋은 아래와 같은 항목을 가지고 있습니다.</p>
+            </blockquote>
+            <table>
+              <thead>
+                <tr>
+                  <th>항목</th>
+                  <th>의미</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Petal.Length</td>
+                  <td>꽃잎의 길이</td>
+                </tr>
+                <tr>
+                  <td>Petal.Width</td>
+                  <td>꽃잎의 폭</td>
+                </tr>
+                <tr>
+                  <td>Sepal.Length</td>
+                  <td>꽃받침의 길이</td>
+                </tr>
+                <tr>
+                  <td>Sepal.Width</td>
+                  <td>꽃받침의 폭</td>
+                </tr>
+              </tbody>
+            </table>
+            <h4 id="611-파일불러오기">6.1.1 파일불러오기</h4>
+            <p>
+              <kbd>File</kbd> → <kbd>Open</kbd> →
+              <kbd>Browse local file </kbd> 을 선택하여
+              <strong>SfDataSet</strong> 디렉토리의 iris.csv 파일을 불러 옵니다.
+            </p>
+            <h4 id="612-parallel-coordinate-plot-그리기">
+              6.1.2 Parallel Coordinate Plot 그리기
+            </h4>
+            <ul>
+              <li>
+                시각화에서 <kbd>Parallel coordinate plot</kbd> 을 드래그 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-corr-1.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                X축의 에 마우스를 올리고 <strong>회색</strong> 으로 변하면
+                <kbd>왼쪽 마우스 버튼</kbd>를 클릭 합니다.
+                <kbd>select columns</kbd> 를 클릭 하면 차트에 사용 할 컬럼을
+                선택 할 수 있습니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-corr-2.png" alt="" />
+            </p>
+            <ul>
+              <li>결과 화면</li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-corr-3.png" alt="" />
+            </p>
+            <h4 id="613-집계-적용하기">6.1.3 집계 적용하기</h4>
+            <ul>
+              <li>
+                다시 <strong>Properties(속성)</strong> 에서
+                <kbd>Line By</kbd> 를 클릭 한뒤, 항목을
+                <strong>Species</strong> 를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-corr-4.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                아래와 같이 붓꽃의 종류별로 단일 선으로 표시 됩니다. 기본은
+                <strong>SUM</strong> 함수를 이용해 모두를 더한 값이 표시 됩니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-corr-5.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                붓꽃 각각의 넓이와 길이를 평균으로 표시 하기 위해
+                <strong>Properties(속성)</strong> 창을 다시 열어
+                <kbd>Columns</kbd> 항목을 클릭하고
+                <strong>Aggregation</strong> 함수를 <strong>Sum</strong> 에서
+                <strong>Average</strong> 로 변경 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-corr-6.png" alt="" />
+            </p>
+            <h3 id="62-box-plot-상자-도표">6.2 Box Plot (상자 도표)</h3>
+            <h4 id="621-파일-불러오기">6.2.1 파일 불러오기</h4>
+            <p>
+              <kbd>File</kbd> → <kbd>Open</kbd> →
+              <kbd>Browse local file </kbd> 을 선택하여
+              <strong>dataSet</strong> 디렉토리의
+              <strong>ItemDetails.txt</strong> 파일을 불러 옵니다.
+            </p>
+            <h4 id="622-boxplot-그리기">6.2.2 BoxPlot 그리기</h4>
+            <p>-</p>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-box-1.png" alt="" />
+            </p>
+            <h4 id="623-참조점을-추가">6.2.3 참조점을 추가</h4>
+            <ul>
+              <li>
+                <strong>Properties(속성)</strong> 창 에서
+                <strong>Reference Points</strong> 를 선택한뒤 Avg(평균),
+                Min(최소값), Max(최대값) 을 선택하고 Min, Max 의 경우
+                <strong>Line</strong> 항목을 2중선으로 설정 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-box-2.png" alt="" />
+            </p>
+            <h4 id="624-참조-정보-추가">6.2.4 참조 정보 추가</h4>
+            <ul>
+              <li>
+                시각화 화면에 <kbd> 오른쪽 마우스 버튼</kbd> →
+                <kbd>Statistics Table</kbd> 을 선택하면 아래와 같이 참조 정보를
+                추가 및 해지 할 수 있습니다. 참조 정보는 X축 밑에 표 형태로
+                출력이 됩니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-box-3.png" alt="" />
+            </p>
+            <h4 id="624-데이터-분포-표시하기">6.2.4 데이터 분포 표시하기</h4>
+            <p>
+              <strong>Properties(속성)</strong> 창에서
+              <strong>Apperance</strong> 를 선택 한뒤
+              <strong>Show distribution</strong> 을 체크 합니다. 아래 그림과
+              같이 BoxPlot 에서 전체적인 데이터 분포를 보여 주는 그래프가 완성
+              되었습니다.
+            </p>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-box-4.png" alt="" />
+            </p>
+            <h3 id="63-kpi-차트">6.3 KPI 차트</h3>
+            <h4 id="631-데이터-불러오기">6.3.1 데이터 불러오기</h4>
+            <ul>
+              <li>
+                새로운 페이지를 만들고 <strong>KPI 차트</strong> 라고 이름을
+                붙여 봅니다.
+              </li>
+              <li>
+                <kbd>File</kbd> →<kbd>Open</kbd> →<kbd>Browse local file</kbd>
+                을 클릭해서 <strong>OrdersDetails.xls</strong> 를 불러 옵니다.
+              </li>
+            </ul>
+            <h4 id="632-차트-생성">6.3.2 차트 생성</h4>
+            <ul>
+              <li>
+                <p>
+                  <strong>시각화 메뉴</strong> 에서
+                  <strong>KPI Chart</strong> 를 드래그 해서 시각화 영역으로 Drop
+                  합니다.
+                </p>
+                <p>&lt;img src="./img/sfUserGuide/vis-kpi-1.png)</p>
+              </li>
+            </ul>
+            <h4 id="633-kpi-설청하기">6.3.3 KPI 설청하기</h4>
+            <ul>
+              <li><strong>Properties(속성)</strong> 창으로 이동 합니다.</li>
+              <li>
+                <strong>KPIs</strong> 항목을 클릭 하고 <kbd>Settings</kbd> 를
+                클릭 하게 되면 KPI Setting 팝업창이 뜹니다.
+              </li>
+              <li>
+                Value(y-axis)에는 <strong>Sum(ORDER_AMOUNT)</strong> 를 선택
+                합니다.
+              </li>
+              <li>
+                <strong>Show time in tile</strong> 를 선택 합니다.(체크박스)
+              </li>
+              <li>
+                <strong>Tile by</strong> 항목 에서는
+                <strong>ORDER_STATUS</strong>
+              </li>
+              <li>Comparative value 의 항목은 Sum(QUANTITY) 로 선택 합니다.</li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-kpi-2.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                **Colors ** 항목 에서 <kbd> Add Point</kbd> 를 클릭해서 중간
+                색상 지점을 추가 합니다.
+              </li>
+              <li>
+                중간 지점의 색상을 적당한 색상으로 바꾸고 리스트박스 를 클릭해서
+                Average 값으로 설정 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-kpi-3.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                <strong>Appearance</strong> 항목에서
+                <strong>Show scale</strong> 및
+                <strong>Include Origin</strong> 을 체크 합니다.
+              </li>
+              <li>
+                라디오 버튼에서 <strong>Multiple scales</strong> 를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-kpi-4.png" alt="" />
+            </p>
+            <ul>
+              <li>최종 화면</li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-kpi-5.png" alt="" />
+            </p>
+            <h2 id="7-관계형-테이블-및-변환">7. 관계형 테이블 및 변환</h2>
+            <p>
+              &lt;/ 병합에 사용되는 데이터셋에 관해 간략하게 요약 해보면 아래와
+              같습니다. 실습 대상이 되는 데이터는 Olist 라는 브라질 온라인
+              쇼핑몰의 실제 데이터 입니다.
+            </p>
+            <blockquote>
+              <p>출처 : https://www.kaggle.com/olistbr/brazilian-ecommerce</p>
+            </blockquote>
+            <table>
+              <thead>
+                <tr>
+                  <th>파일명</th>
+                  <th>내용</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>olist_orders_1Q.csv</td>
+                  <td>1분기 고객 주문 데이터</td>
+                </tr>
+                <tr>
+                  <td>olist_orders_1Q.csv</td>
+                  <td>2분기 고객 주문 데이터</td>
+                </tr>
+                <tr>
+                  <td>olist_orders_3Q.csv</td>
+                  <td>3분기 고객 주문 데이터</td>
+                </tr>
+                <tr>
+                  <td>olist_order_items_dataset.csv</td>
+                  <td>고객이 주문한 ITEM 데이터</td>
+                </tr>
+                <tr>
+                  <td>olist_customers_dataset.csv</td>
+                  <td>고객정보</td>
+                </tr>
+                <tr>
+                  <td>olist_order_payments_dataset.csv</td>
+                  <td>고객구매시 지불 정보</td>
+                </tr>
+                <tr>
+                  <td>olist_order_reviews_dataset.csv</td>
+                  <td>고객 구매 상품에 대한 리뷰</td>
+                </tr>
+                <tr>
+                  <td>product_category_name_translation.csv</td>
+                  <td>상품 카타고리에 대한 영어 메뉴 번역 정보</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3 id="41-데이터-자동-병합-하기">4.1 데이터 자동 병합 하기</h3>
+            <h4 id="411-데이터-불러오기">4.1.1 데이터 불러오기</h4>
+            <p>
+              우선, 3개 파일을 Spotfire <kbd>File</kbd> → <kbd> Open</kbd> →
+              <kbd>Browse local file</kbd> 을 통해 불러 옵니다.<br />대상파일 :
+              olist_orders_1Q.csv, olist_orders_2Q.csv, olist_orders_3Q.csv,
+              olist_order_items_dataset.csv (4개)
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/wrang-merge-1.png"
+                alt=""
+              />
+            </p>
+            <h4 id="412-데이터셋-검사-및-import">
+              4.1.2 데이터셋 검사 및 Import
+            </h4>
+            <p>
+              아래와 같이 각각의 데이터셋 마다 검증하고 필요 할경우 변환할 수
+              있는 인터페이스를 제공 합니다. 4개의 파일에 대해 모두
+              <kbd>OK</kbd> 를 클릭 해서 데이터를 Import 합니다.
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/wrang-merge-2.png"
+                alt=""
+              />
+            </p>
+            <h4 id="413-데이터-추천-병합-하기">4.1.3 데이터 추천 병합 하기</h4>
+            <p>
+              기본적으로 Spotfire 는 데이터의 모양을 보고 데이터를 열 또는
+              행으로 결합 할지 아니면 각각의 독립된 데이터셋으로 Import 할지를
+              추천 해줍니다.
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/wrang-merge-3.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                Olist_order_items_dataset 에 대해
+                <kbd>Add as new data table</kbd> →
+                <kbd> Add as columns to </kbd> 를 클릭 합니다.
+              </li>
+              <li>
+                <kbd>설정(톱니바퀴)</kbd> 버튼을 누르면 팝업 창이 뜨게됩니다.
+              </li>
+              <li>
+                컬럼으로 병합 (조인) 하는 것이기 때문에
+                <strong>Match Columns</strong> 항목을 통해
+                <strong>조인 키</strong>를 설정해야 합니다.
+              </li>
+              <li>
+                Spotfire 가 조인키를 데이터 형태를 보고 추천한 데로 진행합니다.
+                <kbd>OK</kbd> 클릭 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/wrang-merge-4.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                데이터 Spotfire 가 Import 하는 과정에서 몇가지 경고 사항이 나타
+                납니다. ‘NA' 라는 문자열이 날짜 데이터 타입의 형식에 맞지 않아
+                Spotfire 는 <strong>‘NA' 를 공백으로 처리</strong> 하지만, 경고
+                메시지를 남기는 겁니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/wrang-merge-5.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>데이터 Import 가 완료되면 Data Canvas 가 구동되게 됩니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/wrang-merge-6.png"
+                alt=""
+              />
+            </p>
+            <h2 id="8-column-operation">8. Column Operation</h2>
+            <h3 id="81-column-add-컬럼-추가하기">
+              8.1 Column Add (컬럼 추가하기)
+            </h3>
+            <h4 id="811-데이터-로딩">8.1.1 데이터 로딩</h4>
+            <ul>
+              <li>
+                dataSet 폴더에서 <strong>OfficeSupplies.txt</strong> 파일을
+                엽니다
+              </li>
+            </ul>
+            <h4 id="812-table-chart-추가">8.1.2 Table Chart 추가</h4>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220201508183.png"
+                alt=""
+              />
+            </p>
+            <h4 id="813-일부-컬럼-만-표시-하기">
+              8.1.3 일부 컬럼 만 표시 하기
+            </h4>
+            <p>-</p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220201712540.png"
+                alt=""
+              />
+            </p>
+            <h4 id="814-over-함수를-이용한-표현식-만들기">
+              8.1.4 Over 함수를 이용한 표현식 만들기
+            </h4>
+            <ul>
+              <li>
+                <p>아래 화면과 같이 표현식을 완성 합니다.</p>
+                <pre><code class="language-{php}">Sum([Sales]) OVER [Market Segment]
+</code></pre>
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220201952426.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>최종 결과</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220222034037.png"
+                alt=""
+              />
+            </p>
+            <h3 id="82-over-in-custom-expression">
+              8.2 OVER in Custom Expression
+            </h3>
+            <h4 id="821-새로운-페이지-추가">8.2.1 새로운 페이지 추가</h4>
+            <ul>
+              <li>
+                새로운 페이지를 추가하고 <strong>Bar Chart</strong> 를 생성
+                합니다.
+              </li>
+            </ul>
+            <h4 id="822-사용자-정의-표현식-생성">
+              8.2.2 사용자 정의 표현식 생성
+            </h4>
+            <ul>
+              <li>X축을 클릭</li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/Over-1.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                <strong>Y축</strong> 을 클릭 해서
+                <strong>Edit expression</strong> 부분에 아래와 같은 표현식을
+                입력 합니다.
+              </li>
+            </ul>
+            <pre><code class="language-{php}">Sum([Sales]) / Sum([Sales]) OVER ALL([Axis.X])
+</code></pre>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/Over-2.png" alt="" />
+            </p>
+            <h4 id="823-bar-chart-속성-설정">8.2.3 Bar Chart 속성 설정</h4>
+            <ul>
+              <li>
+                Bar Chart 의 <strong>Properties(속성)</strong> 설정으로 이동하여
+                아래와 같이 설정 합니다
+              </li>
+              <li>
+                <strong>Formmatting</strong> 에서 신규로 설정한 축을 선택하고
+                <strong>Category</strong> 를 <strong>Percentage</strong> 로
+                선택하고 <strong>Decimals</strong> 항목을 1로 설정 합니다. 1은
+                소수점 첫째까지만 표기 하라는 뜻입니다.
+              </li>
+              <li>
+                <strong>Tooltip</strong> 항목으로 이동해서
+                <strong>Show labels for</strong> 를 <strong>All</strong> 로
+                설정하고 <strong>Types of labels</strong> 내의
+                <strong>Bar segments</strong> 를 체크 합니다.
+              </li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/Over-3.png" alt="" />
+            </p>
+            <ul>
+              <li>최종 결과</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221001702987.png"
+                alt=""
+              />
+            </p>
+            <h2 id="9-시각화-3편">9. 시각화 3편</h2>
+            <h3 id="91-map-차트">9.1 Map 차트</h3>
+            <h4 id="911-데이터-로딩">9.1.1 데이터 로딩</h4>
+            <p>
+              <kbd>File</kbd> → <kbd>Open</kbd> →
+              <kbd>Browse local file </kbd> 을 선택하여
+              <strong>dataSet</strong> 디렉토리의
+              <strong>Global Data.xls</strong> 파일을 불러 옵니다.
+            </p>
+            <h4 id="912-맵차트-그리기">9.1.2 맵차트 그리기</h4>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-map-1.png" alt="" />
+            </p>
+            <h4 id="913-맵차트-둘러보기">9.1.3 맵차트 둘러보기</h4>
+            <ul>
+              <li>왼쪽상단의 레이어 아이콘을 클릭 합니다.</li>
+              <li>레이어 아이콘의 체크 박스를 눌러 봅니다.</li>
+            </ul>
+            <p>
+              <img src="/spotfireBasic/img/sfUserGuide/vis-map-2.png" alt="" />
+            </p>
+            <ul>
+              <li>
+                오른쪽 상단의 검색을 클릭 하고 <strong>Korea</strong> 라고 검색
+                합니다.
+              </li>
+              <li>
+                오른쪽 산단의 검색을 클릭 하고
+                <strong>United States</strong> 라고 검색 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220044549136.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>Zoom In / Zoom Out 을 클릭 합니다</li>
+              <li>
+                메뉴 화면의 Undo 버튼을 클릭 하면 이전 검색 화면 으로 돌아
+                갑니다.
+              </li>
+            </ul>
+            <h4 id="914-위치-좌표">9.1.4 위치 좌표</h4>
+            <ul>
+              <li>맵차트의 <strong>Properties(속성)</strong> 창을 엽니다.</li>
+              <li>
+                <strong>Layers</strong> 항목에서
+                <strong>Marker Layer</strong> 를 선택하고 <kbd>Settings</kbd> 를
+                클릭 합니다.
+              </li>
+              <li>
+                Marker 레이어의 셋팅에서 <strong>Positioning</strong> 을
+                선택하고 밑으로 내려보면
+                <strong>Coordinate columns</strong> 하는 항목이 나오고 위/경도를
+                가지 변수(컬럼)을 지정하는 항목이 나옵니다.
+              </li>
+            </ul>
+            <p>
+              ![](./img/sfUserGuide/vis-map-3.png" style="border: 1px solid;
+              zoom:50%;" align="left"/&gt;
+            </p>
+            <h3 id="93-summary-table">9.3 Summary Table</h3>
+            <h4 id="931-데이터-로딩">9.3.1 데이터 로딩</h4>
+            <ul>
+              <li>
+                dataSet 폴더에서 3-The-5-Sheet-Book.xls 를 로딩 하되
+                <strong>Worksheet</strong> 를
+                <strong>TIBCO Mega Mart</strong> 를 선택 해서 로딩 합니다.
+              </li>
+            </ul>
+            <h4 id="932-summary-table-그리기">9.3.2 Summary Table 그리기</h4>
+            <p>
+              <img src="./img/sfUserGuide/image-20201221021553438.png" alt="" />
+            </p>
+            <h4 id="933-properties-설정">9.3.3 Properties 설정</h4>
+            <ul>
+              <li>
+                Summary Table 의 <strong>Properties(속성)</strong> 설정 창으로
+                이동 합니다.
+              </li>
+              <li>
+                <strong>Columns</strong> 탭에서
+                <strong>Store Number, Customer age, Departments shopped</strong>
+                컬럼을 삭제 합니다.
+              </li>
+              <li>
+                <strong>Columns</strong> 탭에서
+                <strong>Total Amount of Purchases</strong> 컬럼를 추가 합니다.
+              </li>
+            </ul>
+            <p>
+              ![](./img/sfUserGuide/table-summary-1.png" style="border: 1px
+              solid; zoom:100%;" align="left" /&gt;
+            </p>
+            <h4 id="934-summary-측정-항목-추가">
+              9.3.4 Summary 측정 항목 추가
+            </h4>
+            <ul>
+              <li>
+                <strong>Properties</strong> 창에서
+                <strong>Statistical Measures</strong> 항목으로 이동합니다.
+              </li>
+              <li>
+                <strong>Available measures</strong> 에서
+                <strong>Outliers (Outlier Count)</strong> 를 추가 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221022502594.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>최종 화면</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221022529064.png"
+                alt=""
+              />
+            </p>
+            <h3 id="94-cross-table">9.4 Cross Table</h3>
+            <h4 id="941-데이터-로딩">9.4.1 데이터 로딩</h4>
+            <p>
+              dataSet 폴더에서 <strong>전체거래테이블.csv</strong> 파일을 로딩
+              합니다.
+            </p>
+            <h4 id="942-cross-table-그리기">9.4.2 Cross Table 그리기</h4>
+            <ul>
+              <li>
+                시각화 메뉴 에서 <strong>Cross Table</strong> 을 Drag 해서
+                시각화 영역으로 Drop 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221022916708.png"
+                alt=""
+              />
+            </p>
+            <h4 id="943-수직축-에-계층-설정">9.4.3 수직축 에 계층 설정</h4>
+            <ul>
+              <li><kbd> Data</kbd>→<kbd>Add Hierarchy</kbd> 를 클릭 합니다.</li>
+              <li>
+                아래와 같이 <strong>제품 대분류</strong>,
+                <strong>제품 중분류</strong>, <strong>제품ID</strong> 순으로
+                계층을 추가 합니다.
+              </li>
+              <li>이름은 <strong>제품계층</strong> 으로 입력 합니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221025017100.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                수직축 컬럼을 마우스로 클릭해서 <strong>제품 계층</strong> 을
+                선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221025231108.png"
+                alt=""
+              />
+            </p>
+            <h4 id="944-수평축-설정">9.4.4 수평축 설정</h4>
+            <ul>
+              <li>
+                수평축 컬럼을 마우스로 클릭 해서 <strong>지역</strong> 과
+                <strong>결제방법</strong> 을 차례대로 추가 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221025610406.png"
+                alt=""
+              />
+            </p>
+            <h4 id="945-합계-및-색상-설정">9.4.5 합계 및 색상 설정</h4>
+            <ul>
+              <li>
+                <strong>Properties</strong> 창으로 이동해서
+                <strong>Colors</strong> 항목으로 이동 합니다.
+              </li>
+              <li>
+                <strong>Color mode</strong> 를 <strong>Gradient</strong> 로 변경
+                합니다.
+              </li>
+              <li>
+                <kbd>Add Point</kbd> 를 클릭하고, 드롭박스 메뉴를 클릭 한다음
+                <strong>Average</strong> 를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221030027731.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                <strong>Totals</strong> 항목으로 이동하여
+                <strong>Display totals</strong> 에 모든 항목을 선택 합니다.
+              </li>
+              <li>
+                <strong>Appearance</strong> 항목으로 이동하여
+                <strong>Use separate color from marked items</strong> 를 체크
+                해지 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/table-cross-1.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>최종 화면</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221030647998.png"
+                alt=""
+              />
+            </p>
+            <h3 id="95-graphical-table">9.5 Graphical Table</h3>
+            <h4 id="951-데이터-로딩">9.5.1 데이터 로딩</h4>
+            <p>
+              dataSet 폴더에서 <strong>WeightLOss12WeeksData.xls</strong> 파일을
+              로딩 합니다.
+            </p>
+            <h4 id="952-graphical-table-그리기">
+              9.5.2 Graphical Table 그리기
+            </h4>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221031005252.png"
+                alt=""
+              />
+            </p>
+            <h4 id="953-스파크-라인-설정">9.5.3 스파크 라인 설정</h4>
+            <ul>
+              <li><strong>Properties(속성)</strong> 창으로 이동합니다.</li>
+              <li>
+                <strong>Axes</strong> 항목으로 이동한뒤
+                <strong>Columns</strong> 에서 이미 만들어져 있는
+                <strong>Sparkline</strong> 을 선택하고 <kbd>Settings</kbd> 를
+                클릭 합니다.
+              </li>
+              <li>
+                <strong>Axes</strong> 항목에서 <strong>X-axis</strong> 를
+                <strong>Week</strong> 로 설정 합니다.
+              </li>
+              <li>
+                <strong>Axes</strong> 항목에서 Y-axis 를
+                <strong>Sum(Weight, kg)</strong> 로 선택 합니다.
+              </li>
+              <li>
+                <strong>Y-axis scale</strong> 항목에서
+                <strong>Multiple scales</strong> 를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221031550344.png"
+                alt=""
+              />
+            </p>
+            <blockquote>
+              <p>
+                스파크라인은 라인차트와 같습니다. 따라서 Weight loss 트랜드가
+                모든 사람에 대해 12주기간 동안 표시 됩니다.
+              </p>
+            </blockquote>
+            <ul>
+              <li>Sparkline 의 <strong>Appearance</strong> 로 이동 합니다.</li>
+              <li>
+                아래 그림과 같이
+                <strong>Starting point, End point</strong> 모두를 체크 하고,
+                <strong>LIne width</strong> 를 <strong>2</strong> 로 설정하고
+                색상을 <strong>파란색</strong> 으로 설정 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221033456019.png"
+                alt=""
+              />
+            </p>
+            <h4 id="954-계산된-컬럼-추가하기">9.5.4 계산된 컬럼 추가하기</h4>
+            <ul>
+              <li>
+                Sparkline 의 <strong>Properties(속성)</strong> 으로 이동 합니다.
+              </li>
+              <li>
+                <strong>Axes</strong> 항목에서 <kbd>Add</kbd> 버튼을 클릭해서
+                <strong>Calulated Value</strong> 를 선택해 추가 합니다.
+              </li>
+              <li>
+                <strong>Calculated value Setting</strong> 창에서
+                <strong>Values</strong> 항목에서
+                <strong>Calculate values using</strong> 항목을
+                <strong>Weight Loss, kg</strong> 로 선택하고 집계 함수를
+                <strong>Sum</strong> 으로 선택 합니다.
+              </li>
+              <li>
+                <kbd>Add Rule</kbd> 을 클릭해 팝업창이 나오면,
+                <strong>Rule type</strong> 을 <strong>Top</strong> 으로
+                선택하고, <strong>Value</strong> 를 <strong>2</strong> 로
+                설정한뒤, <strong>Color</strong> 를 노란색으로 설정 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221034615991.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                동일한 방법으로 <kbd>Add Rule</kbd> 을 클릭 해서
+                <strong>Rule type</strong> 을 <strong>Bottom</strong> 으로
+                선택하고, <strong>Value</strong> 를 <strong>2</strong> 로
+                입력합고, <strong>Color</strong> 를 붉은색으로 설정합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221034834498.png"
+                alt=""
+              />
+            </p>
+            <h4 id="955-아이콘-컬럼-추가하기">9.5.5 아이콘 컬럼 추가하기</h4>
+            <ul>
+              <li>
+                <strong>Properties(속성)</strong> 창에서 Axes 항목에
+                <kbd> Add </kbd> 버튼을 클릭해 <strong>ICON</strong> 을 선택해
+                추가 합니다.
+              </li>
+              <li>
+                <strong>Icon Setting</strong> 창의 <strong>Icon</strong> 항목
+                에서 <strong>Calculate icons using</strong> 항목을
+                <strong>Weight Loss, kg</strong> 의 집계함수를
+                <strong>Sum</strong>을 선택 합니다.
+              </li>
+              <li>
+                이미 설정되어 있는 Default Rule 을 편집하기 위해
+                <strong>연필</strong> 버튼을 클릭합니다.
+              </li>
+              <li>
+                팝업창이 뜨면 <strong>Rule type</strong> 을
+                <strong>Top</strong> 으로 선택하고 <strong>Value</strong> 를
+                <strong>2</strong> 로 선택하고 , <strong>Color</strong> 를 연한
+                노랑으로 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/table-graphic-1.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li><kbd>Add Rule</kbd> 을 클릭 합니다.</li>
+              <li>
+                <strong>Rule Type</strong> 을 <strong>Bottom</strong> 으로
+                설정하고 <strong>Value</strong> 를 <strong>2</strong> 로 설정
+                하고, <strong>Shape</strong> 에 <strong>X</strong> 마크를 선택
+                합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221041025957.png"
+                alt=""
+              />
+            </p>
+            <h4 id="956-bullet-그래프-추가하기">
+              9.5.6 Bullet 그래프 추가하기
+            </h4>
+            <ul>
+              <li>
+                <strong>Properties(속성)</strong> 창의
+                <strong>Axes</strong> 항목에서 <kbd> Add</kbd> 를 클릭하고
+                <strong>Bullet Graph</strong> 를 선택 합니다.
+              </li>
+              <li>
+                <strong>Bullet graph Setting</strong> 창에서
+                <strong>Calulate values using</strong> 항목은
+                <strong>Weight Loss, kg</strong> 을 집계함수
+                <strong>Sum</strong> 으로 설정
+              </li>
+              <li>
+                <strong>Calculate comparative values using</strong> 항목을
+                <strong>Weekly Goal, kg</strong> 로 설정 합니다.
+              </li>
+              <li>
+                <strong>Color Range</strong> 항목에서
+                <strong>Show color rnage</strong> 를 체크 합니다.
+              </li>
+              <li>
+                <kbd> Add </kbd> 버튼을 클릭해서 아래와 같이 3가지 생상을 조건과
+                함께 설정합니다.
+              </li>
+            </ul>
+            <pre><code class="language-{php}">Sum([Weekly Goal, kg]) * 0.75
+Sum([Weekly Goal, kg]) * 1.25
+</code></pre>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221042532434.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>최종화면</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221043124270.png"
+                alt=""
+              />
+            </p>
+            <h2 id="10-property-control">10. Property Control</h2>
+            <h3 id="101-축으로-property-사용">10.1 축으로 Property 사용</h3>
+            <h4 id="1011-데이터-로딩">10.1.1 데이터 로딩</h4>
+            <ul>
+              <li>
+                dataSet 폴더에서 <strong>flights.csv</strong> 파일을 로딩
+                합니다.
+              </li>
+              <li>
+                <strong>시각화 화면</strong> 에서 <strong>Line Chart</strong> 를
+                드래그 해서 시각화 영역에 Drop 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-1.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                <kbd>File</kbd>→<kbd>Document Properties</kbd> 를 클릭 합니다.
+              </li>
+              <li>
+                <strong>Properties</strong> 탭에서 <kbd>New</kbd> 를 클릭하면
+                Property 편집창이 뜹니다.
+              </li>
+              <li>
+                <strong>Property name</strong> 항목에 Page1X 라고 입력하고
+                **String **을 선택하고 <kbd>OK</kbd> 를 클릭 합니다.
+              </li>
+              <li>
+                다시 <kbd> New </kbd> 를 클릭하고 동일방법으로 Page1Y를 입력
+                하고 <strong>String</strong> 을 선택하고 <kbd>OK</kbd> 를
+                클릭합니다.
+              </li>
+              <li>총 2개의 Document Property 를 만들어 습니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-2.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1012-text-area-생성">10.1.2 Text Area 생성</h4>
+            <p>
+              <strong>시각화 메뉴</strong> 에서 <strong>Text area</strong> 를
+              드래그 해서 시각화영역에 Drop 합니다.
+            </p>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-3.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                텍스트 영역의 오른쪽 상단에 편집버튼(연필모양) 을 클릭 합니다.
+              </li>
+              <li>
+                <p>
+                  <kbd>Insert Property Control</kbd> 을 클릭 하고
+                  <strong>Drop-Down List</strong> 를 클릭 합니다.
+                </p>
+              </li>
+              <li>
+                Property Control 대화 상자가 나타나면,
+                <strong>Document Properties</strong> 탭에서
+                <strong>Select property</strong> 항목에서
+                <strong>Page1Y</strong> 를 선택 합니다.
+              </li>
+              <li>
+                <strong>Set Property value through</strong> 항목은
+                <strong>Column selection</strong> 으로 선택 합니다.
+              </li>
+              <li>
+                <strong>Settings</strong> 에서 <kbd>Select Columns</kbd> 를 클릭
+                합니다.
+              </li>
+              <li>
+                <strong>Select Columns</strong> 팝업창에서 <kbd>New</kbd> 를
+                클릭 합니다.
+              </li>
+              <li>
+                <kbd>New</kbd> 를 클릭하고, 팝업창의 Property name 항목에
+                <strong>Page1Y</strong> 라고 동일하게 적어 줍니다.
+              </li>
+              <li>
+                Data Type 은 <strong>Boolean</strong> 으로 하고
+                <strong>Default Value</strong> 는 <strong>TRUE</strong> 로 입력
+                합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-4.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                <strong
+                  >Select Columns ** 창에서 모든 변수를 제거하고
+                  **dep_dealy</strong
+                >, <strong>arr_time</strong> , <strong>arr_delay</strong> 3개만
+                선택 합니다
+              </li>
+              <li>
+                page1X 도 위와 동일한 방법으로 설정 하되,
+                <strong>month</strong>,
+                <strong>day</strong>,<strong>carrier</strong>,
+                <strong>tailnum</strong> 4개만 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-5.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>텍스트 박스 결과</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220151204774.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1013-축에-property-설정">10.1.3 축에 property 설정</h4>
+            <ul>
+              <li>
+                <strong>Y축</strong> 과 <strong>X축</strong> 에 오른쪽 마우스
+                버튼을 클릭한뒤, <strong>set from Property</strong> 를 클릭 해서
+                각각의 Document Property 를 설정해줍니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-6.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>최종화면</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220160502842.png"
+                alt=""
+              />
+            </p>
+            <h3 id="102-text-표현식-으로-property-사용">
+              10.2 Text 표현식 으로 Property 사용
+            </h3>
+            <h4 id="1021-데이터-로딩">10.2.1 데이터 로딩</h4>
+            <p>
+              dataSet 폴더에서 <strong>OfficeSupplies.txt</strong> 파일을 로딩
+              합니다.
+            </p>
+            <h4 id="1022-bar-chart-그리기">10.2.2 Bar Chart 그리기</h4>
+            <ul>
+              <li>아래와 같이 Bar Chart 를 그립니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220164516548.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1023-text-영역-설정">10.2.3 Text 영역 설정</h4>
+            <ul>
+              <li>
+                <p>
+                  Text 편집(연필모양) 을 누르고, 기존에 있던 텍스트 영역에
+                  한칸을 내려 <kbd>Insert Property Control </kbd> 을 클릭해서
+                  <strong>Drop-Down List</strong> 를 하나 더 만듭니다.
+                </p>
+              </li>
+              <li>
+                <p>
+                  <strong>Drop-Down List</strong> 를 더블클릭 하면 아래와 같이
+                  <strong>Property Control</strong> 에서
+                  <strong>Document Properties</strong> 탭에 <kbd>New</kbd> 를
+                  클릭하여 새로운 Document Property 로
+                  <strong>Property Name</strong> 을
+                  <strong>Value Axes</strong> 라고 하고
+                  <strong>Data Type</strong> 을 <strong>String</strong> 으로
+                  해서 만듭니다.
+                </p>
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-7.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                동일한 <strong>Property Control</strong> 에서
+                <strong>Set property value through</strong> 를
+                <strong>Expression</strong> 으로 선택 하고 <kbd> Add </kbd> 를
+                클릭해서 아래와 같이 2가지의 Setting 을 추가 합니다.
+              </li>
+              <li>Text 영역을 저장 합니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-8.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>최종 추가 모습</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220170321031.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1025-expression-으로-property-설정">
+              10.2.5 Expression 으로 Property 설정
+            </h4>
+            <ul>
+              <li>
+                <strong>Y축</strong> 에 ** Custom Expression** 을 클릭하게 되면
+                Custom Expression 창이 뜹니다.
+              </li>
+              <li>
+                원래 있던 표현식을 지우고
+                <strong>Available properties for column</strong> 항목에서
+                <strong>ValueAxes</strong> 를 스크롤 다운해서 선택 한다음
+                <kbd>Insert Properties</kbd> 를 클릭 하면 자동으로 값이 들어
+                갑니다.
+              </li>
+              <li>
+                Expression 을 복사해서 <strong>Display name</strong> 에도 동일한
+                표현식을 넣어 줍니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-9.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>최종 모습</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220171305659.png"
+                alt=""
+              />
+            </p>
+            <h3 id="103-value-로-property-사용">10.3 Value 로 Property 사용</h3>
+            <h4 id="1031-새로운-페이지-추가">10.3.1 새로운 페이지 추가</h4>
+            <ul>
+              <li>새로운 페이지를 만들고 , 테이블 차트 를 추가 합니다.</li>
+              <li>
+                출발 지연율에 대한 기준을 5분으로 설정 하고 5분이 넘으면 위반
+                5분 이하면
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220171637727.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1032-테이블-차트의-컬럼-속성을-자동으로-변경">
+              10.3.2 테이블 차트의 컬럼 속성을 자동으로 변경
+            </h4>
+            <ul>
+              <li>
+                테이블 차트에서 <strong>Properties(속성)</strong> 으로 이동하고
+                <strong>Columns</strong> 항목을 선택 한 다음
+                <strong>Selected columns</strong> 에서 모든 변수를
+                <kbd>Remove ALL </kbd> 을 클릭해서 제거 합니다.
+              </li>
+              <li>
+                <strong>flight, dep_dealy, tailnum, carrier</strong> 만 추가
+                해줍니다.
+              </li>
+              <li>
+                하단에 있는 <strong>Add new columns automatically</strong> 를
+                체크 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-10.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1033-text-area-추가-및-설정">
+              10.3.3 Text Area 추가 및 설정
+            </h4>
+            <ul>
+              <li>Text 영역을 추가 해줍니다.</li>
+              <li>
+                추가한 Text 영역에 <strong>Insert Property Control</strong> 을
+                클릭해서 <strong>Slide Bar</strong> 를 추가해 줍니다.
+              </li>
+              <li>
+                <strong>Property Control</strong> 창에서 <kbd>New</kbd> 를
+                클릭해서 <strong>Property name</strong> 에
+                <strong>DepDelayViolated</strong> 를 입력하고
+                <strong>Data Type</strong> 을
+                <strong>Integer 으로 선택 하고, **Value</strong> 를 **5** 로
+                설정한 뒤 <kbd>OK</kbd>
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/property-cnt-11.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                동일한 Property Control 에서
+                <strong>DepDelayViolated</strong> 범위를 아래와 같이 지정
+                합니다.
+              </li>
+              <li>
+                <strong>Set property value through</strong> 항목에서
+                <strong>Numerical range</strong> 를 선택합니다.
+              </li>
+              <li>
+                <strong>Min : 1</strong>,
+                <strong>Max: 20, Value Interval: 1</strong> 로 설정하고
+                <strong>Show min and max labels</strong> 를 체크 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220191740336.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1034-calculated-column-추가">
+              10.3.4 Calculated Column 추가
+            </h4>
+            <ul>
+              <li>
+                <kbd> Data</kbd>→<kbd>Add Calulated Column</kbd> 을 클릭 합니다.
+              </li>
+              <li>
+                <strong>Available properties for column</strong> 항목에서
+                <strong>DepDelayViolated</strong> 를 찾아
+                <strong>Insert as Value</strong> 로 표현식에 입력 합니다.
+              </li>
+              <li>표현식은 아래와 같습니다.</li>
+            </ul>
+            <pre><code class="language-{php}">if(([dep_delay] -DocumentProperty("DepDelayViolated") &gt; 0), "Violated", "Passed")
+</code></pre>
+            <ul>
+              <li><strong>Column name</strong> 은 Violoated 로 입력 합니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220192206099.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>최종 화면</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201220192718119.png"
+                alt=""
+              />
+            </p>
+            <h2 id="11-머신러닝">11. 머신러닝</h2>
+            <h2 id="12-data-function-with-r">12. Data Function with R</h2>
+            <h3 id="121-data-function-만들기">12.1 Data Function 만들기</h3>
+            <h4 id="1211-data-functio-등록-하기">
+              12.1.1 Data Functio 등록 하기
+            </h4>
+            <ul>
+              <li>
+                <p>
+                  <strong>Tools</strong> 의
+                  <strong>Register data functions</strong> 을 클릭 하고 ,
+                  <strong>Name</strong> 을
+                  <strong>KMeansClustering</strong> 이라 고 입력 합니다.
+                </p>
+              </li>
+              <li>
+                <p>
+                  <strong>Type</strong> 을 Drop-Down List 에서
+                  <strong>R script - TIBCO Enterprise Runtime for R</strong> 을
+                  선택 합니다.
+                </p>
+              </li>
+              <li>
+                <p>설명란에 **나의 첫번째 데이터 함수 ** 라고 입력 합니다.</p>
+              </li>
+              <li>
+                <p>
+                  <strong>Script</strong> 입력 창에 아래와 같이 입력 합니다.
+                </p>
+                <pre><code class="language-{R}">cl &lt;- kmeans(data.frame(x,y), k)
+cl.cluster &lt;- data.frame(cluster = cl$cluster)
+cl.centers &lt;- data.frame(cluster=1:k, cl$centers, size=cl$size)
+</code></pre>
+              </li>
+            </ul>
+            <h4 id="1212-input-파라메터-설정-하기">
+              12.1.2 Input 파라메터 설정 하기
+            </h4>
+            <ul>
+              <li><strong>Input Parameters</strong> 탭을 클릭 합니다.</li>
+              <li>
+                <kbd>Add</kbd> 를 클릭하고
+                <strong>Input parameter name</strong> 을 <strong>x</strong> 로
+                입력 합니다.
+              </li>
+              <li>
+                <strong>Display name</strong> 을
+                <strong>x - axis value</strong> 입력 합니다.
+              </li>
+              <li>
+                <strong>Type</strong> 은 <strong>Column</strong> 을 선택 합니다.
+              </li>
+              <li>
+                <strong>Allowed data types</strong> 에
+                <strong>Integer, Real, SingleReal, Currency</strong> 4개를 체크
+                한뒤 <kbd> OK </kbd> 를 클릭 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221131049624.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>다시 <strong>Script</strong> 탭으로 이동 합니다.</li>
+              <li>
+                y 변수를 하이라이트 해서 오른쪽 마우스를 클릭 해서
+                <strong>Input Parameter</strong> 를 클릭 합니다.
+              </li>
+              <li>
+                <strong>Input Parameter name</strong> 에 <strong>y</strong> 를
+                입력 합니다.
+              </li>
+              <li>
+                <strong>Display name</strong> 에는
+                <strong>y - axis values</strong> 라고 입력 합니다.
+              </li>
+              <li>
+                <strong>type</strong> 은 <strong>Column</strong> 으로 하고
+                <strong>Allowed data types</strong> 는
+                <strong>Integer, Real, SingleReal, Currency</strong> 를 체크
+                한뒤 <kbd> OK </kbd> 를 클릭 합니다.
+              </li>
+            </ul>
+            <p><img src="/spotfireBasic/img/sfUserGuide/df-1.png" alt="" /></p>
+            <ul>
+              <li>동일한 방법으로 변수 k 에대해서 아래와 같이 실행 합니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221132639547.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                <strong>Input Parameter</strong> 탭에서 최종적으로 아래와 같이
+                보입니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221132837519.png"
+                alt="image-20201221132837519"
+              />
+            </p>
+            <h4 id="1213-ouput-파라메터-설정">12.1.3 Ouput 파라메터 설정</h4>
+            <ul>
+              <li>
+                <strong>Output parameter</strong> 탭을 선택 하고,
+                <kbd> Add </kbd> 버튼을 클릭 합니다.
+              </li>
+              <li>
+                <strong>Result parameter name</strong> 을
+                <strong>cl.cluster</strong> 로 입력 합니다.
+              </li>
+              <li>
+                <strong>Display name</strong> 을
+                <strong>Cluster assignments</strong> 로 입력 합니다.
+              </li>
+              <li>
+                <strong>Description</strong> 에
+                <strong>데이터 포인트에 대한 클러스터 할당 결과</strong> 로 입력
+                하고, <kbd> OK </kbd> 클릭 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221133652092.png"
+                alt="image-20201221133652092"
+              />
+            </p>
+            <ul>
+              <li>
+                <kbd> Add </kbd> 를 클릭 해서 신규 Output parameter 를 추가
+                합니다.
+              </li>
+              <li>
+                <strong>Result parameter name</strong> 을
+                <strong>cl.centers</strong> 라고 입력 합니다.
+              </li>
+              <li>
+                <strong>Display name</strong> 을
+                <strong>Cluster centers</strong> 로 입력합니다.
+              </li>
+              <li>
+                <strong>Description</strong> 에는
+                <strong>클러스터의 크기 및 클러스터의 좌표</strong> 라고 입력
+                합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221134440582.png"
+                alt="image-20201221134440582"
+              />
+            </p>
+            <ul>
+              <li>Output 파라메터 부분은 최종적으로 아래와 같습니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221134557995.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1214-data-function-저장하기">
+              12.1.4 Data Function 저장하기
+            </h4>
+            <ul>
+              <li><kbd> Save as</kbd> 를 클릭 합니다.</li>
+              <li>
+                <strong>Name</strong> 을 <strong>KMeansClustering</strong> 으로
+                저장 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221135055213.png"
+                alt=""
+              />
+            </p>
+            <h4 id="122-data-function-실행-하기">
+              12.2 Data Function 실행 하기
+            </h4>
+            <h4 id="1221-dxp-불러오기">12.2.1 Dxp 불러오기</h4>
+            <ul>
+              <li>dataSet 폴더에 Lab_W.dxp 파일을 로딩 합니다.</li>
+              <li>
+                로딩이 완료 되면 아래와 같이 Scatter Plot 이 보이게 됩니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221135849955.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1222-라이브러리로-부터-data-function-불러오기">
+              12.2.2 라이브러리로 부터 Data Function 불러오기
+            </h4>
+            <ul>
+              <li>
+                메뉴 <strong>Data</strong> →<strong
+                  >Data function properties</strong
+                >
+                를 클릭 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221140327196.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1223-input-파라메터-편집">12.2.3 Input 파라메터 편집</h4>
+            <ul>
+              <li>
+                <strong>Input</strong> 탭 에서
+                <strong>x - axis value</strong> 를 마우스로 선택 합니다.
+              </li>
+              <li>
+                <strong>nput handler</strong> 섹션에서
+                <strong>Column</strong> 을 선택 합니다.
+              </li>
+              <li>
+                라디오 버튼에 <strong>Columns</strong> 가 선택 되어 있으며,
+                <kbd> Select Columns </kbd> 를 클릭해서 변수
+                <strong>X</strong> 추가 합니다.
+              </li>
+              <li>
+                스크롤다운 하면 <strong>Limit by</strong> 섹션이 보이고
+                <strong>Filtered rows</strong> 를
+                <strong>Filtering Scheme (842 rows)</strong> 로 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221165116727.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                동일한 <strong>Input</strong> 탭에서 이제
+                <strong>y - axis values</strong> 마우스로 선택 합니다.
+              </li>
+              <li>
+                <strong>nput handler</strong> 섹션에서
+                <strong>Column</strong> 을 선택 합니다.
+              </li>
+              <li>
+                <strong>Column</strong> 항목을 <strong>Y</strong> 로 선택
+                합니다.
+              </li>
+              <li>
+                <strong>Limit by</strong> 섹션에서
+                <strong>Filtered row</strong> 항목을
+                <strong>Filtering scheme (842 rows)</strong> 로 설정 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221165926385.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                동일한 <strong>Input</strong> 탭에서 이제
+                <strong>Desired number of clusters</strong> 를 선택 합니다.
+              </li>
+              <li>
+                <strong>Input handler</strong> 섹션에서
+                <strong>Document property</strong> 를 선택 합니다.
+              </li>
+              <li>
+                <strong>Property</strong> 섹션에서
+                <strong>NoOfClusters</strong> 를 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221170324387.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1224-output-파라메터-편집">12.2.4 Output 파라메터 편집</h4>
+            <ul>
+              <li>이제 <strong>Output</strong> 탭으로 이동 합니다.</li>
+              <li>
+                <strong>Output parameters</strong> 항목에
+                <strong>Cluster assignments</strong> 를 선택 합니다.
+              </li>
+              <li>
+                <strong>Output handler</strong> 에서 <strong>Columns</strong> 를
+                선택합니다.
+              </li>
+              <li>
+                <strong>Map to input rows</strong> 항목을
+                <strong>x - axis value</strong> 로 선택 합니다.
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221170808188.png"
+                alt=""
+              />
+            </p>
+            <ul>
+              <li>
+                이제 <strong>Output Parameters</strong> 에서
+                <strong>Cluster centers</strong> 를 선택 합니다.
+              </li>
+              <li>
+                <strong>Output handler</strong> 를
+                <strong>Data table</strong> 로 선택 합니다.
+              </li>
+              <li>
+                상단의 <strong>Refresh function automatically</strong> 를 체크
+                합니다.
+              </li>
+              <li><kbd> OK </kbd> 를 클릭 합니다.</li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221171201282.png"
+                alt=""
+              />
+            </p>
+            <h4 id="1225-결과-보기">12.2.5 결과 보기</h4>
+            <ul>
+              <li>
+                <p>
+                  아래와 같이 데이터 메뉴에 <strong>Cluster</strong> 라는 신규
+                  변수가 생기고, 신규 데이터 셋으로
+                  <strong>Cluster centers</strong> 라는 것이 만들어 졌습니다.
+                </p>
+              </li>
+              <li>
+                <p>
+                  cluster 를 마우스로 Drag 해서 격자형 패널 아이콘에 Drop
+                  합니다.
+                </p>
+                <p>
+                  &lt;img src="./img/sfUserGuide/image-20201221171840059.png)
+                </p>
+              </li>
+              <li>
+                <p>
+                  아래 화면처럼 5개의 클러스터로 기존 데이터를 군집화를
+                  만들었습니다.
+                </p>
+              </li>
+            </ul>
+            <p>
+              <img
+                src="/spotfireBasic/img/sfUserGuide/image-20201221171931599.png"
+                alt=""
+              />
+            </p>
+          </div>
+        </div>
+        <hr />
+        <div class="copyright text-center text-gray" role="contentinfo">
+          <i class="fa fa-copyright"></i> <span class="time">2021,</span>
+          <a
+            class="text-gray"
+            href="https://github.com/dangtong76"
+            rel="noreferrer"
+            target="_blank"
+            >dangtong76</a
+          >
+          Revision
+          <a
+            class="text-gray"
+            href="https://github.com/dangtong76/dangtong76.github.io/commit/ff840bb3691476618fd914e6d360a95225fca8fe"
+            title="ff840bb3691476618fd914e6d360a95225fca8fe"
+            rel="noreferrer"
+            target="_blank"
+            >ff840bb</a
+          >
+          <br />
+          <div class="generator">
+            Built with
+            <a
+              href="https://pages.github.com"
+              rel="noreferrer"
+              target="_blank"
+              title="github-pages v209"
+              >GitHub Pages</a
+            >
+            using a
+            <a
+              href="https://github.com/rundocs/jekyll-rtd-theme"
+              rel="noreferrer"
+              target="_blank"
+              title="jekyll-rtd-theme v2.0.10"
+              >theme</a
+            >
+            provided by
+            <a href="https://rundocs.io" rel="noreferrer" target="_blank"
+              >RunDocs</a
+            >.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="addons-wrap d-flex flex-column overflow-y-auto">
+      <div class="status d-flex flex-justify-between p-2">
+        <div class="title p-1"><i class="fa fa-book"></i> 당통의 블로그</div>
+        <div class="branch p-1">
+          <span class="name"> gh-pages </span> <i class="fa fa-caret-down"></i>
+        </div>
+      </div>
+      <div class="addons d-flex flex-column height-full p-2 d-none">
+        <dl>
+          <dt>GitHub</dt>
+          <dd>
+            <a
+              href="https://github.com/dangtong76/dangtong76.github.io"
+              title="Stars: 0"
+            >
+              <i class="fa fa-github"></i> Homepage
+            </a>
+          </dd>
+          <dd>
+            <a
+              href="https://github.com/dangtong76/dangtong76.github.io/issues"
+              title="Open issues: 0"
+            >
+              <i class="fa fa-question-circle-o"></i> Issues
+            </a>
+          </dd>
+          <dd>
+            <a
+              href="https://github.com/dangtong76/dangtong76.github.io/zipball/gh-pages"
+              title="Size: 379672 Kb"
+            >
+              <i class="fa fa-download"></i> Download
+            </a>
+          </dd>
+        </dl>
+        <hr />
+        <div class="license f6 pb-2">
+          This <a href="/" title="당통의 블로그">Software</a> is under the terms
+          of
+          <a href="https://github.com/dangtong76/dangtong76.github.io"
+            >MIT License</a
+          >.
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/gh/rundocs/jekyll-rtd-theme@2.0.10/assets/js/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/rundocs/jekyll-rtd-theme@2.0.10/assets/js/theme.min.js"></script>
+  </body>
+</html>

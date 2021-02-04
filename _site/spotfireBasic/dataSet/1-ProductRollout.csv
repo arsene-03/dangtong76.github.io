@@ -1,0 +1,81 @@
+Name,Manager,Country,Est End Date,Global Rollout,# of Users,Importance,Discipline,Perceived Investment Value,Risk,Spent,Budget
+Access Control,Reannon Stern,Spain,6/18/2011,No,more than 1000,High,IT,7,low,0.68,31
+Screening Services,Reannon Stern,France,10/21/2011,No,500 - 1000,Medium,Medical Biology,7,low,1108.66,1018
+Adverse Event Reporting,Reynard Schneider,Spain,1/4/2012,No,10 - 100,High,General & Site Management,7,low,210.59,269
+Analysis Tools,Camilla Myers,Spain,8/12/2011,No,more than 1000,Medium,Scientific Management,7,low,86.67,111
+Query Services,Reannon Stern,Spain,11/6/2011,Yes,100 - 500,Medium,Chemistry,7,medium,27.04,315
+Beilstein Services,Benton Potter,Spain,10/7/2011,No,100 - 500,Medium,Chemistry,5,low,818.91,598
+CompBio Services,Reannon Stern,Canada,7/3/2011,No,10 - 100,Medium,Molecular Biology,6,low,0.4,305
+Bioinformatics Services,Reannon Stern,Spain,11/22/2011,No,100 - 500,High,Molecular Biology,7,low,0.6,710
+Business Contingency Planning,Tanisha Shaffer,France,12/26/2011,No,100 - 500,Low,IT,1,low,0.45,62
+Collaboration Platforms,Reynard Schneider,Spain,1/14/2012,Yes,more than 1000,Low,IT,8,low,8.75,4
+CompChem Services,Reannon Stern,Spain,8/3/2011,No,500 - 1000,Medium,Chemistry,7,low,3.94,48
+ChemInfo Search Services,Reannon Stern,Spain,4/12/2011,No,100 - 500,Low,Chemistry,8,low,15.24,61
+Cheminformatics,Lance Beard,Spain,8/23/2011,No,more than 1000,High,IT,3,low,28.67,475
+MolModeling A,Reannon Stern,Spain,12/11/2011,No,100 - 500,Medium,Chemistry,5,low,7.88,47
+MolModeling B,Reannon Stern,Canada,2/22/2011,No,100 - 500,Medium,Chemistry,5,low,0.59,191
+Communications and Marketing,Jerrold Thigpen,Spain,1/20/2012,No,more than 1000,Low,IT,7,medium,22.98,309
+Competitive Intelligence Services,Camilla Myers,Spain,6/19/2011,No,500 - 1000,High,Scientific Management,6,low,36.83,240
+Current Awareness Bulletin,Reynard Schneider,Spain,12/13/2011,No,500 - 1000,High,General & Site Management,7,low,64.79,142
+Data Curation,Reannon Stern,Spain,8/4/2011,No,10 - 100,Low,IT,6,medium,0.16,101
+Data Integration Services,Camilla Myers,Spain,11/26/2011,No,more than 1000,Medium,Scientific Management,6,low,3.37,74
+Database Competence Center,Reannon Stern,Spain,10/31/2011,No,more than 1000,Medium,IT,3,low,20.43,86
+DB Administration,Tanisha Shaffer,Spain,7/3/2011,No,more than 1000,High,IT,8,low,225.35,874
+Document Management  Services,Reannon Stern,Spain,12/24/2011,No,more than 1000,High,Scientific Management,9,low,33.24,103
+Document Management Training,Reannon Stern,Spain,7/2/2011,No,10 - 100,Medium,IT,5,low,5.81,170
+Genotyping Services,Reynard Schneider,Spain,12/21/2011,No,500 - 1000,High,General & Site Management,7,low,464.96,766
+Financial Management,Jerrold Thigpen,Canada,8/30/2011,No,10 - 100,High,General & Site Management,7,medium,0.38,510
+GeneProtein,Reannon Stern,Spain,8/1/2011,No,10 - 100,High,Molecular Biology,8,low,0.71,187
+Global databases and search tools,Benton Potter,Spain,7/11/2011,Yes,more than 1000,High,Scientific Management,5,low,550.73,196
+Global e-Journals,Benton Potter,Spain,6/23/2011,No,more than 1000,High,Scientific Management,8,low,774.36,2736
+Global Intranet and Internet Services,Camilla Myers,Canada,9/21/2011,Yes,more than 1000,Low,IT,7,low,38.16,529
+Global Portfolio Management,Jerrold Thigpen,Canada,12/7/2011,No,10 - 100,Low,IT,5,high,45.27,573
+Grid Computing Service,Tanisha Shaffer,Spain,10/31/2011,No,10 - 100,High,IT,8,medium,37.69,926
+Helpdesk & Support,Tanisha Shaffer,Spain,5/25/2011,No,more than 1000,Medium,General & Site Management,9,low,406.39,3874
+Reaction scheme data entry,Reannon Stern,Spain,9/10/2011,No,100 - 500,Low,Chemistry,5,low,0.13,32
+Information Analysis,Reynard Schneider,Spain,6/18/2011,No,100 - 500,High,General & Site Management,9,low,0.76,1514
+Local Bioinformatics Services,Lance Beard,Belgium,6/16/2011,No,10 - 100,Low,Molecular Biology,3,low,0.4,214
+FJ&R Services,Camilla Myers,Spain,11/26/2011,No,more than 1000,High,Scientific Management,7,low,1016.96,385
+Laboratory Support,Reannon Stern,Spain,6/19/2011,No,more than 1000,Medium,Technology,7,low,238.23,1042
+ProjectDB Services,Reannon Stern,Spain,3/18/2011,No,10 - 100,Medium,Technology,5,medium,14.49,28
+Local IT Services - Madrid,Benton Potter,Spain,8/4/2011,No,more than 1000,High,Scientific Management,8,low,101.46,1493
+Local IT Services - Toronto,Benton Potter,Canada,12/6/2011,No,500 - 1000,High,Scientific Management,8,low,60.42,501
+Local KC Services - Montreal,Benton Potter,Canada,11/8/2011,No,more than 1000,High,Scientific Management,8,low,40.6,1370
+Local KC Services - Paris,Benton Potter,France,10/13/2011,No,500 - 1000,High,Scientific Management,8,low,30.31,178
+Local KC Services - Brussels,Benton Potter,Belgium,1/24/2012,No,500 - 1000,High,Scientific Management,8,low,100.63,1025
+Lotus Notes  Support,Tanisha Shaffer,Canada,12/21/2011,No,more than 1000,Medium,IT,5,low,18.98,174
+MDL/ISIS,Reannon Stern,Spain,12/9/2011,No,500 - 1000,High,Chemistry,8,low,5.35,906
+News Service,Camilla Myers,Spain,6/13/2011,No,more than 1000,Medium,Scientific Management,6,low,73.04,74
+CI/SS,Reannon Stern,France,7/10/2011,No,10 - 100,Medium,Chemistry,5,low,0.59,0
+Office Services,Tanisha Shaffer,Spain,9/19/2011,No,more than 1000,High,IT,9,low,359.38,2367
+Paper Archive Management,Reannon Stern,Canada,10/17/2011,No,more than 1000,High,General & Site Management,8,low,239.42,1200
+Paper Archive Management - Madrid,Reannon Stern,Spain,6/18/2011,No,more than 1000,High,General & Site Management,8,low,0.64,0
+Paper Archive Management - Toronto,Reannon Stern,Canada,6/6/2011,No,100 - 500,High,General & Site Management,8,low,0.16,0
+Paper Archive Management - Montreal,Reannon Stern,Canada,7/1/2011,No,100 - 500,High,General & Site Management,8,low,0.69,0
+Paper Archive Management - Paris,Reannon Stern,France,12/11/2011,No,100 - 500,High,General & Site Management,8,low,0.52,0
+Paper Archive Management - Brussels,Reannon Stern,Belgium,12/10/2011,No,100 - 500,High,General & Site Management,8,low,0.86,0
+Partnership Management,Jerrold Thigpen,Canada,7/16/2011,No,10 - 100,Medium,IT,7,medium,6.4,786
+Persilog Services,Reannon Stern,Spain,12/21/2011,No,100 - 500,Medium,General & Site Management,6,low,25.17,79
+Pharon Services,Reannon Stern,Spain,7/4/2011,No,100 - 500,High,Medical Biology,7,low,10.59,41
+Porto Services,Reannon Stern,Spain,11/29/2011,Yes,10 - 100,Medium,Scientific Management,6,low,8.73,22
+Preplab,Reannon Stern,Spain,12/9/2011,No,10 - 100,Medium,Chemistry,5,low,0.61,12
+Protein Production Database Services,Reannon Stern,Spain,5/4/2011,No,10 - 100,Medium,Technology,7,medium,1.93,34
+Reaction DB Services,Benton Potter,Spain,12/17/2011,No,100 - 500,Medium,Chemistry,5,low,620.08,582
+Resource Management,Jerrold Thigpen,Canada,6/26/2011,Yes,10 - 100,Medium,IT,7,low,0.41,42
+Scifinder Services,Benton Potter,Canada,6/13/2011,No,500 - 1000,High,Chemistry,6,low,270.62,1330
+Server Operations,Tanisha Shaffer,Spain,11/27/2011,No,more than 1000,High,IT,9,low,0.07,3014
+Statistics,Reynard Schneider,Spain,6/12/2011,No,500 - 1000,High,Scientific Management,8,low,9.7,48
+Storage,Tanisha Shaffer,Spain,6/14/2011,No,more than 1000,High,IT,8,low,33.91,588
+Structure database quality control,Reannon Stern,Spain,8/12/2011,No,500 - 1000,High,Chemistry,9,low,13.93,184
+Support to Chief Technical Officer,Tanisha Shaffer,Canada,11/28/2011,No,10 - 100,Medium,IT,5,medium,0.42,0
+Support to Discovery Technology,Reannon Stern,Canada,1/2/2012,No,10 - 100,Medium,IT,5,medium,0.95,0
+Support to FGA,Reannon Stern,Canada,8/22/2011,No,less than 10,Medium,IT,5,medium,0.39,0
+Support to Global IT Management,Camilla Myers,Canada,1/2/2012,No,10 - 100,Medium,IT,5,medium,0.6,0
+Support to Research Operations,Jerrold Thigpen,Canada,12/22/2011,No,10 - 100,Medium,IT,5,medium,0.22,0
+Synonym list,Reannon Stern,Spain,5/15/2011,No,more than 1000,Medium,Chemistry,5,low,5.56,40
+Text Mining Services,Camilla Myers,Spain,7/26/2011,No,more than 1000,High,Scientific Management,6,low,36.31,112
+Training Consultancy,Jerrold Thigpen,Spain,10/17/2011,No,more than 1000,High,IT,8,low,8.24,0
+Unix Services,Camilla Myers,Spain,5/22/2011,No,more than 1000,Medium,Scientific Management,8,low,22.49,557
+Vocabulary Services,Camilla Myers,Spain,10/3/2011,No,more than 1000,High,Scientific Management,8,low,548.49,195
+Web Content Management,Camilla Myers,Canada,11/20/2011,Yes,more than 1000,Low,General & Site Management,8,low,23.2,472
+STITCH Services,Reannon Stern,Spain,6/27/2011,No,100 - 500,High,Chemistry,8,low,22.54,121

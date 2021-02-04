@@ -1,0 +1,1893 @@
+Participant	Gender	Date	Before	4-month Program	After	Weight Loss
+name	male/female	enrolled	lbs	diet/exercise	lbs	lbs
+-----	-----	-----	-----	-----	-----	-----
+Aaliyah	F	8/21/10 12:00 AM	200.2	Six small meals	153.8	46.4
+Aaron	M	2/23/10 12:00 AM	284.1	Six small meals	244	40.1
+Abbey	F	5/10/10 12:00 AM	131.1	Six small meals	118.5	12.6
+Abbigail	F	9/16/10 12:00 AM	165.9	Low Fat	125.6	40.3
+Abby	F	1/12/11 12:00 AM	171.1	Increase Exercise	169.6	1.5
+Abdiel	M	12/29/10 12:00 AM	275.1	Six small meals	275.2	-0.1
+Abdullah	M	2/26/10 12:00 AM	259.1	No change (control)	248.2	10.9
+Abel	M	3/8/11 12:00 AM	294.9	Low Carb	287.9	7
+Abigail	F	4/22/10 12:00 AM	222.2	Low Fat	164.8	57.4
+Abraham	M	1/30/11 12:00 AM	335.3	Low Carb	333.9	1.4
+Adam	M	1/14/11 12:00 AM	224	No change (control)	224.8	-0.8
+Adan	M	11/15/10 12:00 AM	238.5	Low Fat	237.6	0.9
+Addison	M	11/23/10 12:00 AM	275.4	No change (control)	276.4	-1
+Adolfo	M	11/2/10 12:00 AM	255.3	Low Carb	251.2	4.1
+Adonis	M	6/4/10 12:00 AM	301.1	Six small meals	283.1	18
+Adrian	F	7/25/10 12:00 AM	209.4	Low Fat	166.5	42.9
+Adriana	F	7/27/10 12:00 AM	160.7	Low Carb	152	8.7
+Adrienne	F	12/6/10 12:00 AM	118.6	Low Carb	116	2.6
+Agustin	M	1/21/10 12:00 AM	263.2	Low Carb	262.3	0.9
+Ahmad	M	4/10/10 12:00 AM	297.5	Low Fat	287.1	10.4
+Ahmed	M	5/18/10 12:00 AM	300.1	Increase Exercise	262.5	37.6
+Aidan	M	1/22/10 12:00 AM	279.4	Low Fat	276	3.4
+Aiden	M	5/30/10 12:01 PM	316.6	Low Fat	307.2	9.4
+Aileen	F	11/12/10 12:00 AM	185.3	No change (control)	181.1	4.2
+Aimee	F	1/4/11 12:00 AM	134.3	Six small meals	124.6	9.7
+Aisha	F	8/27/10 12:00 AM	142.1	Low Fat	141.5	0.6
+Aja	F	3/5/10 12:00 AM	194	Low Fat	192.4	1.6
+Akeem	M	1/22/11 12:00 AM	267.6	Six small meals	261.8	5.8
+Alan	M	12/29/10 12:00 AM	233.3	Increase Exercise	200.8	32.5
+Alana	F	10/6/10 12:00 AM	197.2	Six small meals	181.4	15.8
+Alanna	F	7/7/10 12:00 AM	217.7	No change (control)	184.3	33.4
+Alayna	F	3/15/10 12:00 AM	133.6	Low Carb	117	16.6
+Albert	M	8/20/10 12:00 AM	295.3	Increase Exercise	294.3	1
+Alden	M	6/24/10 12:00 AM	317.9	Increase Exercise	277.3	40.6
+Aldo	M	4/27/10 12:00 AM	259.7	Low Fat	255.6	4.1
+Aleah	F	1/19/11 12:00 AM	182.4	No change (control)	181.3	1.1
+Alec	M	11/13/10 12:00 AM	244	No change (control)	245.9	-1.9
+Alecia	F	4/8/10 12:00 AM	198.1	No change (control)	165.1	33
+Alejandra	F	5/28/10 12:00 AM	184.8	No change (control)	163.5	21.3
+Alejandro	M	11/1/10 12:00 AM	329.4	Increase Exercise	316.3	13.1
+Alena	F	2/8/11 12:00 AM	207.4	Six small meals	188.2	19.2
+Alesha	F	1/14/11 12:00 AM	120.4	Increase Exercise	90.9	29.5
+Alessandra	F	2/1/11 12:00 AM	168.6	Six small meals	126	42.6
+Alex	M	1/11/11 12:00 AM	278.9	Low Fat	266.7	12.2
+Alexa	F	3/30/10 12:00 AM	173.7	Increase Exercise	144.7	29
+Alexander	M	8/1/10 12:00 AM	293.1	Low Carb	267.3	25.8
+Alexandra	F	1/26/11 12:00 AM	211.2	Low Fat	177	34.2
+Alexandre	M	12/17/10 12:00 AM	270.3	No change (control)	253.9	16.4
+Alexandrea	F	10/9/10 12:00 AM	152.3	Low Carb	131	21.3
+Alexandria	F	3/15/11 12:00 AM	142.7	Low Carb	142.5	0.2
+Alexandro	M	6/25/10 12:00 AM	286.6	No change (control)	306.6	-20
+Alexia	F	7/13/10 12:00 AM	154	Increase Exercise	115.5	38.5
+Alexis	F	10/20/10 12:00 AM	176.1	Low Carb	170.5	5.6
+Alexus	F	1/1/11 12:00 AM	116	Increase Exercise	123.9	-7.9
+Alexy	F	9/4/10 12:00 AM	153.9	No change (control)	142.3	11.6
+Alfonso	M	6/8/10 12:00 AM	274.6	Low Fat	265.9	8.7
+Alfred	M	12/21/10 12:00 AM	283.4	No change (control)	259.9	23.5
+Alfredo	M	1/13/11 12:00 AM	287.2	Low Fat	291.5	-4.3
+Ali	M	11/8/10 12:00 AM	242.7	Low Carb	240.5	2.2
+Alice	F	1/24/11 12:00 AM	194.9	Increase Exercise	199.5	-4.6
+Alicia	F	6/25/10 12:00 AM	135.1	Low Fat	128	7.1
+Alina	F	1/28/11 12:00 AM	148.2	Low Fat	106.3	41.9
+Alisa	F	8/20/10 12:00 AM	210.5	No change (control)	179.6	30.9
+Alison	F	4/23/10 12:00 AM	210.4	No change (control)	194.9	15.5
+Alissa	F	9/11/10 12:00 AM	206.5	Increase Exercise	191.2	15.3
+Aliyah	F	4/4/10 12:00 AM	155.7	Increase Exercise	155	0.7
+Allan	M	2/21/10 12:00 AM	272.3	Low Fat	269.8	2.5
+Allen	M	3/7/10 12:00 AM	301.2	Increase Exercise	255.1	46.1
+Allie	F	1/18/11 12:00 AM	170	Low Fat	170.6	-0.6
+Allison	F	9/10/10 12:00 AM	157.6	No change (control)	129	28.6
+Allyson	F	10/20/10 12:00 AM	113.8	Six small meals	102.9	10.9
+Allyssa	F	12/15/10 12:00 AM	114.6	Low Carb	108.3	6.3
+Alma	F	11/1/10 12:00 AM	181.5	Low Carb	174.2	7.3
+Alondra	F	8/29/10 12:00 AM	174.1	Low Fat	165.4	8.7
+Alonso	M	1/20/10 12:00 AM	272.1	Six small meals	263.1	9
+Alonzo	M	6/24/10 12:00 AM	336.8	Increase Exercise	310.6	26.2
+Alton	M	11/13/10 12:00 AM	296.7	No change (control)	277.8	18.9
+Alvaro	M	12/7/10 12:00 AM	253	Increase Exercise	242.2	10.8
+Alvin	M	1/26/10 12:00 AM	296.1	Increase Exercise	215.5	80.6
+Alycia	F	5/22/10 12:00 AM	166.2	Six small meals	159.2	7
+Alysa	F	7/13/10 12:00 AM	164.1	Increase Exercise	121.2	42.9
+Alysha	F	12/17/10 12:00 AM	116.9	Six small meals	111	5.9
+Alysia	F	1/27/10 12:00 AM	179.8	Six small meals	166.9	12.9
+Alyssa	F	1/31/10 12:00 AM	109.6	No change (control)	92.6	17
+Amanda	F	8/14/10 12:00 AM	112.5	Low Fat	108.6	3.9
+Amani	F	9/21/10 12:00 AM	136.1	Increase Exercise	126.6	9.5
+Amir	M	1/11/11 12:00 AM	257.3	Low Fat	254.3	3
+Amos	M	6/4/10 12:00 AM	272	Low Carb	255.7	16.3
+Amy	F	1/31/11 12:00 AM	135.1	Six small meals	135.6	-0.5
+Ana	F	8/1/10 12:00 AM	114	Increase Exercise	82.6	31.4
+Anabel	F	2/16/11 12:00 AM	160.2	Increase Exercise	145.8	14.4
+Anastasia	F	5/6/10 12:00 AM	141.3	Increase Exercise	121.4	19.9
+Anderson	M	9/7/10 12:00 AM	230.5	Six small meals	237.1	-6.6
+Andre	M	3/8/11 12:00 AM	291.9	Low Carb	261.1	30.8
+Andrea	F	6/13/10 12:00 AM	231.9	Low Fat	211.9	20
+Andreas	M	5/17/10 12:00 AM	220	Low Fat	217.4	2.6
+Andres	M	3/26/10 12:00 AM	256.7	Six small meals	259.8	-3.1
+Andrew	M	10/30/10 12:00 AM	292.2	Increase Exercise	271.1	21.1
+Andy	M	3/11/10 12:00 AM	2.9	Low Fat	271.3	-268.4
+Angel	F	5/16/10 12:00 AM	132.7	Low Fat	121.8	10.9
+Angel	M	11/12/10 12:00 AM	323.8	Increase Exercise	320.1	3.7
+Angela	F	9/10/10 12:00 AM	138.1	No change (control)	133.5	4.6
+Angelica	F	7/3/10 12:00 AM	134.5	Low Carb	120	14.5
+Angelina	F	12/15/10 12:00 AM	129.3	Increase Exercise	114.9	14.4
+Angelique	F	8/15/10 12:00 AM	149.9	No change (control)	147.3	2.6
+Angelo	M	9/21/10 12:00 AM	299.1	Six small meals	303	-3.9
+Angie	F	2/24/10 12:00 AM	212.7	Six small meals	181.7	31
+Anika	F	3/31/10 12:00 AM	147	Increase Exercise	135.3	11.7
+Anissa	F	6/10/10 12:00 AM	141.8	Low Fat	121.3	20.5
+Anita	F	2/17/11 12:00 AM	212.1	Six small meals	196.5	15.6
+Anjelica	F	3/27/10 12:00 AM	204.9	No change (control)	185.6	19.3
+Ann	F	2/14/11 12:00 AM	154.3	Low Carb	129.3	25
+Anna	F	11/29/10 12:00 AM	166.6	Six small meals	157.4	9.2
+Annamarie	F	8/2/10 12:00 AM	193.5	Low Carb	179.8	13.7
+Anne	F	10/24/10 12:00 AM	180.3	Six small meals	148.9	31.4
+Annette	F	3/30/10 12:00 AM	156.4	Low Fat	146.4	10
+Annie	F	2/19/10 12:00 AM	203.5	No change (control)	185.8	17.7
+Annmarie	F	6/5/10 12:00 AM	171.8	No change (control)	156	15.8
+Anthony	M	10/14/10 12:00 AM	258.4	No change (control)	219	39.4
+Antoine	M	9/29/10 12:00 AM	258.3	Six small meals	255.1	3.2
+Antoinette	F	11/2/10 12:00 AM	154.3	Low Carb	149.2	5.1
+Anton	M	1/8/11 12:00 AM	223.5	Increase Exercise	179.4	44.1
+Antonia	F	5/19/10 12:00 AM	122.1	No change (control)	126.1	-4
+Antonio	M	4/24/10 12:00 AM	229.7	No change (control)	239.1	-9.4
+Antony	M	8/17/10 12:00 AM	329.2	Low Carb	324.8	4.4
+Antwan	M	12/7/10 12:00 AM	263.8	No change (control)	257.4	6.4
+Antwon	M	8/24/10 12:00 AM	230.9	Low Fat	222	8.9
+April	F	11/25/10 12:00 AM	165.5	Six small meals	153.5	12
+Araceli	F	2/2/11 12:00 AM	166	Increase Exercise	168.5	-2.5
+Ari	M	9/10/10 12:00 AM	254.6	Increase Exercise	238.5	16.1
+Ariana	F	10/11/10 12:00 AM	147.2	Increase Exercise	116.3	30.9
+Arianna	F	6/5/10 12:00 AM	180.3	No change (control)	159.9	20.4
+Aric	M	8/5/10 12:00 AM	255	Low Carb	228.4	26.6
+Ariel	F	3/24/10 12:00 AM	124.2	Six small meals	110.7	13.5
+Arielle	F	11/3/10 12:00 AM	145.1	Low Carb	128.8	16.3
+Arlene	F	6/8/10 12:00 AM	217.4	Six small meals	184	33.4
+Armand	M	3/17/11 12:00 AM	267.8	No change (control)	259.2	8.6
+Armando	M	1/22/11 12:00 AM	319.3	Low Fat	313.3	6
+Armani	M	10/3/10 12:00 AM	298.3	Increase Exercise	272.1	26.2
+Arnold	M	6/4/10 12:00 AM	251.4	No change (control)	251.2	0.2
+Aron	M	1/7/11 12:00 AM	300.7	Six small meals	289.9	10.8
+Arron	M	11/24/10 12:00 AM	240.4	Low Carb	221	19.4
+Arthur	M	12/7/10 12:00 AM	263.5	Low Carb	249.9	13.6
+Arturo	M	9/26/10 12:00 AM	239.6	Six small meals	238.6	1
+Asa	M	2/7/11 12:00 AM	282.8	No change (control)	266.6	16.2
+Asha	F	12/8/10 12:00 AM	207.5	Six small meals	203.5	4
+Ashanti	F	8/14/10 12:00 AM	189	Low Fat	182.3	6.7
+Ashely	F	8/27/10 12:00 AM	162.5	Increase Exercise	152.3	10.2
+Asher	M	1/26/10 12:00 AM	329.7	Low Carb	286.5	43.2
+Ashlee	F	9/25/10 12:00 AM	119.1	Low Carb	104.7	14.4
+Ashleigh	F	1/24/11 12:00 AM	148.6	Increase Exercise	90.2	58.4
+Ashley	F	9/8/10 12:00 AM	161.4	Increase Exercise	113.7	47.7
+Ashli	F	3/1/11 12:00 AM	114.9	Increase Exercise	113	1.9
+Ashlie	F	8/29/10 12:00 AM	212.9	No change (control)	175.3	37.6
+Ashly	F	2/16/10 12:00 AM	165.6	Low Fat	166.9	-1.3
+Ashlyn	F	5/26/10 12:00 AM	150	Increase Exercise	146	4
+Ashlynn	F	7/15/10 12:00 AM	201.1	Low Fat	154.2	46.9
+Ashton	M	1/29/10 12:00 AM	182.1	Low Fat	173.8	8.3
+Ashton	M	10/6/10 12:00 AM	283.9	Low Carb	283.4	0.5
+Asia	F	2/4/10 12:00 AM	208.1	Low Fat	202.6	5.5
+Aspen	F	7/23/10 12:00 AM	179.3	No change (control)	178	1.3
+Astrid	F	2/3/10 12:00 AM	154	Six small meals	137.8	16.2
+Athena	F	9/22/10 12:00 AM	225.2	Six small meals	204.1	21.1
+Aubrey	M	12/30/10 12:00 AM	280.3	Increase Exercise	243.9	36.4
+Audra	F	10/18/10 12:00 AM	144.5	No change (control)	144.5	0
+Audrey	F	12/4/10 12:00 AM	156.7	Increase Exercise	139.6	17.1
+August	M	2/11/10 12:00 AM	255.5	Six small meals	247.8	7.7
+Aurora	F	2/27/10 12:00 AM	134.9	Low Carb	140.5	-5.6
+Austen	M	12/28/10 12:00 AM	265.7	Low Carb	267	-1.3
+Austin	M	2/17/10 12:00 AM	264.2	No change (control)	248.2	16
+Autumn	F	2/2/11 12:00 AM	139.6	Low Carb	128.5	11.1
+Ava	F	5/19/10 12:00 AM	168.2	Six small meals	158.8	9.4
+Avery	M	9/27/10 12:00 AM	311.9	Increase Exercise	310.5	1.4
+Ayana	F	7/1/10 12:00 AM	219.1	Increase Exercise	179.9	39.2
+Ayanna	F	2/6/11 12:00 AM	156.9	Six small meals	139.1	17.8
+Ayla	F	3/16/10 12:00 AM	162.2	No change (control)	133	29.2
+Baby	F	7/7/10 12:00 AM	202.1	Low Fat	172.8	29.3
+Bailee	F	8/7/10 12:00 AM	158.4	No change (control)	157.2	1.2
+Bailey	F	10/13/10 12:00 AM	210.5	No change (control)	189.5	21
+Barbara	F	3/13/11 12:00 AM	172.1	Six small meals	155.7	16.4
+Barrett	M	9/25/10 12:00 AM	324.6	Low Fat	320.3	4.3
+Barry	M	4/4/10 12:00 AM	300.2	Six small meals	300.8	-0.6
+Baylee	F	1/29/10 12:00 AM	202.4	Low Carb	169.5	32.9
+Beatrice	F	6/5/10 12:00 AM	206.1	Six small meals	187.2	18.9
+Beatriz	F	1/6/11 12:00 AM	187	Six small meals	177.1	9.9
+Beau	M	3/1/10 12:00 AM	302.9	Increase Exercise	274.1	28.8
+Belinda	F	2/6/10 12:00 AM	143.9	Six small meals	129.3	14.6
+Ben	M	6/6/10 12:00 AM	267.5	Six small meals	240	27.5
+Benito	M	2/26/10 12:00 AM	316.3	Low Carb	305.2	11.1
+Benjamin	M	12/6/10 12:00 AM	314.5	Low Carb	309.6	4.9
+Bennett	M	3/16/11 12:00 AM	305.8	Low Fat	297.6	8.2
+Benny	M	3/12/10 12:00 AM	288.9	Low Fat	285.6	3.3
+Berenice	F	1/16/11 12:00 AM	174.4	Low Carb	162.8	11.6
+Bernadette	F	5/8/10 12:00 AM	108.2	Increase Exercise	94.6	13.6
+Bernard	M	8/10/10 12:00 AM	250.7	Six small meals	237.5	13.2
+Bernardo	M	2/7/11 12:00 AM	301.6	No change (control)	263.6	38
+Berny	M	5/8/10 12:00 AM	290.4	Six small meals	292.9	-2.5
+Beth	F	2/20/11 12:00 AM	129.5	No change (control)	130.9	-1.4
+Bethany	F	8/14/10 12:00 AM	163.3	Low Fat	98.6	64.7
+Betsy	F	10/19/10 12:00 AM	146.4	Six small meals	139.8	6.6
+Betty	F	12/19/10 12:00 AM	190.5	Low Carb	172	18.5
+Beverly	F	10/31/10 12:00 AM	155.9	Increase Exercise	138.4	17.5
+Bianca	F	10/22/10 12:00 AM	179	Low Carb	175.3	3.7
+Bill	M	7/2/10 12:00 AM	253.1	No change (control)	249.2	3.9
+Billie	F	9/9/10 12:00 AM	193	Low Carb	180.4	12.6
+Billy	M	4/25/10 12:00 AM	251	No change (control)	227.9	23.1
+Blaine	M	12/11/10 12:00 AM	329.3	No change (control)	296.8	32.5
+Blair	F	2/14/10 12:00 AM	172.5	Six small meals	160.9	11.6
+Blake	M	6/14/10 12:00 AM	311.3	Low Carb	298.9	12.4
+Blanca	F	3/30/10 12:00 AM	151.6	Six small meals	120.1	31.5
+Bo	M	7/9/10 12:00 AM	282.5	Increase Exercise	233.8	48.7
+Bob	M	9/6/10 12:00 AM	256.5	Six small meals	251	5.5
+Bobbi	F	1/27/11 12:00 AM	181.1	Low Fat	169.2	11.9
+Bobbie	F	2/19/10 12:00 AM	194	No change (control)	194.8	-0.8
+Bobby	M	5/7/10 12:00 AM	216.6	Low Carb	180.9	35.7
+Bonnie	F	6/18/10 12:00 AM	121.6	Increase Exercise	94.3	27.3
+Brad	M	11/9/10 12:00 AM	289	Six small meals	220.6	68.4
+Braden	M	3/9/10 12:00 AM	241.3	No change (control)	231.8	9.5
+Bradford	M	9/5/10 12:00 AM	306.5	No change (control)	292.1	14.4
+Bradley	M	12/24/10 12:00 AM	275.1	Six small meals	270.6	4.5
+Bradly	M	3/1/10 12:00 AM	241.1	No change (control)	235.7	5.4
+Brady	M	10/4/10 12:00 AM	331.4	No change (control)	326.2	5.2
+Branden	M	3/9/11 12:00 AM	241.5	Low Carb	233.3	8.2
+Brandi	F	9/21/10 12:00 AM	213.4	Six small meals	204.8	8.6
+Brandie	F	4/12/10 12:00 AM	151.9	Low Fat	140.5	11.4
+Brandon	M	9/9/10 12:00 AM	308.2	Low Carb	302.4	5.8
+Brandy	F	4/13/10 12:00 AM	195.1	Low Fat	195.1	0
+Brandyn	M	8/26/10 12:00 AM	278.8	Six small meals	274.9	3.9
+Brant	M	6/28/10 12:00 AM	268.7	Increase Exercise	229.5	39.2
+Braxton	M	5/27/10 12:00 AM	259.6	Increase Exercise	233	26.6
+Brayan	M	6/10/10 12:00 AM	249.2	Low Carb	247.4	1.8
+Brayden	M	11/5/10 12:00 AM	243.6	Low Carb	232.2	11.4
+Braydon	M	10/18/10 12:00 AM	257.4	Low Carb	254.4	3
+Brea	F	11/29/10 12:00 AM	182.6	Six small meals	178.1	4.5
+Breann	F	1/10/11 12:00 AM	208.5	Low Fat	173.3	35.2
+Breanna	F	7/13/10 12:00 AM	194.8	Low Fat	196.2	-1.4
+Breanne	F	10/12/10 12:00 AM	190.4	Increase Exercise	170.7	19.7
+Brenda	F	8/1/10 12:00 AM	140.5	No change (control)	132	8.5
+Brendan	M	1/7/11 12:00 AM	256	Six small meals	256	0
+Brenden	M	3/11/10 12:00 AM	285.6	Low Carb	287.2	-1.6
+Brendon	M	6/20/10 12:00 AM	235.6	Six small meals	247.6	-12
+Brenna	F	4/21/10 12:00 AM	177.6	Six small meals	140.4	37.2
+Brennan	M	12/4/10 12:00 AM	312	Low Fat	318.8	-6.8
+Brennen	M	6/12/10 12:00 AM	331.6	Increase Exercise	263.5	68.1
+Brenton	M	12/6/10 12:00 AM	309	Low Fat	312.3	-3.3
+Breonna	F	5/15/10 12:00 AM	135.9	No change (control)	136.3	-0.4
+Bret	M	11/28/10 12:00 AM	313.3	Increase Exercise	268.7	44.6
+Brett	M	11/7/10 12:00 AM	239	Six small meals	243	-4
+Bria	F	5/22/10 12:00 AM	221.1	No change (control)	184.6	36.5
+Brianna	F	11/15/10 12:00 AM	149.3	Increase Exercise	161.1	-11.8
+Brianne	F	2/17/10 12:00 AM	123.6	Low Carb	116.4	7.2
+Brice	M	5/15/10 12:00 AM	274.4	No change (control)	242.3	32.1
+Bridget	F	2/7/11 12:00 AM	203.9	Low Fat	167.6	36.3
+Bridgette	F	6/5/10 12:00 AM	190.2	Six small meals	185.8	4.4
+Brielle	F	4/16/10 12:00 AM	198.7	No change (control)	196.7	2
+Britany	F	3/15/11 12:00 AM	121.9	Six small meals	127.1	-5.2
+Britney	F	12/13/10 12:00 AM	121.9	Six small meals	120.4	1.5
+Britni	F	11/4/10 12:00 AM	204.8	Low Fat	149.3	55.5
+Brittani	F	12/24/10 12:00 AM	123.5	Increase Exercise	124.7	-1.2
+Brittany	F	9/14/10 12:00 AM	199	No change (control)	189.2	9.8
+Brittney	F	10/24/10 12:00 AM	128.8	Low Fat	126.3	2.5
+Brittni	F	5/22/10 12:00 AM	192.3	Low Fat	186.8	5.5
+Brock	M	7/19/10 12:00 AM	242.5	Low Fat	238.6	3.9
+Broderick	M	9/14/10 12:00 AM	279.6	Low Carb	245	34.6
+Brody	M	3/14/10 12:00 AM	239.9	Low Carb	219	20.9
+Bronson	M	5/9/10 12:00 AM	282.1	Six small meals	270.8	11.3
+Brook	F	1/27/10 12:00 AM	190.4	No change (control)	191.2	-0.8
+Brooke	F	4/29/10 12:00 AM	198.5	Low Carb	188.5	10
+Brooklyn	F	8/2/10 12:00 AM	166.7	Increase Exercise	151.4	15.3
+Bruce	M	2/25/11 12:00 AM	341.8	Increase Exercise	301.5	40.3
+Bryan	M	3/2/10 12:00 AM	324.4	Low Fat	299.6	24.8
+Bryana	F	6/19/10 12:00 AM	128.6	Increase Exercise	124.9	3.7
+Bryanna	F	3/31/10 12:00 AM	151.9	Low Fat	131.7	20.2
+Bryant	M	7/17/10 12:00 AM	233.2	Six small meals	226.5	6.7
+Bryce	M	3/10/11 12:00 AM	294	Increase Exercise	254.8	39.2
+Bryon	M	5/15/10 12:00 AM	314	Low Carb	283	31
+Bryson	M	8/9/10 12:00 AM	305.7	Increase Exercise	290.7	15
+Burt	M	7/11/10 12:00 AM	350.9	Low Carb	290.3	60.6
+Byron	M	4/30/10 12:00 AM	255.6	Low Carb	252.7	2.9
+Cade	M	10/20/10 12:00 AM	321.3	Low Fat	314.5	6.8
+Caden	M	11/8/10 12:00 AM	226	Low Fat	229	-3
+Caitlin	F	4/22/10 12:00 AM	141.3	Increase Exercise	128.6	12.7
+Caitlyn	F	5/18/10 12:00 AM	155.6	No change (control)	144.6	11
+Cale	M	3/8/10 12:00 AM	282.8	No change (control)	272.3	10.5
+Caleb	M	2/14/10 12:00 AM	250.4	Low Carb	222.5	27.9
+Callie	F	3/22/10 12:00 AM	114.2	Low Carb	107.6	6.6
+Calvin	M	1/18/11 12:00 AM	278.8	Increase Exercise	229.8	49
+Camden	M	7/7/10 12:00 AM	305.5	Low Carb	300.1	5.4
+Cameron	F	12/6/10 12:00 AM	180.7	Six small meals	167.3	13.4
+Camille	F	12/20/10 12:00 AM	161.4	Increase Exercise	160.6	0.8
+Camron	M	11/28/10 12:00 AM	258.8	Low Carb	246.1	12.7
+Candace	F	12/11/10 12:00 AM	153.2	No change (control)	144.6	8.6
+Candice	F	12/20/10 12:00 AM	130.6	Low Carb	120.3	10.3
+Cane	M	7/14/10 12:00 AM	253.2	Low Carb	253.3	-0.1
+Cara	F	9/28/10 12:00 AM	173.2	Low Carb	181	-7.8
+Carina	F	9/25/10 12:00 AM	151.9	Low Carb	124	27.9
+Carissa	F	6/18/10 12:00 AM	203	No change (control)	191	12
+Carl	M	9/23/10 12:00 AM	247.6	No change (control)	254.2	-6.6
+Carla	F	9/8/10 12:00 AM	123.4	Increase Exercise	123.4	0
+Carla	F	1/13/11 12:00 AM	165.6	Six small meals	129.6	36
+Carla	F	3/26/10 12:00 AM	128.5	Low Carb	126.9	1.6
+Carlee	F	4/14/10 12:00 AM	184.8	Six small meals	177.8	7
+Carley	F	12/11/09 12:00 AM	187.8	No change (control)	175.1	12.7
+Carlie	F	2/21/10 12:00 AM	160.8	Low Fat	164.4	-3.6
+Carlo	M	1/27/10 12:00 AM	325.2	Six small meals	303.1	22.1
+Carlos	M	5/6/10 12:00 AM	301.2	Low Fat	288.6	12.6
+Carlton	M	2/8/11 12:00 AM	257.8	No change (control)	245.7	12.1
+Carly	F	7/27/10 12:00 AM	117.9	Increase Exercise	119.4	-1.5
+Carmen	F	10/2/10 12:00 AM	130.1	Low Fat	130.4	-0.3
+Carol	F	3/22/10 12:00 AM	142.9	Increase Exercise	116.1	26.8
+Carolina	F	9/18/10 12:00 AM	172.8	Increase Exercise	170.4	2.4
+Caroline	F	8/28/10 12:00 AM	168.9	Low Fat	131.5	37.4
+Carolyn	F	8/20/10 12:00 AM	208.4	No change (control)	196.4	12
+Carrie	F	1/4/10 12:00 AM	131.3	No change (control)	138.8	-7.5
+Carson	M	12/16/10 12:00 AM	274.5	No change (control)	269.9	4.6
+Carter	M	8/22/10 12:00 AM	273.5	Low Carb	269.2	4.3
+Casandra	F	11/18/10 12:00 AM	145	Low Fat	124.7	20.3
+Casey	F	10/28/10 12:00 AM	170.6	Increase Exercise	165.1	5.5
+Casey	M	6/28/10 12:00 AM	281.8	Low Fat	283	-1.2
+Cassandra	F	10/8/10 12:00 AM	156.3	Six small meals	146.5	9.8
+Cassidy	F	10/27/10 12:00 AM	135.2	Increase Exercise	129.9	5.3
+Catalina	F	5/27/10 12:00 AM	129.2	Low Carb	122.4	6.8
+Catherine	F	12/13/09 12:00 AM	180.2	Six small meals	178.4	1.8
+Cayla	F	4/30/10 12:00 AM	195	Increase Exercise	204.5	-9.5
+Cecelia	F	4/2/10 12:00 AM	210.2	Increase Exercise	171	39.2
+Cecil	M	2/1/11 12:00 AM	272.2	Increase Exercise	238.2	34
+Cecilia	F	5/11/10 12:00 AM	186	Increase Exercise	138.8	47.2
+Cedric	M	3/27/10 12:00 AM	265.6	Low Fat	258.4	7.2
+Celeste	F	12/16/09 12:00 AM	162.1	Increase Exercise	169.9	-7.8
+Celia	F	12/1/09 12:00 AM	183.2	Low Carb	183.6	-0.4
+Celina	F	2/9/11 12:00 AM	180.1	Increase Exercise	126.3	53.8
+Celine	F	4/23/10 12:00 AM	142.5	Six small meals	113	29.5
+Cesar	M	2/5/11 12:00 AM	316.9	Increase Exercise	265.9	51
+Chad	M	10/20/10 12:00 AM	257.9	Low Fat	257.5	0.4
+Chadwick	M	11/12/10 12:00 AM	284.1	No change (control)	237.8	46.3
+Chance	M	3/16/10 12:00 AM	297.7	Increase Exercise	265	32.7
+Chandler	M	6/5/10 12:00 AM	290.8	No change (control)	313.7	-22.9
+Chanel	F	7/21/10 12:00 AM	160.7	Low Fat	117.1	43.6
+Channy	F	2/2/10 12:00 AM	174.1	No change (control)	163.4	10.7
+Chantal	F	1/5/11 12:00 AM	154.7	Low Carb	152	2.7
+Chantel	F	6/2/10 12:00 AM	142.2	Low Carb	126.5	15.7
+Charity	F	3/4/10 12:00 AM	212	Increase Exercise	208.6	3.4
+Charlene	F	9/23/10 12:00 AM	215.8	Increase Exercise	164.1	51.7
+Charles	M	10/29/10 12:00 AM	238.2	No change (control)	238.8	-0.6
+Charlie	M	1/3/11 12:00 AM	245.9	No change (control)	241.6	4.3
+Charlotte	F	2/20/11 12:00 AM	158.6	Six small meals	158.1	0.5
+Chase	M	5/6/10 12:00 AM	253.7	Low Fat	253.4	0.3
+Chasity	F	5/30/10 12:00 AM	128.9	Increase Exercise	80.7	48.2
+Chaya	F	8/25/10 12:00 AM	204.2	Six small meals	205	-0.8
+Chaz	M	12/1/10 12:00 AM	241.5	Six small meals	233.3	8.2
+Chelsea	F	5/14/10 12:00 AM	182.3	Low Fat	174.6	7.7
+Chelsey	F	3/17/10 12:00 AM	136.4	No change (control)	122.8	13.6
+Chelsi	F	3/23/10 12:00 AM	113.7	Low Carb	110.4	3.3
+Chelsie	F	12/28/09 12:00 AM	149.9	Low Carb	119.4	30.5
+Chenny	M	1/25/10 12:00 AM	297.6	Low Fat	296.2	1.4
+Chester	M	11/30/10 12:00 AM	309.1	Low Fat	303.6	5.5
+Cheyanne	F	9/11/10 12:00 AM	152.2	No change (control)	130.6	21.6
+Cheyenne	F	10/26/10 12:00 AM	170.1	Low Fat	144	26.1
+China	F	1/22/10 12:00 AM	137.8	No change (control)	121.7	16.1
+Chloe	F	12/16/10 12:00 AM	195.8	Low Fat	176.4	19.4
+Chris	M	2/16/11 12:00 AM	287.8	No change (control)	276.3	11.5
+Chris  	M	6/23/10 12:00 AM	292.7	Six small meals	247.1	45.6
+Christa	F	10/29/10 12:00 AM	126.1	Increase Exercise	101	25.1
+Christen	F	4/6/10 12:00 AM	231.3	Increase Exercise	187.9	43.4
+Christian	M	7/30/10 12:00 AM	239.8	Six small meals	235.4	4.4
+Christiana	F	1/18/10 12:00 AM	128.7	No change (control)	134.3	-5.6
+Christie	F	12/18/10 12:00 AM	161.7	Low Carb	154.6	7.1
+Christina	F	1/13/11 12:00 AM	183.9	Low Carb	188.8	-4.9
+Christine	F	12/8/10 12:00 AM	159.7	Low Fat	128.2	31.5
+Christopher	M	12/14/10 12:00 AM	295.8	No change (control)	289	6.8
+Ciara	F	2/2/10 12:00 AM	187.1	No change (control)	164	23.1
+Cierra	F	11/12/10 12:00 AM	133.3	Increase Exercise	105.6	27.7
+Cindy	F	3/8/11 12:00 AM	186.3	Low Fat	169.4	16.9
+Claire	F	2/9/10 12:00 AM	212.9	Low Carb	199.9	13
+Clara	F	2/19/11 12:00 AM	111.8	Six small meals	109.5	2.3
+Clare	F	8/13/10 12:00 AM	135	Low Fat	131.7	3.3
+Clarence	M	8/24/10 12:00 AM	306.6	Low Carb	288	18.6
+Clark	M	6/6/10 12:00 AM	294.1	No change (control)	274.1	20
+Claude	M	2/28/11 12:00 AM	282	Low Fat	281.5	0.5
+Claudia	F	8/23/10 12:00 AM	143.9	Low Fat	139.3	4.6
+Clay	M	5/27/10 12:00 AM	239.8	Low Carb	238.6	1.2
+Clayton	M	2/5/11 12:00 AM	337.9	Six small meals	322.2	15.7
+Clifford	M	5/20/10 12:00 AM	261.8	Low Fat	254.2	7.6
+Clifton	M	9/14/10 12:00 AM	251.1	Low Fat	254.3	-3.2
+Clint	M	8/2/10 12:00 AM	259.1	Low Carb	232.1	27
+Clinton	M	5/12/10 12:00 AM	307.8	Low Carb	292.3	15.5
+Clyde	M	11/29/10 12:00 AM	266.6	Increase Exercise	233.7	32.9
+Coby	M	1/28/11 12:00 AM	221	Six small meals	213.1	7.9
+Codey	M	2/23/10 12:00 AM	280.6	No change (control)	271.7	8.9
+Codie	M	12/20/09 12:00 AM	324.5	Low Carb	314.5	10
+Cody	M	4/12/10 12:00 AM	281.5	No change (control)	282	-0.5
+Colby	M	1/26/11 12:00 AM	246.1	Low Fat	234.2	11.9
+Cole	M	3/14/11 12:00 AM	261.2	Low Carb	260.4	0.8
+Coleman	M	7/6/10 12:00 AM	229	Increase Exercise	213.5	15.5
+Colin	M	9/15/10 12:00 AM	249.6	No change (control)	243.5	6.1
+Colleen	F	2/3/11 12:00 AM	186.6	Six small meals	186.2	0.4
+Collin	M	1/29/11 12:00 AM	245.6	Low Fat	240.8	4.8
+Colt	M	10/27/10 12:00 AM	245.1	No change (control)	243.9	1.2
+Colten	M	2/14/11 12:00 AM	243.6	Six small meals	234.7	8.9
+Colton	M	7/24/10 12:00 AM	299	Low Carb	274.9	24.1
+Conner	M	12/2/10 12:00 AM	247.9	Six small meals	246	1.9
+Connie	F	5/6/10 12:00 AM	147	Low Fat	146.7	0.3
+Conor	M	7/28/10 12:00 AM	289.1	Increase Exercise	236.4	52.7
+Constance	F	1/4/11 12:00 AM	149	Increase Exercise	132.5	16.5
+Cooper	M	8/7/10 12:00 AM	259.3	Low Carb	247.1	12.2
+Cora	F	5/2/10 12:00 AM	193.5	Low Carb	173.5	20
+Cora	F	4/19/10 12:00 AM	194.5	Low Fat	172.4	22.1
+Corbin	M	10/27/10 12:00 AM	224.6	Low Fat	212.8	11.8
+Cordell	M	1/13/10 12:00 AM	314.3	Increase Exercise	283.9	30.4
+Corey	M	3/10/10 12:00 AM	342.6	Six small meals	312.4	30.2
+Cori	F	12/4/10 12:00 AM	193.5	No change (control)	189.6	3.9
+Corina	F	12/3/10 12:00 AM	170	No change (control)	159.2	10.8
+Corinne	F	2/11/10 12:00 AM	182.6	Increase Exercise	139.5	43.1
+Cornelius	M	9/2/10 12:00 AM	283.1	No change (control)	278.8	4.3
+Cortez	M	3/30/10 12:00 AM	298.9	No change (control)	282.6	16.3
+Cortney	F	6/19/10 12:00 AM	174.2	Low Carb	161.9	12.3
+Cory	M	1/1/11 12:00 AM	310.4	Increase Exercise	294.3	16.1
+Coty	M	8/22/10 12:00 AM	298.7	Increase Exercise	284.9	13.8
+Courtney	F	5/11/10 12:00 AM	204.5	Low Carb	188	16.5
+Craig	M	2/28/10 12:00 AM	282.9	Low Carb	274.2	8.7
+Cristal	F	4/10/10 12:00 AM	172.7	Increase Exercise	159.1	13.6
+Cristian	M	3/3/11 12:00 AM	268.6	Six small meals	241.3	27.3
+Cristina	F	3/9/11 12:00 AM	178.9	Six small meals	177.8	1.1
+Cristobal	M	2/24/10 12:00 AM	259.1	Low Fat	242.6	16.5
+Cristopher	M	12/28/09 12:00 AM	295.4	Six small meals	282.7	12.7
+Cruz	M	4/26/10 12:00 AM	300.9	Six small meals	267.2	33.7
+Crystal	F	1/21/10 12:00 AM	202.6	No change (control)	173.1	29.5
+Cullen	M	5/21/10 12:00 AM	303.1	Six small meals	301.1	2
+Curtis	M	9/11/10 12:00 AM	304.8	Increase Exercise	300.3	4.5
+Cynthia	F	4/15/10 12:00 AM	146.9	No change (control)	147.5	-0.6
+Cyrus	M	5/13/10 12:00 AM	265.3	Increase Exercise	215.2	50.1
+Daisy	F	4/28/10 12:00 AM	128.6	Increase Exercise	129	-0.4
+Dakota	F	7/1/10 12:00 AM	217.7	Low Fat	194	23.7
+Dakotah	M	1/10/10 12:00 AM	290.3	Low Fat	285.9	4.4
+Dale	M	12/7/10 12:00 AM	292.7	Increase Exercise	289.2	3.5
+Dalia	F	12/10/09 12:00 AM	172.5	Increase Exercise	144	28.5
+Dallia	F	4/5/10 12:00 AM	131.4	Low Carb	131	0.4
+Dallin	M	2/11/10 12:00 AM	278.7	Six small meals	278.2	0.5
+Dalton	M	10/30/10 12:00 AM	296.2	Low Carb	249.6	46.6
+Damaris	F	6/7/10 12:00 AM	176.7	Low Fat	131.6	45.1
+Damian	M	5/30/10 12:00 AM	280.8	No change (control)	269.5	11.3
+Damien	M	1/5/10 12:00 AM	281.3	Six small meals	277.2	4.1
+Damion	M	5/5/10 12:00 AM	243.8	Six small meals	223.3	20.5
+Damon	M	4/18/10 12:00 AM	317.1	Low Carb	299.1	18
+Dan	M	7/29/10 12:00 AM	228.7	Six small meals	215.2	13.5
+Dana	F	1/5/10 12:00 AM	157.4	Six small meals	153.7	3.7
+Dana	M	1/20/10 12:00 AM	229.6	Low Fat	229.5	0.1
+Dandre	M	5/20/10 12:00 AM	256.5	No change (control)	243.4	13.1
+Dane	M	2/27/10 12:00 AM	290.4	Increase Exercise	276.5	13.9
+Dangelo	M	10/6/10 12:00 AM	286.4	Six small meals	265.3	21.1
+Danica	F	9/6/10 12:00 AM	209.4	No change (control)	212.3	-2.9
+Daniel	M	11/8/10 12:00 AM	245.8	Increase Exercise	238.9	6.9
+Daniela	F	3/18/10 12:00 AM	184.1	Low Fat	147.9	36.2
+Daniella	F	3/16/10 12:00 AM	168.6	Low Fat	157.8	10.8
+Danielle	F	12/25/09 12:00 AM	167.2	Low Carb	164.7	2.5
+Danny	M	1/9/11 12:00 AM	267.9	Six small meals	239.1	28.8
+Dante	M	3/12/11 12:00 AM	297.1	Six small meals	269.3	27.8
+Daphne	F	2/19/10 12:00 AM	142.8	Low Fat	142.7	0.1
+Daquan	M	1/4/10 12:00 AM	298.7	Low Fat	280.4	18.3
+Dara	F	12/8/10 12:00 AM	129.1	Increase Exercise	93.4	35.7
+Darby	F	1/27/11 12:00 AM	155.6	Low Fat	127.8	27.8
+Darcy	F	11/6/10 12:00 AM	188.7	Increase Exercise	183.1	5.6
+Darian	F	5/11/10 12:00 AM	205.8	No change (control)	205.6	0.2
+Darien	M	5/18/10 12:00 AM	304.2	Increase Exercise	294	10.2
+Darin	M	2/11/11 12:00 AM	257.2	Low Carb	244.4	12.8
+Dario	M	8/18/10 12:00 AM	292.5	Low Fat	273.1	19.4
+Darion	M	11/21/10 12:00 AM	233.7	Six small meals	237.4	-3.7
+Darius	M	8/22/10 12:00 AM	288.5	No change (control)	266.5	22
+Darlene	F	3/13/11 12:00 AM	182.6	Low Carb	175.4	7.2
+Darnell	M	1/6/10 12:00 AM	306.5	Increase Exercise	295.2	11.3
+Daron	M	4/18/10 12:00 AM	277.9	No change (control)	259.9	18
+Darrell	M	12/20/09 12:00 AM	293.8	No change (control)	301.1	-7.3
+Darren	M	12/3/09 12:00 AM	212.9	Increase Exercise	152.3	60.6
+Darrian	M	6/1/10 12:00 AM	336.1	Six small meals	320	16.1
+Darrien	M	2/20/10 12:00 AM	297.7	Low Fat	280	17.7
+Darrin	M	8/30/10 12:00 AM	269.1	Low Carb	226	43.1
+Darrion	M	10/4/10 12:00 AM	283.5	Low Carb	246.5	37
+Darrius	M	5/2/10 12:00 AM	276.4	Increase Exercise	207.6	68.8
+Darryl	M	2/13/10 12:00 AM	310.2	Low Carb	301.1	9.1
+Darwin	M	7/13/10 12:00 AM	272.9	Six small meals	264.9	8
+Daryl	M	5/3/10 12:00 AM	326.1	Low Carb	294	32.1
+Dashawn	M	3/21/10 12:00 AM	311.9	Increase Exercise	310.8	1.1
+David	M	4/17/10 12:00 AM	248.6	Low Carb	247.9	0.7
+Davin	M	1/28/11 12:00 AM	272.7	Low Carb	256.6	16.1
+Davion	M	11/24/10 12:00 AM	262.5	Increase Exercise	262	0.5
+Davis	M	1/4/10 12:00 AM	250.4	Six small meals	250.5	-0.1
+Davon	M	12/20/09 12:00 AM	331.6	Low Carb	320.2	11.4
+Davonte	M	7/7/10 12:00 AM	275.2	No change (control)	266.2	9
+Dawn	F	12/15/10 12:00 AM	136.8	Six small meals	135.2	1.6
+Dawson	M	2/25/10 12:00 AM	317.4	Low Fat	317.3	0.1
+Dayna	F	9/5/10 12:00 AM	195.2	Six small meals	192.1	3.1
+Dayton	M	10/20/10 12:00 AM	293.2	No change (control)	281.8	11.4
+Dean	M	3/3/10 12:00 AM	262.3	Increase Exercise	220.2	42.1
+Deana	F	3/27/10 12:00 AM	224.4	Increase Exercise	162.2	62.2
+Deandre	M	7/28/10 12:00 AM	245.7	No change (control)	244.9	0.8
+Deangelo	M	12/3/09 12:00 AM	255.6	Low Fat	257.2	-1.6
+Deanna	F	5/11/10 12:00 AM	158.7	Six small meals	155.4	3.3
+Debbie	F	12/27/09 12:00 AM	134.7	No change (control)	133.6	1.1
+Deborah	F	7/28/10 12:00 AM	197.5	Low Carb	187.4	10.1
+Debra	F	6/28/10 12:00 AM	166	Six small meals	149.7	16.3
+Deion	M	12/27/09 12:00 AM	295.9	Low Fat	295.7	0.2
+Deja	F	10/1/10 12:00 AM	193.4	Low Fat	192	1.4
+Dejuan	M	10/10/10 12:00 AM	293.1	Low Fat	279.3	13.8
+Delaney	F	8/8/10 12:00 AM	152.8	Low Carb	151.9	0.9
+Demarco	M	12/27/09 12:00 AM	273	No change (control)	265.9	7.1
+Demarcus	M	6/4/10 12:00 AM	298.7	No change (control)	287.6	11.1
+Demario	M	12/25/10 12:00 AM	285.8	No change (control)	294.7	-8.9
+Demetrius	M	9/15/10 12:00 AM	302.1	No change (control)	302.6	-0.5
+Demi	F	11/7/10 12:00 AM	192.4	Six small meals	186.4	6
+Denise	F	9/14/10 12:00 AM	174.9	Six small meals	188.6	-13.7
+Denise	F	5/23/10 12:00 AM	150	Increase Exercise	116.7	33.3
+Dennis	M	11/15/10 12:00 AM	287.2	No change (control)	289.4	-2.2
+Denny	M	12/17/10 12:00 AM	232	Low Fat	232	0
+Denver	M	2/2/10 12:00 AM	289.3	Increase Exercise	283.5	5.8
+Denver	M	2/19/11 12:00 AM	281.4	No change (control)	262.7	18.7
+Denzel	M	12/12/09 12:00 AM	309.2	Increase Exercise	284.6	24.6
+Deon	M	5/8/10 12:00 AM	243.1	Low Fat	234.2	8.9
+Deondre	M	3/14/11 12:00 AM	286.2	No change (control)	290.2	-4
+Deonte	M	2/17/10 12:00 AM	305.2	Increase Exercise	273.9	31.3
+Dequan	M	1/21/11 12:00 AM	266.3	No change (control)	226.1	40.2
+Derek	M	4/7/10 12:00 AM	295.7	Low Carb	234.2	61.5
+Derick	M	6/12/10 12:00 AM	338.8	Increase Exercise	298.4	40.4
+Derik	M	9/6/10 12:00 AM	332.8	Increase Exercise	264.7	68.1
+Derrick	M	8/5/10 12:00 AM	229.1	Low Carb	225.6	3.5
+Deshaun	M	4/10/10 12:00 AM	299.6	Increase Exercise	277.2	22.4
+Deshawn	M	7/16/10 12:00 AM	234	Six small meals	209.2	24.8
+Desirae	F	11/10/10 12:00 AM	149.3	Six small meals	129	20.3
+Desiree	F	5/22/10 12:00 AM	137.7	Low Carb	130.6	7.1
+Desmond	M	10/17/10 12:00 AM	278.9	Six small meals	257.7	21.2
+Destin	M	9/11/10 12:00 AM	262.7	No change (control)	239	23.7
+Destinee	F	5/20/10 12:00 AM	185.6	Six small meals	182	3.6
+Destiney	F	3/3/10 12:00 AM	193.7	Increase Exercise	181.9	11.8
+Destini	F	9/19/10 12:00 AM	183.4	Increase Exercise	160.4	23
+Destiny	F	2/12/10 12:00 AM	202.3	Low Fat	185.1	17.2
+Devan	M	12/16/10 12:00 AM	276.7	Six small meals	235.1	41.6
+Devana	F	12/27/10 12:00 AM	216	No change (control)	189	27
+Devante	M	1/29/11 12:00 AM	308.5	No change (control)	302.3	6.2
+Deven	M	8/7/10 12:00 AM	293.9	Six small meals	292.2	1.7
+Devin	M	12/23/10 12:00 AM	266.1	Low Carb	268.8	-2.7
+Devon	M	2/18/10 12:00 AM	313.3	Increase Exercise	311.7	1.6
+Devonia	F	6/9/10 12:00 AM	180.5	No change (control)	177.9	2.6
+Devonta	M	11/15/10 12:00 AM	293.6	Six small meals	288.8	4.8
+Devonte	M	2/8/10 12:00 AM	224	Six small meals	224.4	-0.4
+Devyn	M	2/14/11 12:00 AM	237.5	Six small meals	227.9	9.6
+Dewayne	M	12/5/09 12:00 AM	270.8	Low Carb	268.8	2
+Dexter	M	7/12/10 12:00 AM	253.7	Six small meals	231	22.7
+Diamond	F	7/4/10 12:00 AM	175.2	Low Fat	162.5	12.7
+Diana	F	5/9/10 12:00 AM	141.9	No change (control)	131.7	10.2
+Diane	F	1/15/10 12:00 AM	127	Low Fat	128.7	-1.7
+Dianna	F	2/8/11 12:00 AM	172.1	Six small meals	155.8	16.3
+Diego	M	12/18/09 12:00 AM	292.9	Low Fat	288.6	4.3
+Dillan	M	2/17/11 12:00 AM	294.2	Six small meals	287.1	7.1
+Dillion	M	12/24/09 12:00 AM	283.6	No change (control)	259.9	23.7
+Dillon	M	10/21/10 12:00 AM	222.7	Six small meals	207.8	14.9
+Dimitri	M	6/8/10 12:00 AM	286.9	Low Fat	283.7	3.2
+Dina	F	6/11/10 12:00 AM	161.9	Six small meals	148.2	13.7
+Dion	M	3/12/10 12:00 AM	278.3	Six small meals	275.8	2.5
+Dionte	M	11/10/10 12:00 AM	286.5	Low Carb	264.7	21.8
+Dodge	M	1/14/10 12:00 AM	311.7	Increase Exercise	290	21.7
+Dom	M	12/19/10 12:00 AM	230.4	Increase Exercise	277.9	-47.5
+Domenic	M	12/26/09 12:00 AM	250.8	Low Carb	253.6	-2.8
+Dominic	M	1/31/10 12:00 AM	286.1	No change (control)	271.9	14.2
+Dominick	M	11/13/10 12:00 AM	305.9	Increase Exercise	276	29.9
+Dominique	F	1/19/10 12:00 AM	146.4	Low Fat	145.4	1
+Dominque	F	5/23/10 12:00 AM	166.4	Low Carb	148.1	18.3
+Domonique	F	9/22/10 12:00 AM	125	Six small meals	115.9	9.1
+Don	M	7/22/10 12:00 AM	273.4	Low Carb	245.7	27.7
+Donavan	M	3/24/10 12:00 AM	263	Increase Exercise	227.1	35.9
+Donna	F	7/14/10 12:00 AM	153.6	Low Fat	132.1	21.5
+Donnell	M	2/18/10 12:00 AM	269.6	Six small meals	259.8	9.8
+Donnie	M	3/1/11 12:10 PM	288	Low Carb	288.9	-0.9
+Donovan	M	1/1/11 12:00 AM	226.2	Low Carb	215.9	10.3
+Dontae	M	6/19/10 12:00 AM	264.7	No change (control)	250.1	14.6
+Donte	M	3/11/11 12:00 AM	291.9	Low Fat	290.9	1
+Dorian	M	12/19/10 12:00 AM	218.1	No change (control)	213.7	4.4
+Dorian	M	1/3/11 12:00 AM	217.7	No change (control)	210.8	6.9
+Doris	F	2/11/11 12:00 AM	135.7	Six small meals	114.2	21.5
+Dorothy	F	2/28/10 12:00 AM	145.3	Six small meals	145.2	0.1
+Douglas	M	9/5/10 12:00 AM	260.5	Low Carb	236.2	24.3
+Drake	M	2/5/10 12:00 AM	264.5	Six small meals	258.2	6.3
+Drew	F	2/2/11 12:00 AM	152.2	Low Carb	142.8	9.4
+Duane	M	11/6/10 12:00 AM	226.1	Low Carb	216.9	9.2
+Duncan	M	10/19/10 12:00 AM	286.5	No change (control)	243.1	43.4
+Dustin	M	2/18/11 12:00 AM	316.8	Low Fat	310.6	6.2
+Dusty	M	3/8/11 12:00 AM	286.6	No change (control)	275	11.6
+Dwayne	M	10/27/10 12:00 AM	304	No change (control)	301.5	2.5
+Dwight	M	2/12/10 12:00 AM	309.8	Increase Exercise	282.7	27.1
+Dylan	M	6/20/10 12:00 AM	261.5	Low Carb	216	45.5
+Dylon	M	4/7/10 12:00 AM	254.2	Low Fat	251.6	2.6
+Earl	M	3/10/11 12:00 AM	249.7	Low Carb	243.1	6.6
+Eboni	F	5/27/10 12:00 AM	210.3	No change (control)	192.6	17.7
+Ebony	F	4/19/10 12:00 AM	163.8	Six small meals	147.8	16
+Eddie	M	4/17/10 12:00 AM	254.4	Low Carb	252.1	2.3
+Eddy	M	7/3/10 12:00 AM	329.6	Low Carb	300.4	29.2
+Eden	F	12/24/09 12:00 AM	173	Six small meals	163.7	9.3
+Edgar	M	6/7/10 12:00 AM	284.6	No change (control)	285	-0.4
+Edgardo	M	8/16/10 12:00 AM	238.6	Low Carb	237.9	0.7
+Edith	F	3/31/10 12:00 AM	129.5	Increase Exercise	121.3	8.2
+Edmund	M	12/1/10 12:00 AM	310.8	Low Fat	290.5	20.3
+Eduardo	M	4/2/10 12:00 AM	250.4	Low Carb	250.2	0.2
+Edward	M	12/22/09 12:00 AM	240.9	No change (control)	232.8	8.1
+Edwin	M	6/17/10 12:00 AM	244	Six small meals	246.2	-2.2
+Efrain	M	2/24/10 12:00 AM	350.1	No change (control)	332.8	17.3
+Efren	M	2/27/10 12:00 AM	225.2	No change (control)	230.4	-5.2
+Eileen	F	11/29/10 12:00 AM	193.2	No change (control)	185.6	7.6
+Elaina	F	2/14/11 12:00 AM	215.5	No change (control)	206.7	8.8
+Elaine	F	3/19/10 12:00 AM	171.6	Six small meals	161.1	10.5
+Eleanor	F	9/11/10 12:00 AM	156.1	Low Fat	125.4	30.7
+Elena	F	4/2/10 12:00 AM	123	Increase Exercise	91.5	31.5
+Eli	M	10/26/10 12:00 AM	232.3	Six small meals	237.7	-5.4
+Eliana	F	1/28/10 12:00 AM	190.3	Low Carb	171.6	18.7
+Elias	M	4/7/10 12:00 AM	335.4	Six small meals	313.3	22.1
+Eliezer	M	4/14/10 12:00 AM	295.1	Low Carb	267.9	27.2
+Elijah	M	12/10/09 12:00 AM	300.4	Low Fat	297.4	3
+Elisabeth	F	4/1/10 12:00 AM	174.1	Low Carb	160.7	13.4
+Elise	F	12/18/10 12:00 AM	209.5	Low Carb	193.3	16.2
+Eliseo	M	9/29/10 12:00 AM	227.7	Low Fat	238.8	-11.1
+Elisha	F	12/30/10 12:00 AM	202.6	Six small meals	191.8	10.8
+Elizabeth	F	1/19/11 12:00 AM	189.7	No change (control)	179.4	10.3
+Ella	F	1/3/11 12:00 AM	188.3	Increase Exercise	156	32.3
+Ellen	F	12/20/09 12:00 AM	213.1	Low Fat	179	34.1
+Ellie	F	2/3/11 12:00 AM	128.7	Increase Exercise	128.6	0.1
+Elliot	M	10/4/10 12:00 AM	278.7	Six small meals	265.1	13.6
+Elliott	M	3/18/10 12:00 AM	231.9	Low Fat	231.4	0.5
+Ellis	M	12/18/10 12:00 AM	299.4	Increase Exercise	282.2	17.2
+Elmer	M	12/10/09 12:00 AM	279.4	Low Fat	280.5	-1.1
+Elonzo	M	8/29/10 12:00 AM	257.2	Increase Exercise	244.7	12.5
+Elsa	F	4/5/10 12:00 AM	149.2	Increase Exercise	143.9	5.3
+Elton	M	2/26/10 12:00 AM	266.6	Six small meals	265.4	1.2
+Elvin	M	12/21/10 12:00 AM	234.7	Low Carb	229.8	4.9
+Elvin	M	4/3/10 12:00 AM	268.5	Low Carb	225.7	42.8
+Elvis	M	3/10/10 12:00 AM	252.4	No change (control)	251.2	1.2
+Elyse	F	5/9/10 12:00 AM	188.3	Low Fat	188.4	-0.1
+Elyssa	F	4/30/10 12:00 AM	124.5	Increase Exercise	89.3	35.2
+Emerald	F	10/22/10 12:00 AM	198.1	No change (control)	173.7	24.4
+Emilee	F	6/29/10 12:00 AM	176.4	No change (control)	169.2	7.2
+Emilia	F	4/19/10 12:00 AM	138.7	No change (control)	122	16.7
+Emilie	F	1/22/11 12:00 AM	151	Increase Exercise	125.5	25.5
+Emilio	M	9/30/10 12:00 AM	321.8	Increase Exercise	292.1	29.7
+Emily	F	3/16/11 12:00 AM	126.9	Increase Exercise	99.5	27.4
+Emma	F	10/14/10 12:00 AM	120.2	No change (control)	109.7	10.5
+Emmanuel	M	3/16/11 12:00 AM	239.5	Increase Exercise	221.7	17.8
+Emmett	M	2/19/10 12:00 AM	284.3	Six small meals	247.4	36.9
+Enrique	M	6/17/10 12:00 AM	294.1	No change (control)	297.3	-3.2
+Eric	M	12/3/10 12:00 AM	255.3	Low Carb	221.8	33.5
+Erica	F	9/4/10 12:00 AM	143.2	Low Carb	121.4	21.8
+Erich	M	1/15/10 12:00 AM	262.3	Low Carb	253.3	9
+Erick	M	7/27/10 12:00 AM	259.4	Increase Exercise	221.8	37.6
+Ericka	F	4/26/10 12:00 AM	136.5	Low Fat	119.7	16.8
+Erik	M	5/6/10 12:00 AM	216.4	No change (control)	225	-8.6
+Erika	F	2/28/11 12:00 AM	138.9	Increase Exercise	133.3	5.6
+Erin	F	6/4/10 12:00 AM	196.5	No change (control)	173.9	22.6
+Ernest	M	12/22/09 12:00 AM	239.8	Low Fat	238	1.8
+Ernesto	M	1/24/10 12:00 AM	291.8	No change (control)	271.9	19.9
+Ervin	M	8/5/10 12:00 AM	311.4	Six small meals	305.1	6.3
+Esmeralda	F	1/8/11 12:00 AM	181.3	Low Carb	178.9	2.4
+Essence	F	8/31/10 12:00 AM	163.1	Low Fat	143.6	19.5
+Esteban	M	5/20/10 12:00 AM	280.4	Six small meals	279.3	1.1
+Estefania	F	2/13/11 12:00 AM	177.8	Low Fat	154.6	23.2
+Estevan	M	12/1/10 12:00 AM	278.3	Six small meals	229.6	48.7
+Esther	F	2/2/10 12:00 AM	156.2	Six small meals	153	3.2
+Ethan	M	10/9/10 12:00 AM	297.1	Low Carb	297.4	-0.3
+Eugene	M	5/3/10 12:00 AM	250.7	Low Fat	251.1	-0.4
+Eunice	F	11/24/10 12:00 AM	161.4	Increase Exercise	119.2	42.2
+Eva	F	12/7/10 12:00 AM	132	Increase Exercise	117.7	14.3
+Evan	M	5/21/10 12:00 AM	264.5	Six small meals	254.5	10
+Evelyn	F	2/11/11 12:00 AM	145.8	Six small meals	139.3	6.5
+Everett	M	3/17/10 12:00 AM	281.3	Six small meals	243.7	37.6
+Ezekiel	M	4/30/10 12:00 AM	263.8	No change (control)	271.1	-7.3
+Ezequiel	M	11/26/10 12:00 AM	240	No change (control)	235.8	4.2
+Ezra	M	8/5/10 12:00 AM	267.1	Six small meals	262	5.1
+Fabian	M	6/26/10 12:00 AM	266.8	Low Carb	265	1.8
+Fabiola	F	2/16/11 12:00 AM	158.2	Increase Exercise	121.8	36.4
+Faith	F	2/19/10 12:00 AM	206.3	Six small meals	205.9	0.4
+Fatima	F	9/19/10 12:00 AM	151.7	Low Fat	147	4.7
+Felicia	F	7/5/10 12:00 AM	129.5	Low Carb	120.3	9.2
+Felipe	M	2/23/11 12:00 AM	294.4	No change (control)	275.3	19.1
+Felix	M	5/13/10 12:00 AM	318.3	Six small meals	271.9	46.4
+Fernando	M	7/14/10 12:00 AM	250.4	Six small meals	245.8	4.6
+Fidel	M	3/7/10 12:00 AM	312.8	Six small meals	305.8	7
+Fiona	F	5/26/10 12:00 AM	150.3	No change (control)	128.5	21.8
+Floyd	M	1/19/11 12:00 AM	213.8	Increase Exercise	204	9.8
+Forest	M	9/11/10 12:00 AM	276.6	Six small meals	253.4	23.2
+Forrest	M	5/20/10 12:00 AM	241.2	No change (control)	241	0.2
+Frances	F	1/4/10 12:00 AM	139.6	Six small meals	134.1	5.5
+Francesca	F	1/8/11 12:00 AM	223.1	No change (control)	214.6	8.5
+Francesco	M	2/13/11 12:00 AM	275.2	Six small meals	267.3	7.9
+Franchesca	F	3/30/10 12:00 AM	168.3	Low Fat	171.7	-3.4
+Francheska	F	1/11/11 12:00 AM	157.8	Six small meals	155.8	2
+Francis	M	10/10/10 12:00 AM	246.1	No change (control)	238.5	7.6
+Francisco	M	8/19/10 12:00 AM	260	No change (control)	258.4	1.6
+Francua	M	11/4/10 12:00 AM	244.6	Six small meals	240.2	4.4
+Frank	M	12/2/10 12:00 AM	284.9	Increase Exercise	282.2	2.7
+Frankie	M	1/14/10 12:00 AM	290.6	Low Fat	282.1	8.5
+Franklin	M	11/23/10 12:00 AM	347.9	Increase Exercise	284.2	63.7
+Fred	M	7/14/10 12:00 AM	263.1	No change (control)	261.2	1.9
+Freddie	M	1/23/10 12:00 AM	311.5	Increase Exercise	279.9	31.6
+Freddy	M	1/5/11 12:00 AM	240	No change (control)	239.8	0.2
+Frederick	M	9/11/10 12:00 AM	232	Six small meals	229.3	2.7
+Fredrick	M	3/17/10 12:00 AM	308.5	Low Carb	306.4	2.1
+Fredy	M	12/6/09 12:00 AM	307.2	Increase Exercise	276.6	30.6
+Gabby	F	7/8/10 12:00 AM	195.3	Six small meals	176.4	18.9
+Gabriel	M	7/10/10 12:00 AM	260.9	Low Carb	253.6	7.3
+Gabriela	F	5/2/10 12:00 AM	135.9	No change (control)	133.2	2.7
+Gabriella	F	1/21/10 12:00 AM	193.7	Six small meals	194.1	-0.4
+Gabrielle	F	12/9/10 12:00 AM	189.6	Six small meals	171.9	17.7
+Gage	M	4/10/10 12:00 AM	316.6	Low Carb	313.2	3.4
+Galen	M	7/3/10 12:00 AM	331.8	No change (control)	302.8	29
+Garett	M	1/20/11 12:00 AM	248.3	Low Fat	233.9	14.4
+Garret	M	2/15/10 12:00 AM	229.3	Low Fat	203.6	25.7
+Garrett	M	6/15/10 12:00 AM	275.9	Increase Exercise	246.8	29.1
+Garrison	M	11/1/10 12:00 AM	303	Low Carb	315.8	-12.8
+Gary	M	8/28/10 12:00 AM	246.2	Low Fat	228.4	17.8
+Gavin	M	2/1/10 12:00 AM	266.9	Six small meals	259.4	7.5
+Genaro	M	1/15/11 12:00 AM	283.5	Six small meals	282.4	1.1
+Gene	M	8/15/10 12:00 AM	257.9	Six small meals	252.6	5.3
+Genesis	F	6/12/10 12:00 AM	212.4	Increase Exercise	157.6	54.8
+Genevieve	F	4/18/10 12:00 AM	173.6	Low Fat	128	45.6
+Geoffrey	M	5/16/10 12:00 AM	241	Low Carb	225.4	15.6
+George	M	7/15/10 12:00 AM	310.6	Increase Exercise	297.5	13.1
+Georgia	F	1/8/11 12:00 AM	146.1	Low Carb	146.3	-0.2
+Gerald	M	6/24/10 12:00 AM	301.1	No change (control)	287.3	13.8
+Gerard	M	3/8/10 12:00 AM	300.3	Low Carb	300	0.3
+Gerardo	M	12/19/10 12:00 AM	334.4	Increase Exercise	298.5	35.9
+German	M	3/5/11 12:00 AM	223.1	Six small meals	217.6	5.5
+Gerry	M	3/4/11 12:00 AM	257.7	Low Fat	257.2	0.5
+Giancarlo	M	8/6/10 12:00 AM	264.7	Low Carb	258.8	5.9
+Gianna	F	10/27/10 12:00 AM	142	Low Carb	132.9	9.1
+Gilbert	M	6/4/10 12:00 AM	307.2	Low Fat	293	14.2
+Gillian	F	8/19/10 12:00 AM	138.2	Low Carb	132.3	5.9
+Gina	F	10/15/10 12:00 AM	146.7	Increase Exercise	140.8	5.9
+Gino	M	1/31/10 12:00 AM	294.9	Low Fat	295.8	-0.9
+Giovanna	F	1/6/10 12:00 AM	164.2	Low Fat	140.6	23.6
+Giovanni	M	5/26/10 12:00 AM	287.5	Increase Exercise	256.3	31.2
+Giovanny	M	4/20/10 12:00 AM	286.8	No change (control)	295.7	-8.9
+Giselle	F	12/30/09 12:00 AM	186.9	Low Fat	201.5	-14.6
+Gladys	F	2/16/11 12:00 AM	186.5	Six small meals	181	5.5
+Glen	M	10/25/10 12:00 AM	256	Six small meals	250.7	5.3
+Glenn	M	2/20/11 12:00 AM	276.3	No change (control)	274.7	1.6
+Gloria	F	2/3/11 12:00 AM	115.4	Six small meals	115.6	-0.2
+Gonzalo	M	5/5/10 12:00 AM	275	Increase Exercise	265.1	9.9
+Gordon	M	5/5/10 12:00 AM	343	Increase Exercise	306.7	36.3
+Grace	F	3/11/10 12:00 AM	226.6	Six small meals	169	57.6
+Graciela	F	1/16/11 12:00 AM	175.2	Low Fat	171.9	3.3
+Grady	M	4/25/10 12:00 AM	263.5	No change (control)	262.7	0.8
+Graham	M	8/5/10 12:00 AM	232.9	No change (control)	235.7	-2.8
+Grant	M	11/23/10 12:00 AM	288.5	Low Fat	284.8	3.7
+Grayson	M	2/25/11 12:00 AM	252.3	Low Carb	250.7	1.6
+Greg	M	10/20/10 12:00 AM	269.8	Six small meals	265.3	4.5
+Gregorio	M	5/24/10 12:00 AM	254.5	Low Carb	254.1	0.4
+Gregory	M	6/17/10 12:00 AM	301.4	No change (control)	297.5	3.9
+Gretchen	F	3/5/10 12:00 AM	160.9	No change (control)	136.2	24.7
+Griffin	M	12/26/10 12:00 AM	301.2	Low Carb	306.1	-4.9
+Griselda	F	2/26/10 12:00 AM	205.2	Increase Exercise	188.1	17.1
+Guadalupe	F	9/28/10 12:00 AM	175.2	Increase Exercise	149.8	25.4
+Guillermo	M	6/1/10 12:00 AM	283.9	Six small meals	280	3.9
+Gunnar	M	1/25/10 12:00 AM	242.3	No change (control)	231.5	10.8
+Gunner	M	10/6/10 12:00 AM	248.6	Low Fat	235.6	13
+Gustavo	M	11/14/10 12:00 AM	281.4	No change (control)	274.2	7.2
+Guy	M	4/22/10 12:00 AM	268.4	Low Carb	214.7	53.7
+Gwendolyn	F	2/19/10 12:00 AM	193.7	Six small meals	173.9	19.8
+Hailee	F	2/25/10 12:00 AM	184.4	Low Carb	180	4.4
+Hailey	F	4/19/10 12:00 AM	170.6	Low Carb	148	22.6
+Hakeem	M	3/23/10 12:00 AM	256	Six small meals	242.7	13.3
+Haleigh	F	2/23/10 12:00 AM	162.7	Low Carb	162	0.7
+Haley	F	8/15/10 12:00 AM	143.2	Increase Exercise	103.6	39.6
+Hali	F	9/20/10 12:00 AM	212.4	No change (control)	183.2	29.2
+Halie	F	7/6/10 12:00 AM	174.7	Low Fat	170.8	3.9
+Halle	F	3/9/11 12:00 AM	215.2	Low Fat	150.9	64.3
+Hallie	F	10/27/10 12:00 AM	147.1	No change (control)	150.8	-3.7
+Hanna	F	9/5/10 12:00 AM	153.9	Low Carb	124.6	29.3
+Hannah	F	1/2/11 12:00 AM	174.9	Six small meals	176.3	-1.4
+Hans	M	5/3/10 12:00 AM	258.1	No change (control)	246.3	11.8
+Harley	F	6/23/10 12:00 AM	211	No change (control)	197.4	13.6
+Harold	M	9/18/10 12:00 AM	282.9	No change (control)	291.9	-9
+Harris	M	12/17/09 12:00 AM	246	Six small meals	243.8	2.2
+Harrison	M	8/29/10 12:00 AM	246.7	Low Carb	245.6	1.1
+Harry	M	1/7/11 12:00 AM	264.1	Six small meals	236.9	27.2
+Harvey	M	11/15/10 12:00 AM	312	Increase Exercise	304.4	7.6
+Hassan	M	1/9/11 12:00 AM	279.7	No change (control)	282.7	-3
+Hayden	M	1/9/10 12:00 AM	311.6	Low Carb	306	5.6
+Haylee	F	9/6/10 12:00 AM	153.6	Low Carb	153	0.6
+Hayley	F	11/18/10 12:00 AM	181.5	Low Carb	181.2	0.3
+Haylie	F	2/19/10 12:00 AM	140.9	Increase Exercise	134	6.9
+Hazel	F	8/10/10 12:00 AM	201	No change (control)	153.7	47.3
+Heath	M	5/23/10 12:00 AM	331.2	Increase Exercise	264.8	66.4
+Heather	F	1/21/11 12:00 AM	183.5	Increase Exercise	153.5	30
+Heaven	F	10/11/10 12:00 AM	152.7	Low Carb	123.9	28.8
+Hector	M	12/6/09 12:00 AM	287.3	No change (control)	282.2	5.1
+Heidi	F	2/14/10 12:00 AM	145.9	Low Fat	140.1	5.8
+Helen	F	2/14/11 12:00 AM	148.9	No change (control)	144.2	4.7
+Helena	F	10/31/10 12:00 AM	160	Low Carb	153.2	6.8
+Henry	M	8/9/10 12:00 AM	252.7	Six small meals	243.3	9.4
+Herbert	M	1/10/10 12:00 AM	293.6	Increase Exercise	225.4	68.2
+Heriberto	M	12/26/10 12:00 AM	256.1	No change (control)	253.7	2.4
+Herman	M	5/3/10 12:00 AM	271.5	Six small meals	268.9	2.6
+Hernan	M	3/20/10 12:00 AM	305.3	Six small meals	305.9	-0.6
+Hilary	F	3/21/10 12:00 AM	181.8	Increase Exercise	181.8	0
+Hillary	F	11/13/10 12:00 AM	195.7	Six small meals	174.5	21.2
+Holden	M	7/2/10 12:00 AM	350.5	Increase Exercise	282.5	68
+Hollie	F	3/29/10 12:00 AM	146.1	No change (control)	142.9	3.2
+Holly	F	1/12/11 12:00 AM	170.1	Six small meals	165	5.1
+Hope	F	9/1/10 12:00 AM	136.4	Increase Exercise	119.1	17.3
+Houston	M	12/24/10 12:00 AM	294.3	No change (control)	292.2	2.1
+Howard	M	12/23/09 12:00 AM	304.8	Low Fat	300.5	4.3
+Hudson	M	5/7/10 12:00 AM	311.3	Six small meals	311.8	-0.5
+Hugh	M	8/22/10 12:00 AM	327.7	Increase Exercise	321.8	5.9
+Hugo	M	6/28/10 12:00 AM	300.5	Low Carb	300.7	-0.2
+Humberto	M	1/10/10 12:00 AM	271.1	No change (control)	261.4	9.7
+Hunter	M	4/17/10 12:00 AM	271.4	No change (control)	219.7	51.7
+Ian	M	1/30/10 12:00 AM	245.8	No change (control)	238.7	7.1
+Ibrahim	M	9/21/10 12:00 AM	266.7	Increase Exercise	213.6	53.1
+Iesha	F	7/16/10 12:00 AM	177.5	No change (control)	147.2	30.3
+Ignacio	M	11/7/10 12:00 AM	287.9	Low Carb	223	64.9
+Iliana	F	3/8/11 12:00 AM	114	Six small meals	110.9	3.1
+Ilsa	F	12/8/09 12:00 AM	134.7	No change (control)	127.1	7.6
+India	F	3/14/11 12:00 AM	171.3	Six small meals	127.4	43.9
+Infanto	M	8/25/10 12:00 AM	239.1	No change (control)	229.6	9.5
+Ingrid	F	2/14/10 12:00 AM	184.5	Six small meals	164.8	19.7
+Irene	F	6/30/10 12:00 AM	184.4	Six small meals	178.1	6.3
+Iris	F	5/25/10 12:00 AM	176.5	Six small meals	161.3	15.2
+Irma	F	10/6/10 12:00 AM	220.8	No change (control)	187	33.8
+Irvin	M	3/1/10 12:00 AM	251.2	Six small meals	235.5	15.7
+Irving	M	3/13/11 12:00 AM	274.8	Six small meals	261.6	13.2
+Isaac	M	4/11/10 12:00 AM	249.2	Low Carb	246	3.2
+Isabel	F	10/16/10 12:00 AM	163.1	Increase Exercise	131.6	31.5
+Isabella	F	1/20/10 12:00 AM	183.1	Increase Exercise	195.2	-12.1
+Isabelle	F	2/18/10 12:00 AM	172.3	Low Fat	180.3	-8
+Isai	M	8/14/10 12:00 AM	301.8	Low Carb	302.2	-0.4
+Isaiah	M	10/13/10 12:00 AM	288.9	Low Fat	279.5	9.4
+Isaias	M	9/21/10 12:00 AM	297.8	Increase Exercise	292.1	5.7
+Isamar	F	3/2/10 12:00 AM	178.3	Low Fat	143	35.3
+Isiah	M	10/31/10 12:00 AM	290.4	Low Fat	298.4	-8
+Isidro	M	10/15/10 12:00 AM	266.4	Six small meals	211.8	54.6
+Ismael	M	7/20/10 12:00 AM	255.6	No change (control)	250.7	4.9
+Israel	M	4/17/10 12:00 AM	242.7	Six small meals	229.5	13.2
+Issac	M	8/7/10 12:00 AM	254.8	Increase Exercise	223.1	31.7
+Itzel	F	2/27/11 12:00 AM	214.3	Six small meals	190.4	23.9
+Ivan	M	12/30/09 12:00 AM	277.5	Increase Exercise	258.8	18.7
+Ivette	F	10/7/10 12:00 AM	180.8	Increase Exercise	163.3	17.5
+Ivy	F	2/22/10 12:00 AM	175.9	Low Fat	178.5	-2.6
+J	M	10/5/10 12:00 AM	239.6	Six small meals	234.9	4.7
+Jabari	M	1/11/10 12:00 AM	215.5	Increase Exercise	203.9	11.6
+Jace	M	12/31/09 12:00 AM	239.5	Low Carb	238.8	0.7
+Jack	M	12/27/09 12:00 AM	292.6	No change (control)	279.7	12.9
+Jackie	F	9/2/10 12:00 AM	198.1	No change (control)	192.9	5.2
+Jacklyn	F	12/25/09 12:00 AM	212.9	No change (control)	174.5	38.4
+Jackson	M	4/28/10 12:00 AM	314.7	Low Carb	314	0.7
+Jaclyn	F	4/12/10 12:00 AM	138.9	Six small meals	137.2	1.7
+Jacob	M	9/14/10 12:00 AM	253.6	Low Fat	249.9	3.7
+Jacoby	M	4/30/10 12:00 AM	254.9	Low Carb	247.3	7.6
+Jacqueline	F	12/2/10 12:00 AM	162.5	Low Fat	128.6	33.9
+Jacquelyn	F	2/12/11 12:00 AM	118.1	Six small meals	119.5	-1.4
+Jacques	M	11/7/10 12:00 AM	319	No change (control)	316.5	2.5
+Jada	F	5/24/10 12:00 AM	134.9	Low Carb	131.4	3.5
+Jade	M	3/13/10 12:00 AM	290.5	Six small meals	269.9	20.6
+Jaden	M	7/16/10 12:00 AM	294.9	No change (control)	297.4	-2.5
+Jaime	M	6/18/10 12:00 AM	273.7	Low Fat	273.8	-0.1
+Jaimie	F	6/20/10 12:00 AM	149.5	Low Carb	149.4	0.1
+Jairo	M	2/23/10 12:00 AM	327	Increase Exercise	272.8	54.2
+Jake	M	2/18/10 12:00 AM	215	Low Fat	212	3
+Jakob	M	8/12/10 12:00 AM	240.1	Low Fat	238.5	1.6
+Jaleel	M	1/31/11 12:00 AM	263.1	Six small meals	265.2	-2.1
+Jalen	M	12/21/09 12:00 AM	256	No change (control)	258.2	-2.2
+Jalisa	F	1/1/11 12:00 AM	177.3	No change (control)	169.9	7.4
+Jamaal	M	4/28/10 12:00 AM	261.5	Six small meals	261.8	-0.3
+Jamal	M	10/26/10 12:00 AM	334.5	Six small meals	291.7	42.8
+Jamar	M	4/21/10 12:00 AM	329.7	Low Carb	299.7	30
+Jamarcus	M	9/4/10 12:00 AM	281.4	Low Carb	276.8	4.6
+Jamel	M	11/24/10 12:00 AM	286.8	Low Carb	234	52.8
+James	M	10/3/10 12:00 AM	240.8	Low Fat	242.4	-1.6
+Jameson	M	10/31/10 12:00 AM	255.2	Low Carb	233.8	21.4
+Jami	F	1/12/10 12:00 AM	146	No change (control)	134.5	11.5
+Jamie	M	1/29/11 12:00 AM	273.5	Low Fat	265.9	7.6
+Jamil	M	10/7/10 12:00 AM	327.6	Increase Exercise	318.4	9.2
+Jamila	F	12/3/10 12:00 AM	135.3	Low Carb	128.7	6.6
+Jamison	M	5/19/10 12:00 AM	253	Six small meals	254.8	-1.8
+Jammy	F	1/17/11 12:00 AM	183.4	No change (control)	187.7	-4.3
+Jan	M	1/14/11 12:00 AM	344.4	Increase Exercise	292.2	52.2
+Jana	F	1/28/11 12:00 AM	170.6	Low Carb	166.7	3.9
+Janay	F	5/18/10 12:00 AM	148.8	Six small meals	116.8	32
+Jane	F	10/4/10 12:00 AM	149.8	Low Carb	139.4	10.4
+Janelle	F	1/29/10 12:00 AM	151.1	Six small meals	136	15.1
+Janessa	F	4/13/10 12:00 AM	179.9	Six small meals	169.1	10.8
+Janet	F	1/24/11 12:00 AM	140.4	No change (control)	138.9	1.5
+Janette	F	1/25/11 12:00 AM	164.7	No change (control)	167.1	-2.4
+Janice	F	11/22/10 12:00 AM	147.6	Increase Exercise	134	13.6
+Janie	F	7/23/10 12:00 AM	176.3	Increase Exercise	134.7	41.6
+Jaquan	M	4/18/10 12:00 AM	281.5	Low Carb	243.1	38.4
+Jaqueline	F	7/12/10 12:00 AM	179.8	Six small meals	179.8	0
+Jared	M	12/4/09 12:00 AM	257.6	Low Carb	254.9	2.7
+Jarod	M	11/14/10 12:00 AM	250.2	No change (control)	239.6	10.6
+Jarred	M	2/16/10 12:00 AM	287.7	Increase Exercise	227.3	60.4
+Jarrett	M	4/17/10 12:00 AM	243.1	Low Carb	216.1	27
+Jarrod	M	3/13/11 12:00 AM	231	Six small meals	222.1	8.9
+Jarvis	M	3/16/10 12:00 AM	263.9	Low Fat	248.9	15
+Jasmin	F	7/25/10 12:00 AM	157.8	Increase Exercise	106.1	51.7
+Jasmine	F	6/26/10 12:00 AM	174.7	Increase Exercise	132.4	42.3
+Jason	M	3/23/10 12:00 AM	258.3	Increase Exercise	262.5	-4.2
+Jasper	M	6/29/10 12:00 AM	263.5	No change (control)	258.3	5.2
+Javier	M	4/20/10 12:00 AM	326.5	No change (control)	319.8	6.7
+Javon	M	5/1/10 12:00 AM	293.6	Increase Exercise	281.6	12
+Javonte	M	1/28/10 12:00 AM	317.1	No change (control)	292.2	24.9
+Jay	M	5/1/10 12:00 AM	299.5	No change (control)	300.7	-1.2
+Jayden	M	6/6/10 12:00 AM	240	No change (control)	235.7	4.3
+Jayla	F	12/7/10 12:00 AM	161	Low Fat	138.4	22.6
+Jaylen	M	1/17/10 12:00 AM	258.9	Six small meals	256.6	2.3
+Jaylin	M	3/1/11 12:00 AM	290.3	No change (control)	269.5	20.8
+Jaylon	M	8/22/10 12:00 AM	276.6	Six small meals	264.1	12.5
+Jayson	M	9/17/10 12:00 AM	238.3	Low Fat	238.2	0.1
+Jazmin	F	8/26/10 12:00 AM	207.2	Increase Exercise	168.7	38.5
+Jazmine	F	3/20/10 12:00 AM	159.7	Increase Exercise	113.5	46.2
+Jean	M	3/8/11 12:00 AM	317	Increase Exercise	293	24
+Jeanette	F	12/27/10 12:00 AM	131	Six small meals	121	10
+Jedidiah	M	5/4/10 12:00 AM	292.5	Low Carb	290.5	2
+Jeff	M	4/4/10 12:00 AM	327.8	Increase Exercise	259.9	67.9
+Jeff	M	1/29/10 12:00 AM	307.7	Low Carb	272	35.7
+Jefferson	M	9/12/10 12:00 AM	265.9	No change (control)	255.9	10
+Jeffery	M	12/23/09 12:00 AM	268.3	Six small meals	251.9	16.4
+Jeffrey	M	3/15/11 12:00 AM	236.4	Low Carb	223.1	13.3
+Jena	F	4/1/10 12:00 AM	159.8	No change (control)	168.3	-8.5
+Jenifer	F	3/28/10 12:00 AM	168.6	Increase Exercise	106.2	62.4
+Jenna	F	11/14/10 12:00 AM	156.2	Low Fat	130.9	25.3
+Jennie	F	2/16/11 12:00 AM	153	No change (control)	145.7	7.3
+Jennifer	F	6/24/10 12:00 AM	201.9	No change (control)	177.4	24.5
+Jenny	F	10/10/10 12:00 AM	209.3	Six small meals	209.3	0
+Jerald	M	1/15/11 12:00 AM	263.3	Low Carb	263.4	-0.1
+Jeremiah	M	4/14/10 12:00 AM	293.1	Low Carb	258.3	34.8
+Jeremy	M	8/23/10 12:00 AM	241.7	Low Fat	246.8	-5.1
+Jermaine	M	7/24/10 12:00 AM	301.7	Low Fat	302.7	-1
+Jerod	M	10/25/10 12:00 AM	239.4	Six small meals	228.4	11
+Jerome	M	12/26/10 12:00 AM	282.2	No change (control)	263.6	18.6
+Jerrell	M	1/17/10 12:00 AM	274.9	No change (control)	264.8	10.1
+Jerrica	F	12/18/10 12:00 AM	141.4	Low Carb	140.9	0.5
+Jerrod	M	12/26/10 12:00 AM	298.6	No change (control)	297.7	0.9
+Jerry	M	12/19/09 12:00 AM	332.1	Increase Exercise	294.1	38
+Jerry	M	4/24/10 12:00 AM	259.6	No change (control)	242.7	16.9
+Jess	M	6/17/10 12:00 AM	260.6	Six small meals	247.5	13.1
+Jesse	F	5/8/10 12:00 AM	125.8	Six small meals	111.5	14.3
+Jessi	F	2/17/11 12:00 AM	122.4	Increase Exercise	94.3	28.1
+Jessica	F	12/5/10 12:00 AM	229.1	No change (control)	191.1	38
+Jessie	F	4/8/10 12:00 AM	114.6	Increase Exercise	105.8	8.8
+Jessika	F	8/10/10 12:00 AM	179.9	Increase Exercise	180.2	-0.3
+Jesus	M	2/25/11 12:00 AM	243.5	Low Fat	244	-0.5
+Jesus	M	10/24/10 12:00 AM	295.5	Low Fat	277.8	17.7
+Jill	F	10/27/10 12:00 AM	155.3	Increase Exercise	136.3	19
+Jim	M	5/10/10 12:00 AM	279.8	Low Fat	277.8	2
+Jimmie	M	6/13/10 12:00 AM	291.2	Increase Exercise	290.8	0.4
+Jimmy	M	12/22/09 12:00 AM	302.2	Low Fat	301.7	0.5
+Joan	F	2/4/10 12:00 AM	203.8	Increase Exercise	175.1	28.7
+Joana	F	12/11/09 12:00 AM	157.4	No change (control)	143.3	14.1
+Joann	F	8/31/10 12:00 AM	143.6	Low Carb	141.4	2.2
+Joanna	F	7/2/10 12:00 AM	205.3	Six small meals	204.1	1.2
+Joanne	F	11/5/10 12:00 AM	187.8	Increase Exercise	214.8	-27
+Joaquin	M	6/1/10 12:00 AM	265.8	Six small meals	265.4	0.4
+Jocelyn	F	1/14/11 12:00 AM	123.6	Increase Exercise	134.4	-10.8
+Jodi	F	9/24/10 12:00 AM	122	Increase Exercise	122.2	-0.2
+Jodie	F	11/28/10 12:00 AM	188	Low Fat	172.1	15.9
+Jody	M	12/5/10 12:00 AM	281.4	Six small meals	279.8	1.6
+Joe	M	3/3/11 12:00 AM	267.1	Low Carb	219.8	47.3
+Joel	M	1/10/10 12:00 AM	299.8	Low Fat	276.3	23.5
+Joelle	F	6/10/10 12:00 AM	132.1	No change (control)	127.4	4.7
+Joey	M	12/31/09 12:00 AM	306.1	Increase Exercise	304.5	1.6
+John	M	3/30/10 12:00 AM	341.5	Six small meals	330	11.5
+Johnathan	M	7/4/10 12:00 AM	294.4	No change (control)	282.9	11.5
+Johnathon	M	7/12/10 12:00 AM	273.9	Six small meals	256.8	17.1
+Johnnie	M	6/13/10 12:00 AM	325.1	No change (control)	323.7	1.4
+Johnny	M	12/3/10 12:00 AM	300.1	Low Fat	304.7	-4.6
+Jolene	F	8/4/10 12:00 AM	149.4	No change (control)	147.9	1.5
+Jomar	M	1/23/11 12:00 AM	229.8	Six small meals	236.1	-6.3
+Jon	M	12/1/10 12:00 AM	247.2	Low Fat	232.1	15.1
+Jonah	M	9/8/10 12:00 AM	264.8	Low Carb	251.2	13.6
+Jonas	M	12/29/10 12:00 AM	284.9	Six small meals	283.3	1.6
+Jonatan	M	10/11/10 12:00 AM	245.4	Low Fat	247.2	-1.8
+Jonathan	M	12/2/10 12:00 AM	258.3	Six small meals	255.6	2.7
+Jonathon	M	1/21/11 12:00 AM	256.4	Six small meals	254.2	2.2
+Jordan	F	3/7/11 12:00 AM	221.1	Low Fat	186.9	34.2
+Jorden	M	5/28/10 12:00 AM	289.1	Increase Exercise	284.2	4.9
+Jordon	M	1/13/10 12:00 AM	283	Six small meals	275.8	7.2
+Jordyn	F	8/11/10 12:00 AM	216.1	Low Fat	200.1	16
+Jorge	M	1/10/10 12:00 AM	234.8	No change (control)	213.5	21.3
+Jose	M	8/1/10 12:00 AM	292.6	No change (control)	274.4	18.2
+Josef	M	1/18/10 12:00 AM	264.2	Low Carb	263.9	0.3
+Joselyn	F	2/14/10 12:00 AM	153.3	Low Fat	123.4	29.9
+Joseph	M	4/3/10 12:00 AM	271.9	Low Fat	234.5	37.4
+Josephine	F	6/8/10 12:00 AM	159.5	Low Fat	143.1	16.4
+Josh	M	11/9/10 12:00 AM	295.4	Increase Exercise	271.9	23.5
+Josiah	M	12/14/09 12:00 AM	306.6	Increase Exercise	301.8	4.8
+Josie	F	11/29/10 12:00 AM	205.6	Six small meals	194.2	11.4
+Josue	M	3/30/10 12:00 AM	301.6	Six small meals	289.7	11.9
+Jovan	M	5/6/10 12:00 AM	261.3	Low Carb	230.6	30.7
+Jovanny	M	1/25/11 12:00 AM	267.5	Increase Exercise	241.9	25.6
+Jovany	M	3/27/10 12:00 AM	282.4	Six small meals	281.2	1.2
+Joy	F	10/10/10 12:00 AM	135.1	Six small meals	136.6	-1.5
+Joyce	F	1/16/10 12:00 AM	170	Six small meals	166.2	3.8
+Juan	M	10/24/10 12:00 AM	259.9	Low Carb	249.3	10.6
+Juana	F	2/19/11 12:00 AM	198.9	Increase Exercise	190.5	8.4
+Juanita	F	7/4/10 12:00 AM	177.7	Low Carb	173.4	4.3
+Jude	M	7/3/10 12:00 AM	283.1	Low Carb	253.2	29.9
+Judith	F	1/18/11 12:00 AM	161.8	Six small meals	161.5	0.3
+Judy	F	5/27/10 12:00 AM	144.4	Low Carb	143.7	0.7
+Julian	M	9/30/10 12:00 AM	326.7	Increase Exercise	295.7	31
+Juliana	F	3/3/10 12:00 AM	140.6	Low Carb	123.7	16.9
+Julianna	F	5/20/10 12:00 AM	131.6	No change (control)	139.1	-7.5
+Julianne	F	2/24/11 12:00 AM	206.2	Six small meals	193.6	12.6
+Julie	F	3/31/10 12:00 AM	122.5	Low Fat	122.7	-0.2
+Julien	M	3/6/11 12:00 AM	293.5	Increase Exercise	294.9	-1.4
+Juliet	F	3/8/10 12:00 AM	167.6	Low Carb	163.1	4.5
+Julio	M	9/17/10 12:00 AM	285.5	Low Carb	210	75.5
+Julissa	F	6/6/10 12:00 AM	187	Increase Exercise	169	18
+Julius	M	12/23/10 12:00 AM	238.3	No change (control)	222.8	15.5
+Junior	M	8/9/10 12:00 AM	244	Six small meals	237.1	6.9
+Justen	M	1/24/11 12:00 AM	288.7	No change (control)	271.2	17.5
+Justice	F	9/29/10 12:00 AM	193.2	Low Carb	177.6	15.6
+Justin	M	11/16/10 12:00 AM	256	Six small meals	252.6	3.4
+Justina	F	9/3/10 12:00 AM	179.5	No change (control)	174.7	4.8
+Justine	F	2/14/11 12:00 AM	160.6	Six small meals	151.7	8.9
+Justus	M	7/20/10 12:00 AM	310.3	Six small meals	282.6	27.7
+Justyn	M	12/28/10 12:00 AM	232.3	No change (control)	233.2	-0.9
+Juwan	M	5/12/10 12:00 AM	243.9	Six small meals	243	0.9
+Kacey	F	9/21/10 12:00 AM	182.1	Increase Exercise	154.5	27.6
+Kaci	F	3/20/10 12:00 AM	150.4	No change (control)	134	16.4
+Kacie	F	4/25/10 12:00 AM	109.2	No change (control)	107	2.2
+Kade	M	2/14/10 12:00 AM	313.3	Low Fat	297.3	16
+Kadeem	M	1/5/10 12:00 AM	269.2	No change (control)	247.8	21.4
+Kaden	M	5/22/10 12:00 AM	271.9	Low Fat	242.2	29.7
+Kaela	F	10/24/10 12:00 AM	196.7	Six small meals	177.6	19.1
+Kai	M	5/15/10 12:00 AM	299.8	Low Fat	288.2	11.6
+Kailee	F	12/2/10 12:00 AM	191.1	Low Fat	184.6	6.5
+Kailey	F	1/21/10 12:00 AM	219.7	Increase Exercise	209.2	10.5
+Kailyn	F	1/8/11 12:00 AM	203.9	No change (control)	192.3	11.6
+Kaitlin	F	1/12/10 12:00 AM	163.2	No change (control)	184.9	-21.7
+Kaitlyn	F	10/26/10 12:00 AM	141.1	Increase Exercise	111.6	29.5
+Kaitlynn	F	1/28/11 12:00 AM	178.8	Low Fat	179.3	-0.5
+Kala	F	4/28/10 12:00 AM	120.6	Low Fat	116.2	4.4
+Kaleb	M	7/30/10 12:00 AM	278.6	No change (control)	277.3	1.3
+Kaleigh	F	2/24/11 12:00 AM	161.8	Increase Exercise	147.3	14.5
+Kalen	M	5/24/10 12:00 AM	307	Low Fat	300.4	6.6
+Kaley	F	4/21/10 12:00 AM	208.7	Six small meals	178.6	30.1
+Kali	F	1/16/10 12:00 AM	219.1	Six small meals	206	13.1
+Kalie	F	10/18/10 12:00 AM	200.4	Low Fat	175.5	24.9
+Kallie	F	6/27/10 12:00 AM	133	Six small meals	115.2	17.8
+Kalvin	M	4/23/10 12:00 AM	258.6	No change (control)	250	8.6
+Kalyn	F	3/16/11 12:00 AM	189.7	Six small meals	189.7	0
+Kameron	M	11/1/10 12:00 AM	285.9	No change (control)	282	3.9
+Kanah	F	2/28/11 12:00 AM	179.3	Low Fat	186.4	-7.1
+Kane	M	4/28/10 12:00 AM	245.1	Six small meals	236.2	8.9
+Kara	F	4/10/10 12:00 AM	178.7	Six small meals	171.9	6.8
+Kareem	M	10/5/10 12:00 AM	274.7	Six small meals	241.2	33.5
+Karen	F	11/9/10 12:00 AM	161.5	Low Fat	172.9	-11.4
+Kari	F	4/14/10 12:00 AM	177.5	Low Fat	157	20.5
+Karina	F	5/6/10 12:00 AM	196.1	Low Fat	193.1	3
+Karissa	F	2/22/10 12:00 AM	210.9	Increase Exercise	179.4	31.5
+Karl	M	7/16/10 12:00 AM	319.8	Low Fat	296.6	23.2
+Karla	F	12/21/10 12:00 AM	121.8	No change (control)	136.5	-14.7
+Karlee	F	5/9/10 12:00 AM	188.7	Low Fat	167.9	20.8
+Karley	F	9/15/10 12:00 AM	171.1	Increase Exercise	131.3	39.8
+Karli	F	5/15/10 12:00 AM	170.8	No change (control)	169.3	1.5
+Karlie	F	7/1/10 12:00 AM	181.7	Six small meals	175.8	5.9
+Karly	F	4/4/10 12:00 AM	173.1	Six small meals	184.5	-11.4
+Karry	F	10/9/10 12:00 AM	223.5	Increase Exercise	183.4	40.1
+Kasandra	F	7/8/10 12:00 AM	157.3	Low Carb	156.6	0.7
+Kasey	M	12/18/10 12:00 AM	242.8	No change (control)	241.2	1.6
+Kassandra	F	9/29/10 12:00 AM	173.1	Six small meals	158.4	14.7
+Kassidy	F	12/31/09 12:00 AM	234	Increase Exercise	173.5	60.5
+Kassie	F	7/28/10 12:00 AM	181	Low Carb	180	1
+Kasy	F	2/11/10 12:00 AM	196.9	Six small meals	195.7	1.2
+Katarina	F	9/17/10 12:00 AM	190.4	Low Fat	189	1.4
+Kate	F	3/25/10 12:00 AM	165.4	Low Fat	116.4	49
+Katelin	F	5/25/10 12:00 AM	115.2	Increase Exercise	83	32.2
+Katelyn	F	1/27/11 12:00 AM	222.7	Low Fat	219.8	2.9
+Katelynn	F	5/6/10 12:00 AM	196.4	No change (control)	192.7	3.7
+Katerina	F	9/18/10 12:00 AM	152.2	Increase Exercise	150.5	1.7
+Katharine	F	2/1/10 12:00 AM	181.7	Increase Exercise	130.7	51
+Katherine	F	8/23/10 12:00 AM	200.9	No change (control)	176.8	24.1
+Katheryn	F	1/27/11 12:00 AM	167.9	Low Carb	165.3	2.6
+Kathleen	F	1/26/10 12:00 AM	179.2	No change (control)	174.9	4.3
+Kathrine	F	1/3/10 12:00 AM	128.2	Six small meals	108	20.2
+Kathryn	F	3/22/10 12:00 AM	170.1	Six small meals	158	12.1
+Kathy	F	12/2/09 12:00 AM	209.9	No change (control)	210.7	-0.8
+Katie	F	6/21/10 12:00 AM	159.5	Increase Exercise	189	-29.5
+Katlin	F	5/8/10 12:00 AM	169.3	Increase Exercise	125.5	43.8
+Katlyn	F	2/28/11 12:00 AM	193.8	Six small meals	189	4.8
+Katrina	F	1/18/10 12:00 AM	185.6	Low Fat	182.4	3.2
+Katy	F	2/12/10 12:00 AM	154.5	Low Fat	118.4	36.1
+Kayla	F	2/10/10 12:00 AM	191.7	Six small meals	194	-2.3
+Kaylee	F	9/20/10 12:00 AM	132.7	Low Fat	130.5	2.2
+Kayleigh	F	9/6/10 12:00 AM	175.1	Low Fat	145.8	29.3
+Kayley	F	12/9/09 12:00 AM	120.1	Low Carb	120.6	-0.5
+Kayli	F	10/21/10 12:00 AM	172.9	Low Carb	168.7	4.2
+Kaylie	F	6/28/10 12:00 AM	176.1	Six small meals	176.8	-0.7
+Kaylin	F	1/15/11 12:00 AM	140.2	Low Fat	122.3	17.9
+Kaylyn	F	3/10/11 12:00 AM	180.2	Increase Exercise	140.6	39.6
+Kaylynn	F	9/28/10 12:00 AM	183.6	Six small meals	165.4	18.2
+Keanu	M	1/16/11 12:00 AM	280.6	No change (control)	276.3	4.3
+Keaton	M	9/6/10 12:00 AM	230.8	Increase Exercise	236.2	-5.4
+Keegan	M	5/8/10 12:00 AM	255.4	Six small meals	267.4	-12
+Keely	F	7/11/10 12:00 AM	118.6	Six small meals	97.9	20.7
+Keenan	M	4/22/10 12:00 AM	255.4	No change (control)	229.7	25.7
+Kegan	M	8/19/10 12:00 AM	255.4	Increase Exercise	234.7	20.7
+Keila	F	2/11/11 12:00 AM	146.5	Low Fat	132.9	13.6
+Keisha	F	2/2/11 12:00 AM	197.8	Six small meals	199.4	-1.6
+Keishla	F	5/18/10 12:00 AM	216	Low Fat	155.2	60.8
+Keith	M	7/17/10 12:00 AM	307.7	Increase Exercise	302.9	4.8
+Kelby	M	2/8/11 12:00 AM	300.8	No change (control)	286.9	13.9
+Kelcie	F	7/21/10 12:00 AM	170.4	Six small meals	168.5	1.9
+Kelie	F	2/4/11 12:00 AM	133.8	Low Carb	132.3	1.5
+Kellen	M	2/14/10 12:00 AM	229.9	Low Fat	212.1	17.8
+Kelley	F	3/3/10 12:00 AM	122.4	Low Fat	119.2	3.2
+Kelli	F	1/19/11 12:00 AM	128.8	Increase Exercise	114.2	14.6
+Kellie	F	1/16/10 12:00 AM	217.2	No change (control)	202.2	15
+Kelly	F	12/28/09 12:00 AM	142.7	Low Carb	143.9	-1.2
+Kelsea	F	1/18/11 12:00 AM	145.1	Low Carb	144.7	0.4
+Kelsi	F	4/9/10 12:00 AM	156.8	Low Fat	129.2	27.6
+Kelvin	M	1/1/11 12:00 AM	226.9	Low Carb	210.3	16.6
+Kendal	M	11/16/10 12:00 AM	323.9	No change (control)	292.2	31.7
+Kendall	M	2/27/10 12:00 AM	304.9	Low Fat	304.3	0.6
+Kendra	F	6/9/10 12:00 AM	139.2	No change (control)	135.2	4
+Kendrick	M	4/12/10 12:00 AM	300.9	Low Fat	296	4.9
+Kenia	F	2/20/10 12:00 AM	135.9	No change (control)	129.8	6.1
+Kennedy	F	6/22/10 12:00 AM	204.9	Low Carb	184.8	20.1
+Kenneth	M	1/6/11 12:00 AM	264.6	No change (control)	264.9	-0.3
+Kent	M	12/12/10 12:00 AM	283.9	Six small meals	249.5	34.4
+Kenton	M	1/5/11 12:00 AM	250.4	Six small meals	244.1	6.3
+Kenya	F	7/27/10 12:00 AM	194.4	Low Carb	181.2	13.2
+Keon	M	11/6/10 12:00 AM	267	Six small meals	262.3	4.7
+Keri	F	8/31/10 12:00 AM	148.4	No change (control)	167.6	-19.2
+Kerri	F	10/19/10 12:00 AM	175.3	No change (control)	159.3	16
+Kerry	M	10/31/10 12:00 AM	244.5	Six small meals	240.3	4.2
+Kesey	M	7/27/10 12:00 AM	269.3	No change (control)	273.8	-4.5
+Keven	M	10/24/10 12:00 AM	234.2	Low Fat	231.9	2.3
+Kevin	M	9/23/10 12:00 AM	237.5	Six small meals	218.7	18.8
+Kevon	M	7/31/10 12:00 AM	238.9	No change (control)	237.2	1.7
+Khadijah	F	5/8/10 12:00 AM	137.2	No change (control)	142.8	-5.6
+Khalid	M	4/25/10 12:00 AM	307.3	Low Carb	273.3	34
+Khalil	M	2/12/10 12:00 AM	265.3	No change (control)	252.5	12.8
+Kia	F	3/30/10 12:00 AM	186.2	Low Fat	176.1	10.1
+Kiana	F	12/5/09 12:00 AM	138.5	Increase Exercise	136.7	1.8
+Kianna	F	6/30/10 12:00 AM	147.7	No change (control)	148.2	-0.5
+Kiara	F	5/31/10 12:00 AM	144.4	Low Carb	124.5	19.9
+Kiera	F	12/29/09 12:00 AM	189	Six small meals	174.3	14.7
+Kieran	M	9/29/10 12:00 AM	239.3	Low Carb	240.7	-1.4
+Kierra	F	12/10/10 12:00 AM	123.5	Increase Exercise	90.6	32.9
+Kiersten	F	2/18/11 12:00 AM	179.2	No change (control)	179.8	-0.6
+Kiley	F	9/28/10 12:00 AM	128.9	Low Carb	118.2	10.7
+Kimberlee	F	6/16/10 12:00 AM	153.2	Six small meals	129.6	23.6
+Kimberley	F	1/15/10 12:00 AM	173.5	No change (control)	170.3	3.2
+Kimberly	F	2/7/10 12:00 AM	165.3	Six small meals	131	34.3
+Kira	F	6/28/10 12:00 AM	172.9	Six small meals	148.6	24.3
+Kirby	M	1/9/11 12:00 AM	275.4	No change (control)	268.5	6.9
+Kirk	M	10/5/10 12:00 AM	290.4	Increase Exercise	287.8	2.6
+Kirsten	F	1/28/11 12:00 AM	135.8	Low Carb	134.3	1.5
+Kirstie	F	2/19/11 12:00 AM	146.5	No change (control)	138.5	8
+Kirstin	F	1/18/11 12:00 AM	219.6	Six small meals	217.9	1.7
+Kobe	M	1/3/10 12:00 AM	334.2	Six small meals	293.4	40.8
+Koby	M	2/28/10 12:00 AM	258.6	Low Carb	244.8	13.8
+Kody	M	12/15/10 12:00 AM	296.7	Increase Exercise	257.7	39
+Kolby	M	4/23/10 12:00 AM	271.6	Six small meals	269.5	2.1
+Kole	M	7/6/10 12:00 AM	315.7	Low Fat	310.3	5.4
+Kolton	M	7/31/10 12:00 AM	281	Low Fat	279.8	1.2
+Korey	M	1/31/11 12:00 AM	263.4	Low Fat	250.3	13.1
+Kori	F	12/10/09 12:00 AM	180.8	Six small meals	179.8	1
+Kortney	F	12/17/09 12:00 AM	136	Increase Exercise	116.2	19.8
+Kory	M	12/18/10 12:00 AM	313.2	Low Fat	307.3	5.9
+Kourtney	F	11/1/10 12:00 AM	162.6	Low Fat	129.6	33
+Krenshaw	F	1/17/10 12:00 AM	162.2	Increase Exercise	108.6	53.6
+Krista	F	3/5/11 12:00 AM	168.3	Six small meals	156	12.3
+Kristal	F	1/10/11 12:00 AM	150.5	Six small meals	150.2	0.3
+Kristi	F	10/31/10 12:00 AM	202	Low Carb	201.7	0.3
+Kristian	M	9/13/10 12:00 AM	276	Low Carb	224	52
+Kristiana	F	12/26/09 12:00 AM	149.6	Low Fat	147.8	1.8
+Kristie	F	1/22/11 12:00 AM	128.5	No change (control)	114.1	14.4
+Kristin	F	10/30/10 12:00 AM	109.4	Low Fat	112.1	-2.7
+Kristina	F	12/19/09 12:00 AM	164.9	No change (control)	127.6	37.3
+Kristine	F	12/28/10 12:00 AM	169.4	Low Fat	138.1	31.3
+Kristofer	M	4/26/10 12:00 AM	259.8	Six small meals	253.3	6.5
+Kristopher	M	9/13/10 12:00 AM	279.8	Low Carb	280.7	-0.9
+Kristy	F	8/14/10 12:00 AM	186.5	Low Carb	185	1.5
+Kristyn	F	1/7/10 12:00 AM	198.3	No change (control)	166.2	32.1
+Krysta	F	3/28/10 12:00 AM	166	Increase Exercise	149	17
+Krystal	F	6/26/10 12:00 AM	129.4	No change (control)	107.5	21.9
+Kurt	M	6/28/10 12:00 AM	291.2	Increase Exercise	215	76.2
+Kwame	M	8/20/10 12:00 AM	321	Low Fat	307	14
+Kyla	F	1/22/10 12:00 AM	159.2	Increase Exercise	159.2	0
+Kyle	M	11/29/10 12:00 AM	333.4	Low Carb	305.8	27.6
+Kylee	F	12/11/10 12:00 AM	178.1	Low Fat	157.6	20.5
+Kyler	M	5/2/10 12:00 AM	239.5	Six small meals	227	12.5
+Kylie	F	12/29/10 12:00 AM	187.3	No change (control)	179.3	8
+Kyra	F	4/8/10 12:00 AM	107.7	Increase Exercise	82.3	25.4
+Lacey	F	5/24/10 12:00 AM	138.8	No change (control)	134.3	4.5
+Lacy	F	12/31/10 12:00 AM	173.8	Low Carb	141.3	32.5
+Ladarius	M	12/12/09 12:00 AM	268.7	No change (control)	265.3	3.4
+Lakeisha	F	1/2/10 12:00 AM	154.7	Six small meals	134.7	20
+Lamar	M	3/5/10 12:00 AM	310.2	Increase Exercise	284.1	26.1
+Lamont	M	3/27/10 12:00 AM	332.4	Increase Exercise	327	5.4
+Lana	F	2/22/11 12:00 AM	168.8	No change (control)	141.8	27
+Lance	M	7/4/10 12:00 AM	287	Increase Exercise	270.6	16.4
+Landon	M	3/10/10 12:00 AM	243.1	No change (control)	223.7	19.4
+Lane	M	11/3/10 12:00 AM	269.9	Six small meals	255.2	14.7
+Lara	F	9/22/10 12:00 AM	131.4	Low Fat	130.4	1
+Larissa	F	6/30/10 12:00 AM	184	Increase Exercise	149.5	34.5
+Larry	M	7/15/10 12:00 AM	238.5	Increase Exercise	243.5	-5
+Latasha	F	9/2/10 12:00 AM	141.5	Low Fat	139.9	1.6
+Latisha	F	11/15/10 12:00 AM	191.4	Increase Exercise	170	21.4
+Latoya	F	12/3/09 12:00 AM	139.8	No change (control)	127.9	11.9
+Laurel	F	3/11/10 12:00 AM	189.4	Low Fat	171.4	18
+Lauren	F	9/18/10 12:00 AM	136.5	Low Fat	126.8	9.7
+Laurie	F	4/25/10 12:00 AM	148.3	Increase Exercise	131.1	17.2
+Lauryn	F	8/16/10 12:00 AM	148.2	No change (control)	136.1	12.1
+Lawrence	M	4/22/10 12:00 AM	256.6	No change (control)	246.8	9.8
+Layla	F	3/6/10 12:00 AM	144.6	No change (control)	133.5	11.1
+Layne	M	10/19/10 12:00 AM	271	Increase Exercise	236.3	34.7
+Lazaro	M	1/20/10 12:00 AM	282.3	Six small meals	237.7	44.6
+Lea	F	4/1/10 12:00 AM	132.9	Increase Exercise	95.9	37
+Leah	F	2/14/11 12:00 AM	204.1	Low Fat	183.8	20.3
+Leandra	F	11/21/10 12:00 AM	172.5	Six small meals	163.5	9
+Leann	F	7/15/10 12:00 AM	156.1	Low Fat	154.1	2
+Leanna	F	9/27/10 12:00 AM	187.1	Six small meals	178.8	8.3
+Leeann	F	2/21/10 12:00 AM	149.9	Low Carb	148.8	1.1
+Legita	F	3/24/10 12:00 AM	201.2	Increase Exercise	165.6	35.6
+Leigh	F	1/11/11 12:00 AM	181.7	Low Fat	167	14.7
+Leila	F	4/15/10 12:00 AM	170.3	Six small meals	179.3	-9
+Leland	M	12/10/09 12:00 AM	292.5	Increase Exercise	286.9	5.6
+Lena	F	11/23/10 12:00 AM	137	No change (control)	130.3	6.7
+Leo	M	3/26/10 12:00 AM	306.2	Six small meals	272.4	33.8
+Leon	M	1/7/10 12:00 AM	266.5	No change (control)	260.5	6
+Leonard	M	11/22/10 12:00 AM	243.6	Six small meals	243.2	0.4
+Leonardo	M	9/26/10 12:00 AM	311.7	Low Fat	303.1	8.6
+Leonel	M	7/3/10 12:00 AM	260	Increase Exercise	214.8	45.2
+Leroy	M	1/28/10 12:00 AM	221.5	Low Carb	230.5	-9
+Lesley	F	9/3/10 12:00 AM	144.7	No change (control)	152.8	-8.1
+Leslie	M	1/8/11 12:00 AM	245.7	Six small meals	217.3	28.4
+Lesly	F	12/10/10 12:00 AM	125.6	Low Fat	114.7	10.9
+Lester	M	3/20/10 12:00 AM	275.4	Low Fat	264.7	10.7
+Leticia	F	1/3/11 12:00 AM	204.9	Increase Exercise	176.9	28
+Levi	M	11/1/10 12:00 AM	234.5	Increase Exercise	201.6	32.9
+Lewis	M	2/13/10 12:00 AM	260.9	No change (control)	233.2	27.7
+Lexi	F	5/31/10 12:00 AM	202.2	Six small meals	201.1	1.1
+Lexie	F	1/18/11 12:00 AM	197.2	Increase Exercise	158.4	38.8
+Lexus	F	1/21/11 12:00 AM	220.5	Increase Exercise	191.3	29.2
+Liam	M	4/4/10 12:00 AM	277	No change (control)	268.8	8.2
+Liana	F	2/11/11 12:00 AM	147	Six small meals	142.7	4.3
+Lidia	F	12/25/10 12:00 AM	167.6	Six small meals	153.4	14.2
+Liliana	F	10/3/10 12:00 AM	152.7	No change (control)	148.1	4.6
+Lillian	F	5/15/10 12:00 AM	204.9	Six small meals	206.2	-1.3
+Lily	F	5/21/10 12:00 AM	194	Six small meals	200.6	-6.6
+Lincoln	M	2/28/10 12:00 AM	242.4	Increase Exercise	247.3	-4.9
+Linda	F	6/17/10 12:00 AM	184.3	Increase Exercise	181.9	2.4
+Lindsay	F	4/1/10 12:00 AM	210.6	Increase Exercise	162.4	48.2
+Lindsey	F	12/5/10 12:00 AM	168.4	No change (control)	165.2	3.2
+Lionel	M	6/1/10 12:00 AM	279.7	No change (control)	279.8	-0.1
+Lisa	F	4/21/10 12:00 AM	116.8	Increase Exercise	143.3	-26.5
+Lizbeth	F	3/4/11 12:00 AM	208.1	Low Carb	173.6	34.5
+Lloyd	M	10/13/10 12:00 AM	267.1	Six small meals	248.7	18.4
+Logan	M	10/2/10 12:00 AM	278.8	No change (control)	263.7	15.1
+Lonnie	M	2/21/10 12:00 AM	333.7	No change (control)	326.6	7.1
+Loren	M	12/5/10 12:00 AM	302.3	No change (control)	298.3	4
+Lorena	F	11/30/10 12:00 AM	155.9	Low Fat	146.9	9
+Lorenza	F	7/9/10 12:00 AM	164	Low Fat	144.3	19.7
+Lorenzo	M	12/19/09 12:00 AM	282.4	Increase Exercise	255	27.4
+Lori	F	7/3/10 12:00 AM	186.2	No change (control)	185.7	0.5
+Lorraine	F	11/2/10 12:00 AM	194.7	Six small meals	184.6	10.1
+Lorry	F	3/17/10 12:00 AM	211.5	Six small meals	195.5	16
+Louie	M	2/6/11 12:00 AM	249.7	Six small meals	247.1	2.6
+Louis	M	2/2/11 12:00 AM	275.8	No change (control)	265.7	10.1
+Lourdes	F	2/2/11 12:00 AM	181.4	No change (control)	177.9	3.5
+Lucas	M	12/12/10 12:00 AM	282	Low Fat	295.7	-13.7
+Lucero	F	5/21/10 12:00 AM	173.3	Low Fat	146.2	27.1
+Lucia	F	7/28/10 12:00 AM	183.5	Low Carb	178.7	4.8
+Luciano	M	6/14/10 12:00 AM	254.5	Low Fat	237.9	16.6
+Lucy	F	11/13/10 12:00 AM	155.4	No change (control)	137.9	17.5
+Lukas	M	2/14/10 12:00 AM	235.4	No change (control)	235.6	-0.2
+Luke	M	3/30/10 12:00 AM	243.2	Increase Exercise	215.9	27.3
+Luz	F	3/4/10 12:00 AM	203.4	Low Fat	189.7	13.7
+Lydia	F	10/3/10 12:00 AM	214.5	No change (control)	202	12.5
+Lyndsey	F	1/31/11 12:00 AM	192.5	Low Fat	192.5	0
+Lynette	F	7/31/10 12:00 AM	133.9	Low Carb	130	3.9
+Lynn	F	4/19/10 12:00 AM	124.8	Six small meals	116.1	8.7
+Macey	F	2/18/10 12:00 AM	118.4	No change (control)	113.9	4.5
+Macie	F	8/11/10 12:00 AM	140	Low Carb	136	4
+Mackenzie	M	7/14/10 12:00 AM	330.6	Six small meals	307	23.6
+Mackenzy	F	12/23/09 12:00 AM	187.8	No change (control)	184.9	2.9
+Macy	F	3/7/10 12:00 AM	158.4	Increase Exercise	147.4	11
+Madalyn	F	2/4/10 12:00 AM	130.1	Low Carb	132.9	-2.8
+Maddison	F	11/2/10 12:00 AM	135.2	Six small meals	130.3	4.9
+Madeleine	F	5/12/10 12:00 AM	127.7	No change (control)	111.6	16.1
+Madeline	F	3/13/11 12:00 AM	165.9	Increase Exercise	158	7.9
+Madelyn	F	9/15/10 12:00 AM	176.8	Six small meals	164.9	11.9
+Madison	M	2/24/11 12:00 AM	246.4	No change (control)	246.2	0.2
+Maegan	F	10/16/10 12:00 AM	124.9	No change (control)	109.7	15.2
+Magdalena	F	7/2/10 12:00 AM	167.2	Six small meals	161.6	5.6
+Maggie	F	5/6/10 12:00 AM	137.3	Low Fat	135.4	1.9
+Maira	F	1/25/10 12:00 AM	213.9	Six small meals	208.3	5.6
+Makayla	F	3/28/10 12:00 AM	159.9	Six small meals	143.1	16.8
+Makenna	F	4/19/10 12:00 AM	147.4	Six small meals	122.9	24.5
+Makenzie	F	12/28/09 12:00 AM	157.9	Increase Exercise	116.8	41.1
+Malachi	M	5/19/10 12:00 AM	278.7	Six small meals	276.7	2
+Malcolm	M	3/11/11 12:00 AM	308.8	Low Carb	268.5	40.3
+Malia	F	2/11/11 12:00 AM	138.3	Six small meals	133.5	4.8
+Malik	M	3/7/10 12:00 AM	288	Increase Exercise	255.3	32.7
+Mallory	F	8/11/10 12:00 AM	168.1	Low Fat	126.2	41.9
+Mandy	F	10/25/10 12:00 AM	202.6	Six small meals	182	20.6
+Manuel	M	10/19/10 12:00 AM	295.3	Low Carb	260.3	35
+Mara	F	8/23/10 12:00 AM	204.2	Low Carb	197.3	6.9
+Maranda	F	2/7/10 12:00 AM	201	Six small meals	199.3	1.7
+Marc	M	12/22/09 12:00 AM	298.2	Increase Exercise	281.1	17.1
+Marcel	M	3/15/11 12:00 AM	315.5	Six small meals	324.9	-9.4
+Marcella	F	9/9/10 12:00 AM	181.6	No change (control)	167.1	14.5
+Marco	M	11/3/10 12:00 AM	270.1	Low Carb	255.2	14.9
+Marcos	M	4/17/10 12:00 AM	271	Six small meals	269	2
+Marcus	M	3/10/11 12:00 AM	222.4	No change (control)	220.3	2.1
+Margarita	F	2/19/10 12:00 AM	146.5	Increase Exercise	147.5	-1
+Maria	F	7/12/10 12:00 AM	187	No change (control)	186.8	0.2
+Mariah	F	4/11/10 12:00 AM	175.8	Low Carb	172.1	3.7
+Mariam	F	2/27/10 12:00 AM	143	Increase Exercise	136	7
+Mariana	F	5/1/10 12:00 AM	187.9	Low Fat	188.2	-0.3
+Maribel	F	12/16/10 12:00 AM	141.6	No change (control)	122.9	18.7
+Maricela	F	11/23/10 12:00 AM	143.5	Six small meals	121.3	22.2
+Marie	F	2/5/11 12:00 AM	202.7	Low Carb	188.2	14.5
+Mariela	F	8/23/10 12:00 AM	174.5	Low Carb	171.4	3.1
+Marilyn	F	11/21/10 12:00 AM	149.5	Increase Exercise	141.7	7.8
+Marina	F	1/19/11 12:00 AM	183.7	No change (control)	171.7	12
+Mario	M	7/14/10 12:00 AM	282.5	Increase Exercise	268.8	13.7
+Marisa	F	9/25/10 12:00 AM	120.4	No change (control)	116	4.4
+Marisela	F	8/24/10 12:00 AM	122.4	Six small meals	120.7	1.7
+Marisol	F	1/26/10 12:00 AM	142.9	Low Fat	139.4	3.5
+Marissa	F	10/16/10 12:00 AM	114.9	No change (control)	100	14.9
+Maritza	F	5/4/10 12:00 AM	183.9	Six small meals	183.9	0
+Mark	M	2/24/11 12:00 AM	237.1	Low Carb	237.2	-0.1
+Markus	M	5/14/10 12:00 AM	307.1	Low Carb	304.7	2.4
+Marlee	F	5/20/10 12:00 AM	225.7	Low Fat	223	2.7
+Marlena	F	2/17/10 12:00 AM	217.3	Increase Exercise	158.7	58.6
+Marlene	F	7/7/10 12:00 AM	167.9	Increase Exercise	151.5	16.4
+Marques	M	4/15/10 12:00 AM	304.1	Low Carb	301.4	2.7
+Marquez	M	4/2/10 12:00 AM	254.7	Six small meals	251	3.7
+Marquis	M	6/12/10 12:00 AM	292.1	Increase Exercise	287.4	4.7
+Marquise	M	2/2/11 12:00 AM	294.1	No change (control)	294.1	0
+Marshall	M	1/12/11 12:00 AM	239.9	Six small meals	224.9	15
+Martha	F	8/22/10 12:00 AM	142.9	No change (control)	141.6	1.3
+Martin	M	6/9/10 12:00 AM	315.6	Low Fat	313	2.6
+Martina	F	2/16/11 12:00 AM	169.9	No change (control)	168.3	1.6
+Marvin	M	7/21/10 12:00 AM	344.4	Low Carb	310	34.4
+Mary	F	9/29/10 12:00 AM	143.5	No change (control)	143.5	0
+Mason	M	3/20/10 12:00 AM	282.2	Six small meals	275.8	6.4
+Mateo	M	10/15/10 12:00 AM	252.6	Low Fat	252.4	0.2
+Mathew	M	12/30/10 12:00 AM	275.2	Increase Exercise	274.6	0.6
+Matthew	M	11/20/10 12:00 AM	266.6	Low Carb	250.9	15.7
+Maureen	F	10/1/10 12:00 AM	205.4	Six small meals	198	7.4
+Mauricio	M	6/2/10 12:00 AM	309.5	Low Carb	267.2	42.3
+Max	M	4/18/10 12:00 AM	257.2	Six small meals	258.9	-1.7
+Maximilian	M	10/3/10 12:00 AM	278.6	Low Fat	240.3	38.3
+Maximillia	M	4/5/10 12:00 AM	266.2	Six small meals	216.5	49.7
+Maxwell	M	1/30/10 12:00 AM	265.1	No change (control)	258.3	6.8
+Maya	F	4/7/10 12:00 AM	164.9	Low Fat	161	3.9
+Mayra	F	1/21/11 12:00 AM	186.3	Low Fat	176.1	10.2
+Mckayla	F	8/4/10 12:00 AM	166	Increase Exercise	179	-13
+Mckenna	F	11/13/10 12:00 AM	167.7	Low Carb	145.1	22.6
+Mckenzie	F	8/19/10 12:00 AM	192.7	Low Carb	192.1	0.6
+Meagan	F	2/3/11 12:00 AM	152.2	Low Carb	137.8	14.4
+Meaghan	F	2/4/10 12:00 AM	218.6	Increase Exercise	187.4	31.2
+Megan	F	9/9/10 12:00 AM	218.8	No change (control)	178.7	40.1
+Meghan	F	6/28/10 12:00 AM	185.9	Six small meals	166	19.9
+Melanie	F	12/16/09 12:00 AM	150.1	No change (control)	152.7	-2.6
+Melina	F	2/9/11 12:00 AM	125.9	Low Carb	124.9	1
+Melinda	F	12/8/09 12:00 AM	151.7	Low Carb	155.7	-4
+Melisa	F	9/18/10 12:00 AM	192.4	Increase Exercise	214.3	-21.9
+Melissa	F	5/29/10 12:00 AM	147.9	Increase Exercise	140.4	7.5
+Melody	F	10/27/10 12:00 AM	168.2	Increase Exercise	120.8	47.4
+Melvin	M	7/3/10 12:00 AM	284.5	No change (control)	289.9	-5.4
+Meranda	F	1/24/11 12:00 AM	209.7	Increase Exercise	181	28.7
+Mercedes	F	8/5/10 12:00 AM	116.7	No change (control)	111.5	5.2
+Meredith	F	10/4/10 12:00 AM	142.2	Low Fat	142	0.2
+Mia	F	12/2/10 12:00 AM	163.4	Increase Exercise	137.4	26
+Micah	M	5/16/10 12:00 AM	264.4	Six small meals	229.4	35
+Michaela	F	10/27/10 12:00 AM	111.7	No change (control)	94.5	17.2
+Micheal	M	4/13/10 12:00 AM	311.1	Increase Exercise	274.2	36.9
+Michele	F	1/15/10 12:00 AM	139.9	Six small meals	140.8	-0.9
+Michelle	F	3/14/11 12:00 AM	153.6	Increase Exercise	126.1	27.5
+Mickey	M	6/27/10 12:00 AM	296.7	Low Carb	241.1	55.6
+Miguel	M	12/26/09 12:00 AM	237	No change (control)	215.5	21.5
+Mikaela	F	1/31/11 12:00 AM	170	No change (control)	171.2	-1.2
+Mikala	F	2/8/10 12:00 AM	115.8	Low Carb	124.4	-8.6
+Mikayla	F	1/9/11 12:00 AM	135.2	Low Carb	131.5	3.7
+Mike	M	7/12/10 12:00 AM	310	Low Carb	307.2	2.8
+Mikel	M	12/2/09 12:00 AM	311	Low Fat	306.1	4.9
+Miles	M	2/10/10 12:00 AM	246.9	Low Carb	243.9	3
+Milton	M	3/6/10 12:00 AM	287.3	Increase Exercise	286	1.3
+Mindy	F	2/7/10 12:00 AM	178.7	Low Fat	178.7	0
+Miracle	F	2/5/10 12:00 AM	154.6	Low Fat	146	8.6
+Miranda	F	4/6/10 12:00 AM	136.6	Low Fat	137.2	-0.6
+Mireya	F	8/10/10 12:00 AM	164.3	Low Carb	165.5	-1.2
+Miriam	F	12/4/10 12:00 AM	132.2	Low Carb	129.4	2.8
+Misael	M	11/3/10 12:00 AM	251.5	Low Carb	248.5	3
+Misty	F	3/24/10 12:00 AM	153.5	No change (control)	137.3	16.2
+Mitchel	M	12/10/10 12:00 AM	245.6	Low Carb	235.6	10
+Mitchell	M	11/3/10 12:00 AM	297.2	Low Fat	296.2	1
+Mohamed	M	9/11/10 12:00 AM	324.3	No change (control)	297.8	26.5
+Mohammad	M	5/26/10 12:00 AM	268.3	Low Fat	267.7	0.6
+Mohammed	M	12/25/09 12:00 AM	268.8	Low Carb	259.8	9
+Moises	M	7/15/10 12:00 AM	251.1	Low Carb	243.8	7.3
+Mollie	F	7/14/10 12:00 AM	205.4	No change (control)	190.2	15.2
+Molly	F	8/31/10 12:00 AM	116.3	No change (control)	109	7.3
+Monica	F	7/22/10 12:00 AM	184.5	Six small meals	182	2.5
+Monika	F	12/9/09 12:00 AM	190.2	Increase Exercise	158.4	31.8
+Monique	F	4/7/10 12:00 AM	188.2	Low Carb	186.1	2.1
+Montana	M	10/7/10 12:00 AM	326.3	Increase Exercise	256.7	69.6
+Montanna	F	9/20/10 12:00 AM	217	No change (control)	211.7	5.3
+Morgan	M	9/17/10 12:00 AM	310.3	Low Carb	286.8	23.5
+Morgana	F	12/12/09 12:00 AM	189.2	No change (control)	173.5	15.7
+Moriah	F	5/16/10 12:00 AM	164.9	Low Fat	171.8	-6.9
+Morris	M	2/7/10 12:00 AM	280.8	Increase Exercise	246.2	34.6
+Moses	M	2/16/11 12:00 AM	301	Increase Exercise	294.1	6.9
+Moshe	M	1/11/11 12:00 AM	284.4	Low Carb	257.4	27
+Muhammad	M	4/29/10 12:00 AM	294.4	Increase Exercise	225.3	69.1
+Mya	F	9/26/10 12:00 AM	134.2	No change (control)	134.4	-0.2
+Myles	M	12/18/10 12:00 AM	263.6	No change (control)	258.1	5.5
+Myra	F	12/16/10 12:00 AM	179.5	Low Carb	179.6	-0.1
+Myranda	F	3/4/11 12:00 AM	172.6	Low Fat	159.1	13.5
+Myron	M	10/20/10 12:00 AM	298.2	Increase Exercise	246.8	51.4
+Nadia	F	12/15/10 12:00 AM	170.1	Six small meals	147.3	22.8
+Nadine	F	1/25/11 12:00 AM	115.3	Six small meals	102.6	12.7
+Najee	M	3/7/11 12:00 AM	273.1	Low Carb	234.1	39
+Nancy	F	12/8/09 12:00 AM	156.3	Low Carb	146.4	9.9
+Naomi	F	5/4/10 12:00 AM	136.4	Low Fat	133.4	3
+Natalia	F	2/3/10 12:00 AM	167.2	Low Fat	182.4	-15.2
+Natalie	F	12/5/10 12:00 AM	131.5	Low Fat	115.8	15.7
+Nataly	F	6/27/10 12:00 AM	155.8	No change (control)	142.5	13.3
+Natasha	F	5/13/10 12:00 AM	197.2	Increase Exercise	175.6	21.6
+Nathalie	F	11/15/10 12:00 AM	136.8	Low Carb	122.5	14.3
+Nathan	M	12/25/10 12:00 AM	308.3	Low Carb	271.6	36.7
+Nathanael	M	8/12/10 12:00 AM	242.3	Low Carb	228.6	13.7
+Nathaniel	M	3/30/10 12:00 AM	263.8	No change (control)	298.5	-34.7
+Nayeli	F	4/24/10 12:00 AM	143.8	Increase Exercise	140.3	3.5
+Neal	M	5/30/10 12:00 AM	249.1	Low Fat	247.5	1.6
+Neil	M	3/2/10 12:00 AM	286.2	Six small meals	270.4	15.8
+Nelson	M	12/21/09 12:00 AM	293.8	No change (control)	260.3	33.5
+Nestor	M	3/28/10 12:00 AM	248.4	Low Carb	244.2	4.2
+Nia	F	5/12/10 12:00 AM	143.9	No change (control)	119.4	24.5
+Nicholas	M	9/25/10 12:00 AM	318.9	Low Carb	303.8	15.1
+Nichole	F	4/7/10 12:00 AM	176.5	Low Fat	131	45.5
+Nicklaus	M	3/3/11 12:00 AM	310.1	Low Fat	303.4	6.7
+Nico	M	6/28/10 12:00 AM	278.4	Six small meals	211.8	66.6
+Nicolas	M	11/11/10 12:00 AM	255.2	Low Carb	223.2	32
+Nicole	F	1/2/10 12:00 AM	177.3	Increase Exercise	153.9	23.4
+Nicolette	F	4/14/10 12:00 AM	119.7	Low Carb	133.3	-13.6
+Nigel	M	12/27/10 12:00 AM	295.5	Low Fat	287.1	8.4
+Nikhil	M	12/29/09 12:00 AM	281.9	Low Carb	266.1	15.8
+Nikita	F	2/17/11 12:00 AM	176.9	Six small meals	174.7	2.2
+Nikki	F	5/21/10 12:00 AM	195.8	Six small meals	194.1	1.7
+Niko	M	3/7/11 12:00 AM	262.5	No change (control)	257.4	5.1
+Nikolas	M	4/29/10 12:00 AM	249.3	Increase Exercise	226.4	22.9
+Nikole	F	1/30/11 12:00 AM	177.4	No change (control)	173.3	4.1
+Nina	F	2/21/11 12:00 AM	121.9	Six small meals	132.4	-10.5
+Noah	M	3/23/10 12:00 AM	251.3	Low Carb	241.4	9.9
+Noe	M	10/25/10 12:00 AM	299	Increase Exercise	244.7	54.3
+Noel	F	12/23/10 12:00 AM	166.8	Low Fat	162.1	4.7
+Noelle	F	4/12/10 12:00 AM	188.3	Low Fat	165.2	23.1
+Noemi	F	11/16/10 12:00 AM	177.4	No change (control)	167.8	9.6
+Nolan	M	8/15/10 12:00 AM	276.9	No change (control)	220.5	56.4
+Nora	F	2/22/11 12:00 AM	221.1	No change (control)	219.4	1.7
+Norma	F	2/14/10 12:00 AM	199.7	Low Carb	185.1	14.6
+Norman	M	11/22/10 12:00 AM	265.4	Six small meals	254.6	10.8
+Octavia	F	6/15/10 12:00 AM	153.4	No change (control)	150.6	2.8
+Octavio	M	2/23/10 12:00 AM	242.6	Low Fat	236.5	6.1
+Olga	F	2/22/10 12:00 AM	154.6	Low Carb	133.2	21.4
+Oliver	M	1/20/10 12:00 AM	258.9	No change (control)	258.8	0.1
+Olivia	F	12/15/10 12:00 AM	155.7	Low Carb	152.9	2.8
+Omar	M	9/26/10 12:00 AM	289.8	Low Fat	286.8	3
+Omari	M	7/31/10 12:00 AM	232.8	No change (control)	217	15.8
+Orion	M	3/16/11 12:00 AM	292	Six small meals	283.5	8.5
+Orlando	M	12/19/10 12:00 AM	327.7	Six small meals	284.6	43.1
+Oscar	M	2/27/11 12:00 AM	280.7	Low Carb	289.5	-8.8
+Osvaldo	M	1/26/10 12:00 AM	231.9	Low Carb	168.4	63.5
+Otis	M	2/28/11 12:00 AM	283.9	Six small meals	267.3	16.6
+Owen	M	1/14/11 12:00 AM	267.4	Increase Exercise	225.1	42.3
+Pablo	M	12/4/10 12:00 AM	273.2	No change (control)	250.7	22.5
+Paige	F	9/17/10 12:00 AM	159.9	Increase Exercise	156.1	3.8
+Paloma	F	10/19/10 12:00 AM	110.1	Low Fat	107.7	2.4
+Pamela	F	12/6/09 12:00 AM	131.2	Low Carb	131.3	-0.1
+Paola	F	3/9/11 12:00 AM	138.5	Six small meals	142.6	-4.1
+Paris	F	11/3/10 12:00 AM	174.1	No change (control)	165.8	8.3
+Parker	M	1/15/11 12:00 AM	242.9	Six small meals	234.1	8.8
+Patrice	F	1/12/11 12:00 AM	186.8	Low Carb	178.3	8.5
+Patricia	F	1/13/10 12:00 AM	219.7	Increase Exercise	193.6	26.1
+Patrick	M	2/20/10 12:00 AM	298.9	Low Fat	295	3.9
+Paul	M	4/24/10 12:00 AM	323	Low Carb	326.6	-3.6
+Paula	F	9/10/10 12:00 AM	130.4	No change (control)	106.4	24
+Paulina	F	5/28/10 12:00 AM	149.1	Six small meals	131.6	17.5
+Pauline	F	1/18/11 12:00 AM	154.8	Six small meals	154.7	0.1
+Payona	F	2/4/11 12:00 AM	158.1	Six small meals	161.8	-3.7
+Payton	M	3/4/11 12:00 AM	256.2	Increase Exercise	226.8	29.4
+Pedro	M	12/2/10 12:00 AM	231.1	Low Carb	211.7	19.4
+Perla	F	8/30/10 12:00 AM	134.4	Low Fat	126.4	8
+Perry	M	10/13/10 12:00 AM	220.1	Low Carb	196.4	23.7
+Peter	M	2/14/11 12:00 AM	223.6	No change (control)	221.6	2
+Peter	M	11/30/10 12:00 AM	270.9	Low Carb	285.6	-14.7
+Peton	F	8/22/10 12:00 AM	181.2	No change (control)	156.8	24.4
+Peyton	M	11/5/10 12:00 AM	280	Six small meals	240.7	39.3
+Philip	M	11/12/10 12:00 AM	294.6	Increase Exercise	265.7	28.9
+Phillip	M	7/28/10 12:00 AM	215	Increase Exercise	170.6	44.4
+Phoebe	F	1/7/11 12:00 AM	197.3	Low Fat	199.2	-1.9
+Pierre	M	1/22/10 12:00 AM	309.5	Low Fat	282.9	26.6
+Preston	M	3/15/10 12:00 AM	324.1	Low Carb	284.5	39.6
+Prince	M	12/10/10 12:00 AM	275.8	Low Carb	231	44.8
+Princess	F	1/29/11 12:00 AM	148.2	Low Fat	132.7	15.5
+Quentin	M	1/19/11 12:00 AM	237.5	Six small meals	228.5	9
+Quincy	M	2/18/10 12:00 AM	299.1	Six small meals	295.2	3.9
+Quinn	M	12/21/10 12:00 AM	298.5	Increase Exercise	295.3	3.2
+Quinten	M	12/28/10 12:00 AM	301.3	No change (control)	292.6	8.7
+Quintin	M	9/12/10 12:00 AM	262.2	Low Carb	230.7	31.5
+Quinton	M	1/8/10 12:00 AM	289.9	Six small meals	288.4	1.5
+Rachael	F	10/13/10 12:00 AM	211.6	Six small meals	200.7	10.9
+Racheal	F	8/22/10 12:00 AM	134.5	Increase Exercise	132.5	2
+Rachel	F	11/8/10 12:00 AM	147.8	Increase Exercise	118	29.8
+Rachelle	F	5/30/10 12:00 AM	154.9	Six small meals	152.2	2.7
+Raekwon	M	12/7/10 12:00 AM	227.8	Increase Exercise	215.8	12
+Rafael	M	1/26/11 12:00 AM	236.1	Low Fat	233.8	2.3
+Raheem	M	1/25/11 12:00 AM	317.2	Low Fat	316.4	0.8
+Ralph	M	12/4/10 12:00 AM	321.1	Increase Exercise	265.6	55.5
+Ramon	M	1/27/11 12:00 AM	300	Increase Exercise	267.5	32.5
+Randall	M	3/6/11 12:00 AM	275.3	No change (control)	273.1	2.2
+Randi	F	9/28/10 12:00 AM	223.5	Six small meals	210.3	13.2
+Randolph	M	6/13/10 12:00 AM	277	Low Fat	273	4
+Raphael	M	12/7/09 12:00 AM	231.4	Low Fat	220.7	10.7
+Raquel	F	7/2/10 12:00 AM	167.2	Low Fat	120.1	47.1
+Rashad	M	3/10/10 12:00 AM	287.6	Low Carb	287.3	0.3
+Rashawn	M	1/17/11 12:00 AM	294.2	Low Carb	295.5	-1.3
+Rasheed	M	10/25/10 12:00 AM	291.6	Increase Exercise	279.2	12.4
+Raul	M	3/26/10 12:00 AM	304.9	Six small meals	304.1	0.8
+Raven	F	5/14/10 12:00 AM	121.6	No change (control)	109.7	11.9
+Ray	M	10/4/10 12:00 AM	288.2	Low Carb	262.5	25.7
+Raymond	M	10/6/10 12:00 AM	338.1	Increase Exercise	254.3	83.8
+Raymundo	M	9/29/10 12:00 AM	250.3	No change (control)	225.6	24.7
+Rayshawn	M	2/28/10 12:00 AM	256.9	No change (control)	252.1	4.8
+Reagan	F	8/16/10 12:00 AM	136.6	Six small meals	107.2	29.4
+Rebecca	F	11/14/10 12:00 AM	175.5	Low Fat	180.7	-5.2
+Rebekah	F	4/12/10 12:00 AM	170.2	Low Fat	144.6	25.6
+Reece	M	6/22/10 12:00 AM	214.8	Six small meals	214.5	0.3
+Reed	M	11/20/10 12:00 AM	242.6	Low Fat	227.1	15.5
+Reese	M	9/18/10 12:00 AM	281.5	Low Fat	281.1	0.4
+Regan	F	2/9/10 12:00 AM	139.2	No change (control)	128.3	10.9
+Reggie	M	12/16/09 12:00 AM	249.1	No change (control)	248.6	0.5
+Regina	F	8/1/10 12:00 AM	157.2	Increase Exercise	145.6	11.6
+Reginald	M	1/29/10 12:00 AM	330.4	Six small meals	311.1	19.3
+Reid	M	10/24/10 12:00 AM	299.2	Increase Exercise	296.5	2.7
+Reina	F	7/26/10 12:00 AM	197.5	Low Carb	188.4	9.1
+Remington	M	11/1/10 12:00 AM	327.3	Low Carb	310.5	16.8
+Renee	F	7/3/10 12:00 AM	174.8	No change (control)	175.7	-0.9
+Reuben	M	1/12/11 12:00 AM	313.9	Increase Exercise	267.9	46
+Rex	M	1/9/11 12:00 AM	267	Increase Exercise	240.3	26.7
+Rey	M	2/5/11 12:00 AM	302.5	Six small meals	283.6	18.9
+Reyna	F	2/3/11 12:00 AM	229.7	Increase Exercise	172.2	57.5
+Reynaldo	M	4/25/10 12:00 AM	261.8	No change (control)	251.5	10.3
+Reynna	F	2/5/10 12:00 AM	207.4	No change (control)	207.3	0.1
+Rhett	M	9/29/10 12:00 AM	266	Increase Exercise	277	-11
+Rhiannon	F	1/23/11 12:00 AM	136.7	Low Fat	126.3	10.4
+Rhonda	F	2/15/10 12:00 AM	139.6	Six small meals	137.4	2.2
+Ricardo	M	12/14/09 12:00 AM	295.8	Increase Exercise	304.5	-8.7
+Richard	M	3/14/11 12:00 AM	254.9	Six small meals	236.5	18.4
+Rick	M	8/4/10 12:00 AM	264.1	Low Carb	230.1	34
+Rickey	M	12/1/10 12:00 AM	270.6	Increase Exercise	243.9	26.7
+Ricky	M	2/11/11 12:00 AM	247.2	Low Carb	243.4	3.8
+Rico	M	10/8/10 12:00 AM	278.1	No change (control)	274.9	3.2
+Ridge	M	12/14/10 12:00 AM	255.5	Low Carb	251.4	4.1
+Rigoberto	M	9/26/10 12:00 AM	237.8	No change (control)	237.5	0.3
+Rikki	F	10/28/10 12:00 AM	152.5	Increase Exercise	140.1	12.4
+Riley	F	12/29/10 12:00 AM	196.1	No change (control)	187	9.1
+Ripley	M	12/7/10 12:00 AM	285.4	No change (control)	257.1	28.3
+Rita	F	12/24/09 12:00 AM	200.3	No change (control)	188.3	12
+River	M	4/4/10 12:00 AM	291.2	No change (control)	283.8	7.4
+Robbie	M	1/20/10 12:00 AM	303.9	Increase Exercise	300.2	3.7
+Robert	M	6/22/10 12:00 AM	310.3	Increase Exercise	303.2	7.1
+Roberto	M	5/12/10 12:00 AM	227.2	Low Fat	219.4	7.8
+Robin	M	7/4/10 12:00 AM	180.9	No change (control)	163.6	17.3
+Robin	M	3/2/11 12:00 AM	333.5	Increase Exercise	322.9	10.6
+Robyn	F	7/11/10 12:00 AM	161.9	Six small meals	152.5	9.4
+Rochelle	F	11/21/10 12:00 AM	139.9	Low Fat	113.4	26.5
+Rocio	F	9/18/10 12:00 AM	169.2	Six small meals	169.2	0
+Rocky	M	6/1/10 12:00 AM	255.2	No change (control)	248.9	6.3
+Roderick	M	4/3/10 12:00 AM	278.8	No change (control)	270.7	8.1
+Rodney	M	8/11/10 12:00 AM	256.2	Low Fat	255.4	0.8
+Rodrigo	M	11/22/10 12:00 AM	301.4	Low Carb	256.7	44.7
+Roger	M	11/9/10 12:00 AM	228	Six small meals	225.9	2.1
+Rohan	M	12/1/09 12:00 AM	337	Increase Exercise	319.5	17.5
+Roland	M	10/16/10 12:00 AM	277.5	Low Carb	212	65.5
+Rolando	M	11/5/10 12:00 AM	322.9	No change (control)	322.5	0.4
+Roman	M	1/25/11 12:00 AM	302.3	No change (control)	302.6	-0.3
+Romeo	M	9/11/10 12:00 AM	214.5	Increase Exercise	179.3	35.2
+Ron	M	3/14/11 12:00 AM	240.1	Six small meals	256.9	-16.8
+Ronnie	M	8/9/10 12:00 AM	257.7	Low Fat	256.3	1.4
+Rory	M	1/23/11 12:00 AM	254.7	Low Carb	254.7	0
+Rose	F	9/11/10 12:00 AM	160.9	Increase Exercise	160.1	0.8
+Rosemary	F	7/29/10 12:00 AM	170.1	Increase Exercise	157.2	12.9
+Ross	M	2/28/11 12:00 AM	283.1	No change (control)	266.7	16.4
+Roxana	F	5/18/10 12:00 AM	190.5	Increase Exercise	180	10.5
+Roxanne	F	7/30/10 12:00 AM	168.4	Six small meals	145.3	23.1
+Roy	M	2/6/11 12:00 AM	329.4	Increase Exercise	284.5	44.9
+Royce	M	10/11/10 12:00 AM	283.7	Low Fat	277.4	6.3
+Ruben	M	6/6/10 12:00 AM	291.5	Six small meals	279.8	11.7
+Ruby	F	3/7/11 12:00 AM	181.6	Low Carb	179.8	1.8
+Rudolph	M	4/6/10 12:00 AM	268	Increase Exercise	259.1	8.9
+Rudy	M	3/16/11 12:00 AM	263.4	Increase Exercise	249.3	14.1
+Russell	M	2/8/11 12:00 AM	330	Six small meals	288.1	41.9
+Ruth	F	6/23/10 12:00 AM	206.6	Six small meals	185.5	21.1
+Ryan	M	12/7/09 12:00 AM	280.5	Low Fat	260.4	20.1
+Rylee	F	6/24/10 12:00 AM	174.9	No change (control)	159.1	15.8
+Ryne	M	1/25/11 12:00 AM	232.1	Six small meals	187.7	44.4
+Sabrina	F	4/1/10 12:00 AM	145.1	No change (control)	127.6	17.5
+Sachel	M	6/26/10 12:00 AM	273.9	Increase Exercise	212.9	61
+Sade	F	12/22/10 12:00 AM	119.8	Increase Exercise	108.8	11
+Sadie	F	8/7/10 12:00 AM	142.8	No change (control)	122.1	20.7
+Sage	F	3/15/10 12:00 AM	190.2	Increase Exercise	157.2	33
+Salina	F	4/12/10 12:00 AM	181.9	Increase Exercise	155.4	26.5
+Sally	F	3/5/11 12:00 AM	184.5	Low Fat	181.1	3.4
+Salvador	M	11/8/10 12:00 AM	292.7	Six small meals	235.7	57
+Salvatore	M	1/11/10 12:00 AM	250.9	Six small meals	249	1.9
+Sam	M	12/8/10 12:00 AM	243.1	Low Fat	245.5	-2.4
+Samantha	F	10/19/10 12:00 AM	162.7	Low Carb	143.3	19.4
+Sammy	M	1/20/10 12:00 AM	244.9	Low Fat	230.7	14.2
+Samson	M	1/15/11 12:00 AM	287.5	Increase Exercise	267.1	20.4
+Samuel	M	4/25/10 12:00 AM	226.2	No change (control)	227.4	-1.2
+Sandra	F	5/12/10 12:00 AM	176.5	Low Fat	180.7	-4.2
+Sandy	F	11/20/10 12:00 AM	192.8	No change (control)	178.9	13.9
+Santiago	M	11/18/10 12:00 AM	321.5	Low Fat	321.5	0
+Santos	M	10/3/10 12:00 AM	234.5	No change (control)	224.6	9.9
+Sara	F	5/22/10 12:00 AM	168.4	Increase Exercise	164.4	4
+Sarah	F	2/18/11 12:00 AM	189.4	No change (control)	175.6	13.8
+Sarai	F	7/4/10 12:00 AM	145.8	Increase Exercise	128.6	17.2
+Sarina	F	8/13/10 12:00 AM	152.8	Low Fat	136.4	16.4
+Sasha	F	4/15/10 12:00 AM	197.1	No change (control)	206.2	-9.1
+Saul	M	3/1/11 12:00 AM	295.9	Low Fat	285	10.9
+Savanah	F	11/22/10 12:00 AM	151.8	Increase Exercise	132.6	19.2
+Savanna	F	3/10/11 12:00 AM	195.8	Six small meals	195.1	0.7
+Savannah	F	10/5/10 12:00 AM	150.8	No change (control)	136.9	13.9
+Sawyer	M	12/24/09 12:00 AM	279.7	Six small meals	275.7	4
+Scarlett	F	1/17/11 12:00 AM	152.8	Six small meals	134	18.8
+Schuyler	M	2/6/11 12:00 AM	323.2	Low Fat	291.1	32.1
+Scott	M	1/25/10 12:00 AM	223.4	Six small meals	211.2	12.2
+Sean	M	11/28/10 12:00 AM	332	Increase Exercise	299	33
+Sebastian	M	1/25/11 12:00 AM	286.4	Six small meals	285.7	0.7
+Selena	F	10/1/10 12:00 AM	141.4	Low Fat	134.9	6.5
+Selina	F	2/19/10 12:00 AM	183.5	Low Fat	168.1	15.4
+Serena	F	12/6/09 12:00 AM	183	Increase Exercise	140.9	42.1
+Sergio	M	1/15/11 12:00 AM	318.5	Low Carb	292.8	25.7
+Shaina	F	10/18/10 12:00 AM	167.8	Six small meals	161.4	6.4
+Shakira	F	3/11/10 12:00 AM	152	No change (control)	154.3	-2.3
+Shana	F	2/6/11 12:00 AM	207.7	Low Fat	173.5	34.2
+Shane	M	12/16/09 12:00 AM	288.1	Six small meals	285.5	2.6
+Shania	F	7/26/10 12:00 AM	114.6	Increase Exercise	81.5	33.1
+Shanice	F	11/18/10 12:00 AM	171.8	Low Fat	165.5	6.3
+Shaniqua	F	12/14/09 12:00 AM	164.4	Low Fat	157.4	7
+Shanna	F	6/5/10 12:00 AM	164.4	Low Fat	161.9	2.5
+Shannon	F	1/12/11 12:00 AM	199.5	No change (control)	174.9	24.6
+Shannon	M	12/28/09 12:00 AM	241.6	Low Fat	221.2	20.4
+Shantel	F	8/11/10 12:00 AM	169.7	Low Carb	154	15.7
+Shaquille	M	12/26/10 12:00 AM	295.2	No change (control)	282.8	12.4
+Sharon	F	1/1/10 12:00 AM	144	Low Fat	116.1	27.9
+Shaun	M	3/20/10 12:00 AM	264.1	Low Carb	246.8	17.3
+Shauna	F	8/5/10 12:00 AM	181.8	No change (control)	140.3	41.5
+Shawn	M	9/30/10 12:00 AM	256.2	Low Fat	235.8	20.4
+Shawna	F	12/28/09 12:00 AM	225.8	Low Carb	218.5	7.3
+Shay	M	3/9/10 12:00 AM	292.8	Six small meals	285.4	7.4
+Shayla	F	11/16/10 12:00 AM	170.1	Increase Exercise	153.6	16.5
+Shayna	F	4/21/10 12:00 AM	142.1	Low Carb	128	14.1
+Shayne	M	1/8/10 12:00 AM	233.8	No change (control)	206.2	27.6
+Shea	M	3/12/10 12:00 AM	313.3	Low Fat	296.3	17
+Sheala	F	4/23/10 12:00 AM	169.2	Low Fat	153.8	15.4
+Sheena	F	10/22/10 12:00 AM	124.1	Increase Exercise	124	0.1
+Sheila	F	6/19/10 12:00 AM	160.7	Increase Exercise	140.4	20.3
+Shelbi	F	2/11/11 12:00 AM	158.4	Low Carb	153.8	4.6
+Shelbie	F	11/10/10 12:00 AM	147.6	No change (control)	122.8	24.8
+Shelby	F	12/14/10 12:00 AM	129.8	Low Carb	115.5	14.3
+Sheldon	M	10/9/10 12:00 AM	256	Increase Exercise	255	1
+Shell	M	7/17/10 12:00 AM	267.6	No change (control)	264.2	3.4
+Shelly	F	4/26/10 12:00 AM	187.5	Low Carb	170.6	16.9
+Sherman	M	2/20/11 12:00 AM	280.9	No change (control)	280.9	0
+Sherry	F	7/31/10 12:00 AM	157	Increase Exercise	113.6	43.4
+Shirley	F	9/7/10 12:00 AM	149.7	Low Carb	138.5	11.2
+Sidney	F	1/23/10 12:00 AM	167	Low Fat	137.8	29.2
+Sidney	F	6/5/10 12:00 AM	311.8	Low Fat	309.2	2.6
+Sierra	F	12/17/09 12:00 AM	180	Six small meals	173.9	6.1
+Silas	M	1/4/10 12:00 AM	332.3	Increase Exercise	265.8	66.5
+Silvia	F	1/31/11 12:00 AM	143.1	Low Fat	140.3	2.8
+Simon	M	10/9/10 12:00 AM	261.6	Increase Exercise	260.4	1.2
+Simone	F	10/10/10 12:00 AM	183	Six small meals	175.5	7.5
+Sky	F	9/10/10 12:00 AM	169.8	Low Carb	165.1	4.7
+Skye	F	7/28/10 12:00 AM	157	No change (control)	162.4	-5.4
+Skylar	F	9/24/10 12:00 AM	145.9	No change (control)	128.6	17.3
+Skylark	M	2/23/11 12:00 AM	298.4	Increase Exercise	297.6	0.8
+Skyler	M	3/4/10 12:00 AM	258	Six small meals	259	-1
+Sofia	F	5/2/10 12:00 AM	160.8	Low Fat	140.7	20.1
+Solomon	M	5/22/10 12:00 AM	228.4	Low Fat	221.5	6.9
+Sonia	F	9/12/10 12:00 AM	148.2	Increase Exercise	117.6	30.6
+Sonya	F	1/29/11 12:00 AM	190.2	Increase Exercise	185.8	4.4
+Sophia	F	12/5/09 12:00 AM	201.3	Low Fat	186.4	14.9
+Sophie	F	12/7/10 12:00 AM	172.1	No change (control)	163.9	8.2
+Spencer	M	11/24/10 12:00 AM	300.1	Low Carb	301.8	-1.7
+Spenser	M	9/14/10 12:00 AM	218.2	Low Fat	205.5	12.7
+Stacey	F	3/8/11 12:00 AM	177	Low Carb	184.4	-7.4
+Staci	F	4/11/10 12:00 AM	147	No change (control)	145.9	1.1
+Stacie	F	7/19/10 12:00 AM	169.8	Increase Exercise	146.4	23.4
+Stacy	F	1/18/10 12:00 AM	192.3	Six small meals	185.4	6.9
+Stanley	M	8/18/10 12:00 AM	279.8	Low Carb	278.3	1.5
+Stefan	M	7/2/10 12:00 AM	337.9	Increase Exercise	295.8	42.1
+Stephan	M	12/19/10 12:00 AM	304	No change (control)	309.4	-5.4
+Stephanie	F	3/26/10 12:00 AM	128.6	Six small meals	121.7	6.9
+Stephany	F	4/27/10 12:00 AM	150.1	Low Fat	151.8	-1.7
+Stephen	M	2/21/11 12:00 AM	313	Low Fat	298.8	14.2
+Stephon	M	1/15/10 12:00 AM	277.6	No change (control)	235	42.6
+Sterling	M	8/6/10 12:00 AM	291.9	Six small meals	243.5	48.4
+Stetson	M	10/5/10 12:00 AM	305	Low Carb	304.2	0.8
+Steve	M	9/12/10 12:00 AM	237.1	No change (control)	220.5	16.6
+Steven	M	3/5/11 12:00 AM	265.8	Low Carb	238	27.8
+Stevie	F	12/31/09 12:00 AM	160.7	Increase Exercise	109	51.7
+Stewart	M	1/29/11 12:00 AM	255.7	No change (control)	243.4	12.3
+Stone	M	8/23/10 12:00 AM	293.7	Low Fat	281.6	12.1
+Storm	M	2/13/11 12:00 AM	266.7	Increase Exercise	250.5	16.2
+Stormy	F	9/1/10 12:00 AM	152.9	Low Fat	135.1	17.8
+Stuart	M	5/2/10 12:00 AM	239.9	No change (control)	226.8	13.1
+Sudan	M	11/4/10 12:00 AM	308.4	Low Fat	306.8	1.6
+Summer	F	4/26/10 12:00 AM	204.8	Increase Exercise	179.7	25.1
+Susan	F	3/8/11 12:00 AM	186.2	Low Carb	183.7	2.5
+Susana	F	4/17/10 12:00 AM	191.9	Six small meals	178.1	13.8
+Susanna	F	4/29/10 12:00 AM	154.8	Low Fat	122.9	31.9
+Suzanne	F	1/7/11 12:00 AM	159	Increase Exercise	153.4	5.6
+Sydnee	F	5/30/10 12:00 AM	183.3	Six small meals	162.8	20.5
+Sydnie	F	9/16/10 12:00 AM	142.3	Low Fat	135.9	6.4
+Syed	M	2/9/11 12:00 AM	322.4	Six small meals	305	17.4
+Sylvia	F	1/17/10 12:00 AM	193.3	No change (control)	192.4	0.9
+Tabatha	F	12/2/10 12:00 AM	194.7	Six small meals	194.4	0.3
+Tabitha	F	8/28/10 12:00 AM	232.2	Increase Exercise	155.6	76.6
+Talia	F	5/24/10 12:00 AM	126.3	No change (control)	137.3	-11
+Talon	M	12/20/09 12:00 AM	268.1	No change (control)	253.8	14.3
+Tamara	F	9/4/10 12:00 AM	207	Increase Exercise	197.8	9.2
+Tammy	F	12/27/09 12:00 AM	176.5	Increase Exercise	120.3	56.2
+Tania	F	8/8/10 12:00 AM	157.1	Low Fat	156.1	1
+Tanisha	F	8/2/10 12:00 AM	117.3	Increase Exercise	84.8	32.5
+Tanner	M	4/27/10 12:00 AM	234.2	Six small meals	216.1	18.1
+Tanya	F	3/28/10 12:00 AM	135.8	Increase Exercise	134.6	1.2
+Tara	F	6/29/10 12:00 AM	140.1	No change (control)	139.6	0.5
+Tariq	M	11/23/10 12:00 AM	243.3	Increase Exercise	244.5	-1.2
+Taryn	F	1/25/11 12:00 AM	201.1	Low Carb	188.4	12.7
+Tasha	F	1/6/10 12:00 AM	173.4	Low Carb	172.2	1.2
+Tate	M	6/19/10 12:00 AM	288.7	Increase Exercise	274	14.7
+Tatiana	F	10/1/10 12:00 AM	163.7	Six small meals	159	4.7
+Tatum	F	11/3/10 12:00 AM	186.4	Six small meals	180	6.4
+Tatyana	F	3/2/10 12:00 AM	149.3	No change (control)	138.6	10.7
+Tavon	M	12/13/09 12:00 AM	253.7	Low Fat	250.4	3.3
+Tayler	F	1/1/10 12:00 AM	180.6	Low Carb	180.4	0.2
+Taylor	M	9/6/10 12:00 AM	290.3	No change (control)	285.8	4.5
+Ted	M	3/31/10 12:00 AM	339.6	Increase Exercise	291.5	48.1
+Terence	M	12/15/09 12:00 AM	287.9	Increase Exercise	274.6	13.3
+Teresa	F	3/17/10 12:00 AM	177.3	Low Fat	194.5	-17.2
+Terra	F	12/9/09 12:00 AM	167	Six small meals	174.8	-7.8
+Terrance	M	1/27/11 12:00 AM	273.4	No change (control)	271.2	2.2
+Terrell	M	5/3/10 12:00 AM	245.6	Six small meals	217.8	27.8
+Terrence	M	9/19/10 12:00 AM	299.9	Six small meals	294.6	5.3
+Terri	F	7/12/10 12:00 AM	143.2	Low Fat	117.8	25.4
+Terry	M	8/5/10 12:00 AM	236.8	Six small meals	225.7	11.1
+Tess	F	1/16/10 12:00 AM	167.9	Increase Exercise	114	53.9
+Tessa	F	12/11/09 12:00 AM	147	Low Carb	134.3	12.7
+Tevin	M	2/5/10 12:00 AM	297	Low Fat	277.5	19.5
+Thaddeus	M	2/5/10 12:00 AM	283.6	Low Carb	240.9	42.7
+Thalia	F	4/13/10 12:00 AM	200.5	Low Fat	191.3	9.2
+Theodore	M	7/28/10 12:00 AM	301.9	No change (control)	309	-7.1
+Theresa	F	12/1/10 12:00 AM	192.6	Six small meals	192.4	0.2
+Thomas	M	10/21/10 12:00 AM	240.9	Low Fat	235.5	5.4
+Tia	F	6/7/10 12:00 AM	146.1	Low Carb	145	1.1
+Tiana	F	8/4/10 12:00 AM	207.9	Low Fat	182.2	25.7
+Tianna	F	1/27/11 12:00 AM	146.2	Low Carb	148.1	-1.9
+Tiara	F	1/9/11 12:00 AM	154.7	No change (control)	146.9	7.8
+Tiera	F	2/14/11 12:00 AM	187.7	Six small meals	184.5	3.2
+Tierra	F	8/25/10 12:00 AM	191.7	Six small meals	185.2	6.5
+Tiffani	F	1/27/11 12:00 AM	120.6	Low Carb	121.4	-0.8
+Tiffanie	F	8/15/10 12:00 AM	143.3	No change (control)	142.4	0.9
+Tiffany	F	9/3/10 12:00 AM	175	Low Fat	173.5	1.5
+Timmy	M	3/7/11 12:00 AM	333.7	Low Fat	315.2	18.5
+Timothy	M	6/13/10 12:00 AM	334.5	Increase Exercise	316	18.5
+Tina	F	5/26/10 12:00 AM	166.5	No change (control)	159.6	6.9
+Tobias	M	1/6/11 12:00 AM	259.4	Increase Exercise	306.4	-47
+Toby	M	10/27/10 12:00 AM	316.6	Low Carb	280.9	35.7
+Todd	M	1/13/10 12:00 AM	280.5	Increase Exercise	273.4	7.1
+Tom	M	5/15/10 12:00 AM	280	Low Fat	275.6	4.4
+Tomas	M	12/12/10 12:00 AM	255.3	Low Carb	246.4	8.9
+Tommy	M	9/9/10 12:00 AM	262.3	No change (control)	245.2	17.1
+Toni	F	12/31/10 12:00 AM	150.6	Low Fat	149.8	0.8
+Tonya	F	5/17/10 12:00 AM	147.9	Six small meals	108.7	39.2
+Tori	F	3/13/11 12:00 AM	156.3	Increase Exercise	137.4	18.9
+Tory	M	2/4/10 12:00 AM	283.4	Six small meals	227.3	56.1
+Trace	M	1/7/11 12:00 AM	230.1	Low Carb	198.4	31.7
+Tracey	F	11/28/10 12:00 AM	230.6	Low Fat	161.6	69
+Traci	F	3/24/10 12:00 AM	128.4	Low Carb	115.6	12.8
+Tracy	F	2/14/10 12:00 AM	189.3	No change (control)	187.3	2
+Tracy	M	2/24/11 12:00 AM	291.2	Low Fat	280.4	10.8
+Trae	M	8/4/10 12:00 AM	262.9	Six small meals	259.9	3
+Travis	M	7/3/10 12:00 AM	339.1	Six small meals	319.6	19.5
+Travon	M	3/10/10 12:00 AM	243.9	Low Carb	238.6	5.3
+Tre	M	9/19/10 12:00 AM	278	No change (control)	270.9	7.1
+Trenton	M	6/22/10 12:00 AM	230.2	Six small meals	202.5	27.7
+Trever	M	6/20/10 12:00 AM	277.4	Six small meals	244.3	33.1
+Trevon	M	3/4/11 12:00 AM	291.2	No change (control)	289.1	2.1
+Trevor	M	1/21/10 12:00 AM	244.1	Six small meals	240.7	3.4
+Trey	M	8/31/10 12:00 AM	345	Increase Exercise	283.1	61.9
+Tricia	F	2/8/11 12:00 AM	132.1	Low Carb	137.3	-5.2
+Trinity	F	9/17/10 12:00 AM	200.3	Low Carb	186.4	13.9
+Trisha	F	6/22/10 12:00 AM	167	Low Fat	165.6	1.4
+Trista	F	3/16/11 12:00 AM	202.7	No change (control)	198	4.7
+Tristan	M	12/6/09 12:00 AM	293	Low Fat	284.8	8.2
+Tristen	M	10/15/10 12:00 AM	269.8	Low Carb	249.2	20.6
+Tristian	M	4/16/10 12:00 AM	301.4	Low Fat	295.1	6.3
+Tristin	M	5/13/10 12:00 AM	288.4	Low Fat	285.7	2.7
+Triston	M	12/6/09 12:00 AM	285.7	Six small meals	281.1	4.6
+Troy	M	1/22/10 12:00 AM	289.4	Increase Exercise	287.7	1.7
+Tucker	M	2/8/11 12:00 AM	315.2	Low Fat	285.7	29.5
+Ty	M	5/19/10 12:00 AM	302.4	Six small meals	296.9	5.5
+Tyesha	F	1/25/10 12:00 AM	195.4	Six small meals	175.4	20
+Tyler	M	8/20/10 12:00 AM	258.6	Six small meals	256.1	2.5
+Tyler	M	4/19/10 12:00 AM	269.8	Increase Exercise	226.9	42.9
+Tylera	F	2/21/10 12:00 AM	190.3	Increase Exercise	167.7	22.6
+Tylor	M	12/17/09 12:00 AM	332.3	Six small meals	295	37.3
+Tyquan	M	3/2/10 12:00 AM	257.6	No change (control)	233.7	23.9
+Tyra	F	11/6/10 12:00 AM	137.7	Low Fat	133.6	4.1
+Tyree	M	2/15/11 12:00 AM	291.8	Increase Exercise	291.2	0.6
+Tyrell	M	1/13/11 12:00 AM	258.6	Low Fat	243	15.6
+Tyron	M	3/5/10 12:00 AM	288.4	Low Carb	288.4	0
+Tyrone	M	4/16/10 12:00 AM	288.8	Increase Exercise	255.6	33.2
+Tyshawn	M	4/12/10 12:00 AM	305	Increase Exercise	298.6	6.4
+Tyson	M	4/28/10 12:00 AM	256.8	Low Fat	245.3	11.5
+Ulises	M	1/30/10 12:00 AM	269.2	No change (control)	259.2	10
+Ulysses	M	11/3/10 12:00 AM	243.7	Low Fat	236.1	7.6
+Unknown	M	12/31/09 12:00 AM	285.3	Increase Exercise	271.4	13.9
+Uriel	M	6/9/10 12:00 AM	279.6	Increase Exercise	253.5	26.1
+Valentin	M	1/5/10 12:00 AM	296.5	Low Carb	296.8	-0.3
+Valeria	F	12/3/10 12:00 AM	152.1	Six small meals	148.1	4
+Valerie	F	9/12/10 12:00 AM	175.9	Six small meals	160.1	15.8
+Vance	M	8/31/10 12:00 AM	251.1	Six small meals	231.1	20
+Vanesa	F	3/3/10 12:00 AM	200.1	Low Carb	187.7	12.4
+Vanessa	F	7/12/10 12:00 AM	168.9	Six small meals	165.2	3.7
+Vaughn	M	3/27/10 12:00 AM	287.5	No change (control)	278.3	9.2
+Vernon	M	4/15/10 12:00 AM	320.9	Increase Exercise	310.2	10.7
+Veronica	F	7/28/10 12:00 AM	226.8	Six small meals	156.3	70.5
+Vicente	M	5/14/10 12:00 AM	291.8	Six small meals	243.1	48.7
+Victor	M	3/21/10 12:00 AM	345.3	Low Carb	301.1	44.2
+Victoria	F	2/6/10 12:00 AM	136.6	Increase Exercise	134.4	2.2
+Vincent	M	6/14/10 12:00 AM	305.1	Low Fat	281.6	23.5
+Virginia	F	8/11/10 12:00 AM	195.5	No change (control)	181.4	14.1
+Vivian	F	11/5/10 12:00 AM	204.9	Increase Exercise	167.3	37.6
+Viviana	F	3/16/11 12:00 AM	155.8	Increase Exercise	116.1	39.7
+Wade	M	9/5/10 12:00 AM	234	Six small meals	222.8	11.2
+Walker	M	12/20/10 12:00 AM	312.9	Increase Exercise	312.5	0.4
+Walter	M	12/24/09 12:00 AM	286.6	No change (control)	287.9	-1.3
+Warren	M	2/22/11 12:00 AM	314.8	Low Carb	307.3	7.5
+Wayne	M	3/27/10 12:00 AM	308.1	Six small meals	308.3	-0.2
+Wendell	M	3/5/11 12:00 AM	292.2	Increase Exercise	292.7	-0.5
+Wendy	F	12/4/09 12:00 AM	188.9	Low Fat	180.5	8.4
+Wesley	M	1/1/11 12:00 AM	268.1	Increase Exercise	231.8	36.3
+Westley	M	4/27/10 12:00 AM	276.1	Low Fat	269.1	7
+Weston	M	8/2/10 12:00 AM	289.8	Low Fat	288.7	1.1
+Whitley	F	2/19/10 12:00 AM	201	No change (control)	190.6	10.4
+Whitney	F	2/25/10 12:00 AM	156.8	Increase Exercise	149.6	7.2
+Will	M	4/6/10 12:00 AM	262.1	No change (control)	249.1	13
+William	M	12/26/09 12:00 AM	258.3	Increase Exercise	253.1	5.2
+Willie	M	4/3/10 12:00 AM	285.3	Six small meals	270.3	15
+Wilson	M	1/5/11 12:00 AM	257.2	Six small meals	215.5	41.7
+Winston	M	3/10/10 12:00 AM	299	Increase Exercise	295.7	3.3
+Wyatt	M	1/31/11 12:00 AM	239.2	Low Fat	229.6	9.6
+Xavier	M	11/8/10 12:00 AM	256.9	No change (control)	252.8	4.1
+Xiomara	F	5/31/10 12:00 AM	186.2	Increase Exercise	156.4	29.8
+Yadira	F	2/25/11 12:00 AM	158.9	Low Fat	124.8	34.1
+Yajaira	F	2/1/11 12:00 AM	127.6	Low Carb	121	6.6
+Yaritza	F	10/20/10 12:00 AM	203.9	Six small meals	190.4	13.5
+Yasmeen	F	4/27/10 12:00 AM	145.2	Low Carb	143.5	1.7
+Yasmin	F	1/14/10 12:00 AM	123.2	Low Fat	110.9	12.3
+Yasmine	F	5/8/10 12:00 AM	172.5	Low Carb	166.1	6.4
+Yazmin	F	2/23/10 12:00 AM	135.4	Increase Exercise	133.7	1.7
+Yesenia	F	12/30/10 12:00 AM	208.2	Low Carb	176	32.2
+Yessenia	F	9/2/10 12:00 AM	144.4	Low Fat	135.8	8.6
+Yolanda	F	2/16/11 12:00 AM	181.4	Low Fat	176	5.4
+Yvette	F	1/23/11 12:00 AM	154.2	No change (control)	149.9	4.3
+Yvonne	F	5/17/10 12:00 AM	138.6	Six small meals	135.2	3.4
+Zachariah	M	10/6/10 12:00 AM	245.6	Increase Exercise	214.4	31.2
+Zachary	M	11/25/10 12:00 AM	295.9	Low Carb	297.6	-1.7
+Zachery	M	3/14/11 12:00 AM	256.1	Low Fat	257.9	-1.8
+Zackary	M	12/31/09 12:00 AM	291.3	No change (control)	289.9	1.4
+Zackery	M	12/4/10 12:00 AM	316	Increase Exercise	287.1	28.9
+Zakary	M	2/8/11 12:00 AM	314.8	Low Carb	309.1	5.7
+Zane	M	6/1/10 12:00 AM	269.7	Increase Exercise	237.2	32.5
+Zechariah	M	4/20/10 12:00 AM	259.3	Low Fat	251.6	7.7
+Zoe	F	8/5/10 12:00 AM	129.4	Low Carb	126.9	2.5
+Zoey	F	12/19/10 12:00 AM	183.6	Low Carb	183.6	0
