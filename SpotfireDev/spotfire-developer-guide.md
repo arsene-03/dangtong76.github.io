@@ -23,11 +23,13 @@
 
 <img src="./img/spotfire-download-item.png" alt="spotfire-download-item" style="zoom:100%; border:solid 1px" align="left"  />
 
+
+
 ### 1.3 개발자 SDK Template 을 이용한 프로젝트 생성
 
 - **TIB_sfire_dev_10.10.2_win\SDK\Templates** 아래의 **"TIBCO Spotfire Extension VS"**를 복사해서 Visual Studio Templates 디렉토리로 복사
 
-<img src="./img/sdk_copy.png" alt="sdk_copy" style="zoom:100%; border:solid 1px" align="left" />
+<img src="./img/sdk_copy.png" alt="sdk_copy" style="zoom:100%; border:solid 1px" align="left" /><br>
 
 - <kbd>파일</kbd> → <kbd>새로만들기</kbd>→<kbd>프로젝트</kbd> or <kbd>ctr</kbd>+<kbd>shift</kbd>+<kbd>N</kbd>
 
