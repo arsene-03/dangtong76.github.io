@@ -48,9 +48,11 @@
 
 <img src="./img/solution_exp_property.png" alt="solution_exp_property" style="zoom:100%; border:solid 1px" align="left" />
 
-**빌드** → **출력경로** : <프로젝트>\bin\debug 로 설정하되, 없으면 디렉토리를 만들어야함
+<br>**빌드** → **출력경로** : <프로젝트>\bin\debug 로 설정하되, 없으면 디렉토리를 만들어야함
 
 <img src="./img/project_property_build.png" alt="project_property_build" style="zoom:100%; border:solid 1px" align="left" />
+
+<br>
 
 #### 1.4.2 디브그 설정
 
