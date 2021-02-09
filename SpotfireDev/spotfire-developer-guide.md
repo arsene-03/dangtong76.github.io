@@ -21,7 +21,7 @@
 | Spotfire 서버 설치 바이너리 | TIB_sfire_server_10.10.3_win.zip |
 | Sptofire 확장팩 바이너리    | TIB_sfire_deploy_10.10.2.zip     |
 
-<img src="./img/spotfire-download-item.png" alt="spotfire-download-item" style="zoom:100%; border:solid 1px" align="left"  />
+<img src="./img/spotfire-download-item.png" alt="spotfire-download-item" style="zoom:80%; border:solid 1px" align="left"  />
 
 
 
@@ -29,11 +29,11 @@
 
 - **TIB_sfire_dev_10.10.2_win\SDK\Templates** 아래의 **"TIBCO Spotfire Extension VS"**를 복사해서 Visual Studio Templates 디렉토리로 복사
 
-<img src="./img/sdk_copy.png" alt="sdk_copy" style="zoom:100%; border:solid 1px" align="left" /><br>
+<img src="./img/sdk_copy.png" alt="sdk_copy" style="zoom:65%; border:solid 1px" align="left" />
 
 - <kbd>파일</kbd> → <kbd>새로만들기</kbd>→<kbd>프로젝트</kbd> or <kbd>ctr</kbd>+<kbd>shift</kbd>+<kbd>N</kbd>
 
-<img src="./img/template_project.png" alt="template_project" style="zoom:100%; border:solid 1px" align="left" />
+<img src="./img/template_project.png" alt="template_project" style="zoom:65%; border:solid 1px" align="left" />
 
 - 그림과 같이 TIBCO Spotfire Extension_VS 를 선택 하고 아래 값을 입력 한뒤 <kbd>확인</kbd> 클릭
 
@@ -48,11 +48,11 @@
 
 **솔루션 탐색기** 에서 오른쪽 마우스 버튼을 눌러 **속성** 을 선택 합니다.
 
-<img src="./img/solution_exp_property.png" alt="solution_exp_property" style="zoom:100%; border:solid 1px" align="left" />
+<img src="./img/solution_exp_property.png" alt="solution_exp_property" style="zoom:65%; border:solid 1px" align="left" />
 
 <br>**빌드** → **출력경로** : <프로젝트>\bin\debug 로 설정하되, 없으면 디렉토리를 만들어야함
 
-<img src="./img/project_property_build.png" alt="project_property_build" style="zoom:100%; border:solid 1px" align="left" />
+<img src="./img/project_property_build.png" alt="project_property_build" style="zoom:65%; border:solid 1px" align="left" />
 
 <br>
 
@@ -60,13 +60,13 @@
 
 **빌드** → **시작 외부 프로그램** : <Spotfire 실행파일 위치>
 
-<img src="./img/start_out_program.png" alt="start_out_program" style="zoom:100%; border:solid 1px" align="left" />
+<img src="./img/start_out_program.png" alt="start_out_program" style="zoom:65%; border:solid 1px" align="left" />
 
 #### 1.4.3 참조 경로 설정
 
 **참조 경로** 에 SDK 의 **Binaries** 디렉토리를 넣어줍니다.
 
-<img src="./img/reference_path.png" alt="reference_path" style="zoom:100%; border:solid 1px" align="left" />
+<img src="./img/reference_path.png" alt="reference_path" style="zoom:65%; border:solid 1px" align="left" />
 
 ### 1.5 잘못된 참조 삭제 및 신규 참조 추가
 
@@ -90,11 +90,11 @@
 | Spotfire.Dxp.Data.dll        | 데이터 DLL       |
 | Spotfire.Dxp.Framework.dll   | 프레임워크 DLL   |
 
-<img src="./img/add_reference2.png" alt="add_reference2" style="zoom:100%; border:solid 1px" align="left" />
+<img src="./img/add_reference2.png" alt="add_reference2" style="zoom:65%; border:solid 1px" align="left" />
 
 추가한후 3가지 DLL 모두를 선택 한뒤 <kbd>확인</kbd> 을 클릭 합니다.
 
-<img src="./img/reference_add_complete.png" alt="reference_add_complete" style="zoom:100%; border:solid 1px" align="left" />
+<img src="./img/reference_add_complete.png" alt="reference_add_complete" style="zoom:65%; border:solid 1px" align="left" />
 
 ### 1.6 소스 코드 작성
 

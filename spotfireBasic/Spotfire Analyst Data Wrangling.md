@@ -298,7 +298,7 @@ DataSet 폴더에서 **EPL_footBall_dataSet.csv** 파일을 로딩 합니다. EP
 
 #### 2.3.1 Pivot 변환 수행
 
-**Data Canvas** 로딩데이터와 최종 데이터 사이의  [ + ] 를 클릭 한뒤 **Add Transformation** 을 클릭 합니다. 
+EPL 리그의 클럽들의 포지션별 평균 나이를 비교 하기위해 Pivot 을 적용 해봅시다. **Data Canvas** 에서 로딩데이터와 최종 데이터 사이의  [ + ] 를 클릭 한뒤 **Add Transformation** 을 클릭 합니다. 
 
 **Transformation** 에서 <kbd>Insert</kbd>를 클릭 합니다.
 
